@@ -44,6 +44,7 @@ Deloitte offre servizi integrati per la compliance ISO 27017, combinando conosce
 
 Limite:
 Più orientata alla governance e alla compliance strategica, rispetto all’esecuzione tecnica o alla simulazione di minacce reali.
+**Limite:**
 
 ---
 
@@ -80,6 +81,7 @@ PwC unisce cybersecurity, governance e diritto IT in progetti di conformità clo
 
 Limite:
 Meno focalizzata sull’esecuzione tecnica della sicurezza cloud e sulla protezione operativa in tempo reale.
+**Limite:**
 
 ---
 
@@ -98,6 +100,7 @@ TIM offre servizi cloud certificati ISO 27017, inclusi storage, backup e gestion
 
 Limite:
 Servizi pensati per l’offerta TIM Cloud, meno indicati per ambienti multi-cloud o soluzioni personalizzate.
+**Limite:**
 
 ---
 
