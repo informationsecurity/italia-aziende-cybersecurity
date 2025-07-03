@@ -33,7 +33,7 @@ ISGroup non propone soluzioni generiche ma costruisce percorsi di compliance bas
 
 Difesa Digitale è pensata per le piccole e medie imprese che vogliono ottenere rapidamente la conformità ISO 27017 senza disporre di un reparto IT strutturato. Il suo approccio si basa su un metodo operativo esclusivo: **Individua, Correggi, Certifica**, con supporto vCISO incluso e costi trasparenti. Offre report chiari, tool di analisi preconfigurati e una guida continua anche per aziende alla prima esperienza con la compliance cloud.
 
-Limite:
+**Limite:**
 Pensata per contesti PMI, meno adatta a infrastrutture complesse o altamente regolamentate che richiedono simulazioni avanzate.
 
 ---
@@ -51,7 +51,7 @@ Più orientata alla governance e alla compliance strategica, rispetto all’esec
 
 Accenture propone soluzioni end-to-end per la compliance 27017 su cloud pubblico, privato e ibrido. Il valore aggiunto risiede nella capacità di **integrare sicurezza, business continuity e compliance** in ambienti ad alta complessità.
 
-Limite:
+**Limite:**
 Soluzioni più adatte a organizzazioni che cercano scalabilità e orchestrazione cloud globale, meno indicate per chi privilegia manualità e test custom.
 
 ---
@@ -60,7 +60,7 @@ Soluzioni più adatte a organizzazioni che cercano scalabilità e orchestrazione
 
 IBM offre assessment di sicurezza e strumenti AI-driven per supportare le aziende nella mappatura e gestione della conformità ISO 27017. I suoi servizi includono tool per auditing continuo, risk analysis e gestione degli accessi avanzata.
 
-Limite:
+**Limite:**
 La piattaforma è fortemente basata su tecnologie proprietarie IBM, il che può limitare la flessibilità con ambienti cloud eterogenei.
 
 ---
@@ -69,7 +69,7 @@ La piattaforma è fortemente basata su tecnologie proprietarie IBM, il che può 
 
 EY aiuta le organizzazioni italiane a strutturare un **ISMS conforme a ISO 27001 e 27017**, supportando audit interni, gap analysis e revisione di SLA. È ideale per settori regolamentati come sanità, banking e PA.
 
-Limite:
+**Limite:**
 Approccio più consulenziale che tecnico, con focus sulla documentazione e governance, meno indicato per test di resilienza attiva.
 
 ---
@@ -87,7 +87,7 @@ Meno focalizzata sull’esecuzione tecnica della sicurezza cloud e sulla protezi
 
 Engineering propone servizi di auditing, remediation e monitoraggio continuo, con particolare esperienza in settori pubblici e infrastrutture critiche. Il team gestisce anche l’integrazione con sistemi legacy e OT.
 
-Limite:
+**Limite:**
 Forte esperienza su contesti enterprise e PA, meno adatta per startup o aziende senza team IT interno.
 
 ---
@@ -105,7 +105,7 @@ Servizi pensati per l’offerta TIM Cloud, meno indicati per ambienti multi-clou
 
 EXEEC è un distributore internazionale specializzato in tecnologie di cybersecurity cloud-native, con servizi focalizzati su offensive security, MDR e conformità 27017. Supporta system integrator e MSSP con **soluzioni già pronte per l’adozione** e la scalabilità.
 
-Limite:
+**Limite:**
 —
 
 ---
