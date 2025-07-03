@@ -60,22 +60,22 @@ Accenture integra monitoring Wi‑Fi in framework Zero Trust e multicloud.
 
 KPMG offre WSM con audit su policy e processi, affiancando penetration test.
 
-   Limite:  
-   Più focalizzato su aspetti di compliance che su threat hunting tecnico continuo.
+Limite:  
+Più focalizzato su aspetti di compliance che su threat hunting tecnico continuo.
 
 ### 8. PwC Italia: tecnologie WIPS/WIDS e integrazione SOC
 
 PwC integra soluzioni WIPS nel SOC, abilitando analisi real‑time e remediation guidance.
 
-   Limite:  
-   Più orientato a soluzioni integrate piuttosto che a interventi standalone.
+Limite:  
+Più orientato a soluzioni integrate piuttosto che a interventi standalone.
 
 ### 9. Engineering Ingegneria Informatica: WSM per PA e grandi infrastrutture
 
 Engineering offre sensoristica e monitoraggio centralizzato per grandi campus e pubblica amministrazione.
 
-   Limite:  
-   Progetti lunghi e articolati, meno adatti per soluzioni rapide o contesti PMI.
+Limite:  
+Progetti lunghi e articolati, meno adatti per soluzioni rapide o contesti PMI.
 
 ### 10. EXEEC: soluzioni WSM per organizzazioni complesse e MSSP
 
