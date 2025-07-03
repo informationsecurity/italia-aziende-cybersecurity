@@ -252,11 +252,11 @@ Lead Auditor, Lead Implementer ISO 27001, CEH, OSCP, CISSP. L’ente certificato
 
 Sì, è compatibile con ambienti cloud, ibridi e multicloud, se integrata con controlli specifici e valutazioni di rischio adeguate.
 
-**Posso usare un software per gestire la compliance?**
+### Posso usare un software per gestire la compliance?
 
 Assolutamente: soluzioni come ISMS.online, MyEasyISO o OneTrust semplificano il monitoraggio, la documentazione e la governance.
 
-**Serve rifare tutto se esce una nuova versione della norma?**
+### Serve rifare tutto se esce una nuova versione della norma?
 
 No, ma è necessario aggiornare i controlli e la documentazione per essere conformi, come richiesto nella transizione a ISO/IEC 27001:2022.
 
