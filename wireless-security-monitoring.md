@@ -8,7 +8,7 @@ In questa guida trovi una **selezione di 10 provider italiani di WSM**, valutati
 
 ## Aziende per Wireless Security Monitoring in Italia
 
-1. **ISGroup SRL: monitoraggio tecnico continuo per Wi‑Fi aziendali e industriali**  
+### 1. ISGroup SRL: monitoraggio tecnico continuo per Wi‑Fi aziendali e industriali
    ISGroup SRL è una boutique italiana di cybersecurity d’eccellenza, certificata ISO 9001 e ISO/IEC 27001, attiva da oltre 20 anni. Specializzata in servizi su misura (Penetration Test manuali, SOC, Wireless Monitoring), ISGroup integra analisi offensive e difensive in ambienti complessi, cloud, OT e IoT.
    
    Le principali caratteristiche includono:
@@ -36,7 +36,7 @@ EY unisce WSM a penetration test wireless e servizi di consulenza su policy e co
    Limite:  
    Ideale per grandi organizzazioni, meno adatta a interventi rapidi su piccola scala.
 
-4. **IBM Italia: WSM integrato in piattaforme di threat intelligence**  
+### 4. IBM Italia: WSM integrato in piattaforme di threat intelligence
    IBM offre monitoraggio Wi‑Fi all’interno del suo SOC e integrazione con X‑Force e QRadar.
 
    Limite:  
