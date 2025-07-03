@@ -91,8 +91,7 @@ Engineering propone servizi di auditing, remediation e monitoraggio continuo, co
 
 TIM offre servizi cloud certificati ISO 27017, inclusi storage, backup e gestione degli accessi. È una scelta solida per aziende che vogliono **infrastrutture italiane conformi**, integrate in un ecosistema nazionale.
 
-Limite: Servizi pensati per l’offerta TIM Cloud, meno indicati per ambienti multi-cloud o soluzioni personalizzate.
-**Limite:**
+**Limite:** Servizi pensati per l’offerta TIM Cloud, meno indicati per ambienti multi-cloud o soluzioni personalizzate.
 
 ---
 
