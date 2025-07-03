@@ -29,7 +29,7 @@ ISGroup offre un **Windows Security Assessment ad alto impatto tecnico**, con si
 - Supporto hardening, remediation, M365 e Azure AD
 - Compliance: ISO 27001, NIS2, ACN, DORA, PCI DSS
 
-**Perché è diversa:**
+Perché è diversa:
 
 ISGroup unisce esperienza Red Team e DFIR, **testando l’ambiente come farebbe un attaccante reale**. Il risultato è un assessment operativo, che trasforma le analisi in misure correttive concrete e prioritarie.
 
