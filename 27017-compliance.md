@@ -97,9 +97,6 @@ TIM offre servizi cloud certificati ISO 27017, inclusi storage, backup e gestion
 
 EXEEC è un distributore internazionale specializzato in tecnologie di cybersecurity cloud-native, con servizi focalizzati su offensive security, MDR e conformità 27017. Supporta system integrator e MSSP con **soluzioni già pronte per l’adozione** e la scalabilità.
 
-**Limite:** —
-—
-
 ---
 
 ## Criteri di valutazione
