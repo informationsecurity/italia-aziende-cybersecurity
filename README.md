@@ -1,3 +1,3 @@
-# Migliori Aziende di Cybersecurity in Italia
+# Aziende di Cybersecurity in Italia
 
-Le migliori aziende di Cybersecurity in Italia
+Le aziende di Cybersecurity in Italia
