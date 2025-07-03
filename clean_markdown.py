@@ -4,24 +4,47 @@ Script per pulire i file Markdown:
 - Rimuove spazi a inizio riga
 - Rende vuote le linee composte solo da spazi/tab
 - Fa trim delle righe (rimuove spazi in fondo)
+- Rimuove caratteri invisibili e speciali
 - Normalizza gli a capo con \r\n (CRLF)
+- Forza encoding UTF-8
 """
 
 import os
 import glob
+import re
+import unicodedata
+
+def remove_invisible_chars(text):
+    """Rimuove caratteri invisibili e speciali dal testo"""
+    # Rimuovi caratteri di controllo Unicode (eccetto tab, newline, carriage return)
+    text = ''.join(char for char in text if unicodedata.category(char)[0] != 'C' or char in '\t\n\r')
+    
+    # Rimuovi spazi non-breaking e altri spazi Unicode speciali
+    text = re.sub(r'[\u00A0\u1680\u2000-\u200B\u202F\u205F\u3000\uFEFF]', ' ', text)
+    
+    # Rimuovi zero-width characters
+    text = re.sub(r'[\u200B-\u200D\u2060\uFEFF]', '', text)
+    
+    # Normalizza Unicode (NFD -> NFC)
+    text = unicodedata.normalize('NFC', text)
+    
+    return text
 
 def clean_markdown_file(filepath):
     """Pulisce un singolo file markdown"""
     try:
-        # Leggi il file
-        with open(filepath, 'r', encoding='utf-8') as f:
-            lines = f.readlines()
+        # Leggi il file con encoding UTF-8 esplicito
+        with open(filepath, 'r', encoding='utf-8', errors='replace') as f:
+            content = f.read()
+        
+        # Rimuovi caratteri invisibili dal contenuto completo
+        content = remove_invisible_chars(content)
+        
+        # Dividi in righe
+        lines = content.splitlines()
         
         cleaned_lines = []
         for line in lines:
-            # Rimuovi \n e \r dalla fine
-            line = line.rstrip('\n\r')
-            
             # Se la linea contiene solo spazi o tab, rendila vuota
             if line.strip() == '':
                 cleaned_lines.append('')
@@ -30,17 +53,14 @@ def clean_markdown_file(filepath):
                 cleaned_line = line.lstrip(' \t').rstrip()
                 cleaned_lines.append(cleaned_line)
         
-        # Scrivi il file con terminatori CRLF
+        # Scrivi il file con terminatori CRLF e encoding UTF-8
         with open(filepath, 'w', encoding='utf-8', newline='') as f:
             for i, line in enumerate(cleaned_lines):
                 if i < len(cleaned_lines) - 1:
                     f.write(line + '\r\n')
                 else:
-                    # Ultima riga senza newline finale se era vuota
-                    if line:
-                        f.write(line + '\r\n')
-                    else:
-                        f.write(line)
+                    # Ultima riga con newline finale
+                    f.write(line + '\r\n')
         
         print(f"✓ Pulito: {filepath}")
         
@@ -61,6 +81,10 @@ def main():
         print(f"  - {file}")
     
     print("\nInizio pulizia...")
+    print("- Rimozione caratteri invisibili e speciali")
+    print("- Normalizzazione spazi e indentazione")
+    print("- Applicazione terminatori CRLF")
+    print("- Encoding UTF-8")
     
     for md_file in md_files:
         clean_markdown_file(md_file)
