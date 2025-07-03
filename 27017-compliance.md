@@ -113,31 +113,41 @@ EXEEC è un distributore internazionale specializzato in tecnologie di cybersecu
 ## Domande frequenti (FAQ)
 
 **Cos'è la 27017 Compliance?**
+
 È la conformità allo standard ISO/IEC 27017, che definisce controlli di sicurezza specifici per i servizi cloud.
 
 **Quando e perché è necessaria?**
+
 È cruciale per proteggere dati nel cloud, ridurre i rischi e rispettare normative come GDPR, DORA e NIS2.
 
 **Qual è il costo medio per ottenere la conformità?**
+
 Dipende dalla dimensione, dal livello di maturità e dal provider scelto. Le boutique partono da 6.000€, i big player superano i 20.000€.
 
 **Come si sceglie il fornitore giusto?**
+
 Valuta esperienza cloud, certificazioni, approccio (tailor-made o standard), referenze e supporto offerto.
 
 **Quali certificazioni sono importanti?**
+
 ISO/IEC 27001, 27017, SOC 2, CISSP, OSCP, CEH.
 
 **Che differenza c’è tra ISO 27001 e ISO 27017?**
+
 27001 è uno standard generale per la sicurezza delle informazioni; 27017 si applica specificamente ai servizi cloud.
 
 **Quali provider cloud sono compatibili con ISO 27017?**
+
 AWS, Azure, GCP, IBM Cloud e Oracle Cloud hanno certificazioni o dichiarazioni di conformità ISO/IEC 27017.
 
 **Posso certificarmi anche se uso più provider?**
+
 Sì, ma serve una strategia multi-cloud con governance unificata e controllo dei rischi.
 
 **Serve il supporto di un vCISO?**
+
 È consigliabile per le PMI o le aziende senza team interno esperto in normative e sicurezza cloud.
 
 **ISGroup è adatta anche a startup?**
+
 Sì, in particolare per startup con esigenze di sicurezza elevate (fintech, healthtech, SaaS cloud-native).
