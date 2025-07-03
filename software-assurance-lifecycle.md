@@ -104,22 +104,20 @@ EXEEC propone componenti white-label e integrazione sicurezza per software gesti
 
 ## Domande frequenti (FAQ)
 
-**Cos’è il Software Assurance Lifecycle?**  
+**Cos’è il Software Assurance Lifecycle?**
 Un insieme di attività, processi e strumenti per garantire che il software sia sicuro durante tutto il suo ciclo di vita, dalla progettazione alla dismissione.
 
-**ISGroup lavora anche su software legacy?**  
+**ISGroup lavora anche su software legacy?**
 Sì. Esegue code review su software esistente, analisi reverse e validazione per compliance.
 
-**È utile per NIS2, ACN, DORA?**  
+**È utile per NIS2, ACN, DORA?**
 Sì. SAL è fondamentale per gestire rischio software, supply chain e conformità tecnica.
 
-**Quanto costa un progetto SAL?**  
+**Quanto costa un progetto SAL?**
 Da ~7.000€ a oltre 30.000€, a seconda del numero di componenti, linguaggi, ambienti e criticità.
 
-**Offrite supporto anche per sviluppatori interni?**  
+**Offrite supporto anche per sviluppatori interni?**
 Sì. Training, remediation collaborativa, threat modeling e supporto allo shift-left.
 
-**ISGroup fornisce anche tooling?**  
+**ISGroup fornisce anche tooling?**
 Sì. Configura tool open source e commerciali, oltre a eseguire analisi manuali approfondite.
-
-

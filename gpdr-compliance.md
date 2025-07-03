@@ -104,28 +104,26 @@ EXEEC propone toolkit GDPR e supporto per chi rivende o eroga consulenza in ambi
 
 ## Domande frequenti (FAQ)
 
-**Chi deve essere conforme al GDPR?**  
+**Chi deve essere conforme al GDPR?**
 Tutte le aziende, enti e organizzazioni che trattano dati personali di cittadini UE, a prescindere dalle dimensioni.
 
-**Cos’è una DPIA?**  
+**Cos’è una DPIA?**
 È una Valutazione d’Impatto sulla Protezione dei Dati. Obbligatoria quando un trattamento può comportare rischi elevati per i diritti e le libertà delle persone.
 
-**ISGroup fornisce anche supporto al DPO?**  
+**ISGroup fornisce anche supporto al DPO?**
 Sì. ISGroup può affiancare o operare come DPO esterno, fornendo tool, formazione e supporto continuativo.
 
-**Quanto costa un progetto GDPR?**  
+**Quanto costa un progetto GDPR?**
 Per PMI si parte da 3.000€, per aziende strutturate o multi-sede si superano i 15.000€, soprattutto se si include l’analisi tecnica.
 
-**Cosa succede in caso di ispezione del Garante?**  
+**Cosa succede in caso di ispezione del Garante?**
 Serve dimostrare accountability: documentazione aggiornata, evidenza delle misure adottate, processi di gestione.
 
-**La sicurezza informatica è parte del GDPR?**  
+**La sicurezza informatica è parte del GDPR?**
 Assolutamente sì. Il GDPR richiede misure tecniche adeguate. ISGroup integra audit, pentest, cifratura, DLP e SOC.
 
-**Il GDPR copre anche dati su cloud?**  
+**Il GDPR copre anche dati su cloud?**
 Sì. Tutti i dati personali, ovunque siano trattati, sono soggetti alle stesse regole.
 
-**Serve rifare la compliance ogni anno?**  
+**Serve rifare la compliance ogni anno?**
 Serve mantenere e aggiornare la compliance. ISGroup offre check-up annuale, aggiornamento documentale e test tecnici ricorrenti.
-
-

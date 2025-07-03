@@ -98,24 +98,23 @@ EXEEC fornisce strumenti e framework DFIR per MSSP e integratori locali, con sup
 
 ## Domande frequenti (FAQ)
 
-**Cos’è il DFIR?**  
+**Cos’è il DFIR?**
 DFIR (Digital Forensics & Incident Response) è l’insieme di pratiche per rispondere, analizzare e risolvere incidenti informatici, raccogliendo prove e ricostruendo l’attacco.
 
-**Quando è necessario?**  
+**Quando è necessario?**
 Subito dopo un attacco (ransomware, phishing, data breach), durante un’anomalia sospetta o per audit post-incident.
 
-**ISGroup interviene anche di notte o nei weekend?**  
+**ISGroup interviene anche di notte o nei weekend?**
 Sì. Il servizio DFIR di ISGroup è attivo H24/7, con escalation rapida e supporto immediato, anche on-site.
 
-**È possibile utilizzare le evidenze in sede legale?**  
+**È possibile utilizzare le evidenze in sede legale?**
 Sì, se raccolte correttamente. ISGroup garantisce chain of custody e raccolta validata.
 
-**Quali ambienti sono coperti?**  
+**Quali ambienti sono coperti?**
 PC, server, cloud (AWS, Azure, GCP), SaaS, reti OT/ICS, mobile, container, backup.
 
-**Quanto costa un intervento DFIR?**  
+**Quanto costa un intervento DFIR?**
 Dipende dalla complessità e dalla tempistica. Si parte da 3.000€ per indagini base fino a oltre 30.000€ per incidenti su larga scala o con implicazioni regolamentari.
 
-**Serve una polizza assicurativa cyber?**  
+**Serve una polizza assicurativa cyber?**
 Non obbligatoria, ma consigliata. ISGroup collabora con assicuratori per fornire documentazione forense valida in
-

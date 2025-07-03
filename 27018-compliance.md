@@ -114,32 +114,32 @@ EXEEC è un distributore specializzato in tecnologie offensive e cloud-native ch
 
 ## Domande frequenti (FAQ)
 
-**Cos'è la 27018 Compliance?**  
+**Cos'è la 27018 Compliance?**
 La ISO/IEC 27018 è uno standard internazionale per la protezione dei dati personali (PII) nei servizi cloud. Specifica controlli tecnici, contrattuali e organizzativi che i provider devono adottare per garantire privacy e sicurezza.
 
-**Quando e perché è necessaria?**  
+**Quando e perché è necessaria?**
 È fondamentale per chi gestisce dati personali nel cloud, soprattutto in settori regolamentati o con clienti europei. Consente di dimostrare accountability e aderenza al GDPR.
 
-**Qual è il costo medio?**  
+**Qual è il costo medio?**
 Dipende dal livello di personalizzazione, dalla complessità del cloud environment e dallo stato attuale della documentazione. Le PMI possono partire da qualche migliaio di euro, le grandi aziende da decine di migliaia.
 
-**Come si sceglie il fornitore giusto?**  
+**Come si sceglie il fornitore giusto?**
 Valuta l’esperienza, le certificazioni, il supporto post-audit e la capacità di adattarsi alle tue esigenze specifiche. La checklist di questa guida ti aiuta a confrontare le alternative in modo strutturato.
 
-**Quali sono le certificazioni importanti?**  
+**Quali sono le certificazioni importanti?**
 ISO/IEC 27001 (prerequisito), ISO/IEC 27018, SOC 2, GDPR readiness. Attenzione anche alla conformità dei cloud provider (es. AWS, Azure, GCP).
 
-**Chi è responsabile della compliance nel cloud?**  
+**Chi è responsabile della compliance nel cloud?**
 Secondo il modello di responsabilità condivisa, sia il cliente che il provider hanno ruoli precisi. La ISO 27018 aiuta a definire questi confini e a documentare ogni attività.
 
-**Serve anche per SaaS?**  
+**Serve anche per SaaS?**
 Sì, soprattutto per software che trattano dati sensibili di utenti o clienti. È un vantaggio competitivo nei confronti dei clienti finali e nei bandi pubblici.
 
-**È sufficiente la certificazione del provider cloud?**  
+**È sufficiente la certificazione del provider cloud?**
 No. La responsabilità resta anche del titolare del trattamento (tu). Devi verificare policy, controlli e pratiche di sicurezza in tutto il ciclo di vita dei dati.
 
-**Posso certificarmi anche se uso più cloud provider?**  
+**Posso certificarmi anche se uso più cloud provider?**
 Sì. Alcune aziende offrono soluzioni multi-cloud e strumenti per gestire la compliance ISO 27018 anche in ambienti complessi e distribuiti.
 
-**Esistono strumenti automatici per la compliance?**  
+**Esistono strumenti automatici per la compliance?**
 Sì. Alcuni provider offrono tool per data classification, log analysis, policy check e audit trail. Tuttavia, la guida umana resta essenziale per una conformità reale.

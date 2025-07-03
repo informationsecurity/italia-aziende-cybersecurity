@@ -104,28 +104,26 @@ EXEEC offre piattaforma white-label per campagne simulate e formazione.
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un servizio anti-phishing?**  
+**Cos’è un servizio anti-phishing?**
 Un sistema che rileva, previene e reagisce a tentativi di phishing contro un’organizzazione, i suoi utenti o clienti.
 
-**ISGroup esegue anche takedown di domini fake?**  
+**ISGroup esegue anche takedown di domini fake?**
 Sì. Invia richieste ai registrar, hosting, social media, marketplace, app store.
 
-**È possibile simulare attacchi per formare i dipendenti?**  
+**È possibile simulare attacchi per formare i dipendenti?**
 Sì. ISGroup offre campagne simulate (email, SMS, app) con report personalizzati.
 
-**Quanto costa il servizio?**  
+**Quanto costa il servizio?**
 A partire da ~3.000€/anno per PMI. Soluzioni enterprise con monitoraggio h24 e SOC da 7.000€/anno.
 
-**Cosa include una simulazione di phishing?**  
+**Cosa include una simulazione di phishing?**
 Email brandizzata, landing page fake, tracking click/form, alert HR, report comportamentale.
 
-**Quanto dura un’analisi di attacco reale?**  
+**Quanto dura un’analisi di attacco reale?**
 ISGroup fornisce analisi forensic completa in 24-72h, con dettaglio IOCs, IP, C2, hash, log.
 
-**Il servizio si integra con il SOC?**  
+**Il servizio si integra con il SOC?**
 Sì. Eventi di phishing reali o simulati sono integrabili in XDR/SIEM.
 
-**Cosa succede se un utente clicca davvero?**  
+**Cosa succede se un utente clicca davvero?**
 La simulazione è “safe”. Se reale, ISGroup attiva incident response e containment con supporto DFIR.
-
-

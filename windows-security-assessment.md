@@ -49,19 +49,17 @@ ISGroup unisce esperienza Red Team e DFIR, **testando l’ambiente come farebbe 
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Windows Security Assessment?**  
+**Cos’è un Windows Security Assessment?**
 È una valutazione approfondita della sicurezza di ambienti Windows, AD, M365, finalizzata a individuare vulnerabilità reali e ridurre la superficie d’attacco.
 
-**ISGroup simula anche attacchi reali?**  
+**ISGroup simula anche attacchi reali?**
 Sì. Utilizza tecniche di Red Teaming per identificare escalation, persistence e movimenti laterali.
 
-**È utile per la compliance?**  
+**È utile per la compliance?**
 Sì. Fornisce evidenze tecniche e roadmap per ISO 27001, NIS2, ACN, DORA, PCI DSS.
 
-**Quanto costa?**  
+**Quanto costa?**
 Da ~4.000€ a oltre 15.000€, in base alla complessità e dimensione del dominio.
 
-**Quanto dura l’assessment?**  
+**Quanto dura l’assessment?**
 Da 5 a 10 giorni, con sessioni tecniche, debriefing e supporto post-remediation.
-
-

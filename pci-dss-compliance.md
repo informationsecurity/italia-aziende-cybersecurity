@@ -98,28 +98,26 @@ EXEEC fornisce tool e metodologie PCI per partner MSSP che seguono clienti e-com
 
 ## Domande frequenti (FAQ)
 
-**Chi è obbligato alla compliance PCI DSS?**  
+**Chi è obbligato alla compliance PCI DSS?**
 Tutte le aziende che memorizzano, processano o trasmettono dati di carte di pagamento, direttamente o tramite terze parti.
 
-**ISGroup è un QSA?**  
+**ISGroup è un QSA?**
 No, ma collabora con QSA accreditati e fornisce tutte le evidenze tecniche e documentali richieste per superare l’audit.
 
-**Fornite anche test richiesti da PCI (PT, VA)?**  
+**Fornite anche test richiesti da PCI (PT, VA)?**
 Sì. ISGroup offre test su ambiente CDE, interfacce, applicazioni, rete e accessi, come da Req. 11.3 e 11.4.
 
-**Quanto costa un progetto PCI DSS?**  
+**Quanto costa un progetto PCI DSS?**
 Da 6.000€ per ambienti semplici a oltre 25.000€ per ambienti distribuiti, cloud o containerizzati.
 
-**Quanto tempo serve per diventare compliant?**  
+**Quanto tempo serve per diventare compliant?**
 Da 2 a 4 mesi, in base alla maturità, infrastruttura e gap rilevati.
 
-**Il servizio copre anche logging e segmentazione?**  
+**Il servizio copre anche logging e segmentazione?**
 Sì. ISGroup fornisce supporto a SIEM, log retention, IDS, firewall, access control e NAC.
 
-**Serve rifare l’audit ogni anno?**  
+**Serve rifare l’audit ogni anno?**
 Sì. PCI DSS richiede validazione annuale e scan trimestrali da ASV.
 
-**Supportate DevOps e ambienti cloud?**  
+**Supportate DevOps e ambienti cloud?**
 Sì. ISGroup ha esperienza in ambienti container, CI/CD, AWS, Azure, GCP, ibridi.
-
-

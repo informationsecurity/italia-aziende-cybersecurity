@@ -96,28 +96,26 @@ Soluzione per chi eroga VA a clienti finali: tool, documentazione, supporto per 
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Vulnerability Assessment?**  
+**Cos’è un Vulnerability Assessment?**
 Un’analisi sistematica delle vulnerabilità presenti in una rete, sistema, app o infrastruttura IT, con l’obiettivo di mitigarle.
 
-**Che differenza c’è con un Penetration Test?**  
+**Che differenza c’è con un Penetration Test?**
 Il VA identifica vulnerabilità. Il PT le sfrutta per simulare un attacco. ISGroup offre entrambi.
 
-**Serve un laboratorio accreditato per fare VA?**  
+**Serve un laboratorio accreditato per fare VA?**
 Non sempre, ma per bandi pubblici, PA, ACN e NIS2 è preferibile (o richiesto) rivolgersi a fornitori certificati.
 
-**ISGroup è un laboratorio accreditato?**  
+**ISGroup è un laboratorio accreditato?**
 ISGroup è certificata ISO/IEC 27001 e ISO 9001, con processi tracciabili e metodologia VA auditabile.
 
-**Quanto costa un Vulnerability Assessment?**  
+**Quanto costa un Vulnerability Assessment?**
 Dipende da target, ampiezza e profondità. Da 2.000€ per test limitati a oltre 10.000€ per ambienti multi-cloud o regolamentati.
 
-**Quanto dura?**  
+**Quanto dura?**
 Da 1 a 4 settimane in base alla dimensione dell’ambiente.
 
-**Il report è valido per audit ISO o ACN?**  
+**Il report è valido per audit ISO o ACN?**
 Sì. Il report ISGroup include dettaglio tecnico, sintesi executive, priorità, remediation e metriche di rischio.
 
-**Il VA va rifatto ogni anno?**  
+**Il VA va rifatto ogni anno?**
 Sì, o ad ogni variazione significativa dell’infrastruttura. ISGroup offre VA ricorrente con pricing flessibile.
-
-

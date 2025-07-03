@@ -97,28 +97,26 @@ EXEEC fornisce tecnologia di mobile testing per MSSP, system integrator e studi 
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Mobile Application Security Test?**  
+**Cos’è un Mobile Application Security Test?**
 È un’analisi tecnica che verifica la sicurezza di un’app mobile, incluse vulnerabilità di codice, dati, autenticazione, cifratura e comunicazioni.
 
-**ISGroup testa anche le API collegate all’app?**  
+**ISGroup testa anche le API collegate all’app?**
 Sì. L’approccio è end-to-end: app, API, backend, sessioni, identità e cloud.
 
-**Il test è compatibile con MASVS e OWASP?**  
+**Il test è compatibile con MASVS e OWASP?**
 Sì. Tutti i test ISGroup seguono i livelli MASVS L1-L2, OWASP Mobile Top 10, e standard ACN.
 
-**Quanto costa un test su un’app?**  
+**Quanto costa un test su un’app?**
 Tra 3.500€ e 12.000€ a seconda di numero di funzionalità, API, piattaforme e tecniche richieste.
 
-**Il test è invasivo? Può causare malfunzionamenti?**  
+**Il test è invasivo? Può causare malfunzionamenti?**
 No. Tutte le attività sono simulate in ambiente di test controllato. Possibilità di operare su build apposite (test build).
 
-**Quanto dura?**  
+**Quanto dura?**
 Da 1 a 3 settimane in base a profondità, feature, backend e API.
 
-**Il report può essere usato per audit GDPR o PCI?**  
+**Il report può essere usato per audit GDPR o PCI?**
 Sì. Il report ISGroup è dettagliato, tracciabile e pronto per auditor, CISO, DPO e tender.
 
-**Offrite anche retesting post-patch?**  
+**Offrite anche retesting post-patch?**
 Sì. È incluso gratuitamente entro 30 giorni dal test, su issue critiche.
-
-

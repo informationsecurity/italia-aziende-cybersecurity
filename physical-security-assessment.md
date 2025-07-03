@@ -97,28 +97,26 @@ CINECA verifica sicurezza fisica in sedi universitarie, HPC, archivi e laborator
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Physical Security Assessment?**  
+**Cos’è un Physical Security Assessment?**
 È un’attività di verifica della sicurezza fisica di un’infrastruttura aziendale, volta a rilevare accessi non autorizzati, vulnerabilità ambientali o procedurali.
 
-**ISGroup entra davvero fisicamente?**  
+**ISGroup entra davvero fisicamente?**
 Sì. Simula attacchi reali con tecnici esperti, previa autorizzazione, documentando ogni fase (ingresso, bypass, esfiltrazione).
 
-**Quanto costa un test fisico?**  
+**Quanto costa un test fisico?**
 A partire da ~4.000€, con scenari multipli, evidenze, simulazioni. Progetti custom fino a 15.000€.
 
-**Quanto dura?**  
+**Quanto dura?**
 Da 1 a 5 giorni onsite, più reporting.
 
-**Serve per ISO/IEC 27001?**  
+**Serve per ISO/IEC 27001?**
 Sì. Verifica controlli fisici (A.9.1, A.11.1, A.11.2) richiesti da standard ISO e framework ACN.
 
-**E se si scopre una vulnerabilità grave?**  
+**E se si scopre una vulnerabilità grave?**
 ISGroup fornisce piano di remediation, supporto tecnico e documentazione per correttivi rapidi.
 
-**Si può simulare un attacco insider?**  
+**Si può simulare un attacco insider?**
 Sì. ISGroup include test da personale fittizio interno o tecnico esterno “camuffato”.
 
-**Il servizio è replicabile?**  
+**Il servizio è replicabile?**
 Sì. Consigliato ogni 12 mesi o dopo cambio sedi, appalti, riorganizzazioni.
-
-

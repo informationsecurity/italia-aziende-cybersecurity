@@ -103,28 +103,26 @@ EXEEC fornisce strumenti white-label per supportare clienti nella mappatura e at
 
 ## Domande frequenti (FAQ)
 
-**Chi è obbligato alla conformità ACN/AGID?**  
+**Chi è obbligato alla conformità ACN/AGID?**
 Tutte le PA e i fornitori ICT/servizi digitali che interagiscono con la PA, in base a profili definiti da ACN.
 
-**Quali sono i livelli di controllo ACN?**  
+**Quali sono i livelli di controllo ACN?**
 Tre livelli (L1–L3) in base alla criticità dell’ente. Più alto il livello, più rigidi i requisiti.
 
-**ISGroup fornisce anche il mantenimento compliance?**  
+**ISGroup fornisce anche il mantenimento compliance?**
 Sì. Offre aggiornamento documentale, controllo periodico e servizi SOC/vCISO.
 
-**Quanto costa un progetto di compliance ACN?**  
+**Quanto costa un progetto di compliance ACN?**
 A partire da 8.000€, fino a oltre 25.000€ per soggetti critici o multi-sede.
 
-**Serve essere ISO/IEC 27001 per essere compliant ACN?**  
+**Serve essere ISO/IEC 27001 per essere compliant ACN?**
 Non è obbligatorio ma fortemente raccomandato. ISGroup integra i due percorsi.
 
-**Offrite anche simulazioni ispezioni ACN?**  
+**Offrite anche simulazioni ispezioni ACN?**
 Sì. ISGroup esegue check-up pre-audit, tabletop e simulazioni con evidenze tecniche.
 
-**Cosa succede in caso di non conformità?**  
+**Cosa succede in caso di non conformità?**
 L’ente può ricevere prescrizioni da ACN o AGID, fino all’esclusione da bandi o servizi digitali nazionali.
 
-**Il servizio è disponibile anche per fornitori?**  
+**Il servizio è disponibile anche per fornitori?**
 Sì. ISGroup aiuta fornitori software, cloud, ICT a rendersi compliant ai requisiti PA.
-
-

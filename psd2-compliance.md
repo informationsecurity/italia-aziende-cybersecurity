@@ -104,28 +104,26 @@ EXEEC fornisce moduli white-label per partner che gestiscono clienti regolamenta
 
 ## Domande frequenti (FAQ)
 
-**Chi è obbligato alla conformità PSD2?**  
+**Chi è obbligato alla conformità PSD2?**
 Banche, istituti di pagamento, fintech, TPP, AISP, PISP e fornitori di servizi legati ai pagamenti elettronici.
 
-**ISGroup esegue test sulle API PSD2?**  
+**ISGroup esegue test sulle API PSD2?**
 Sì. Fuzzing, injection, token abuse, auth bypass, replay e test DoS.
 
-**Verificate anche la SCA?**  
+**Verificate anche la SCA?**
 Sì. ISGroup analizza SCA multi-device, OTP, app-to-app, challenge-response.
 
-**Quanto costa un progetto di conformità PSD2?**  
+**Quanto costa un progetto di conformità PSD2?**
 Da ~5.000€ a oltre 20.000€ in base alla complessità dell’ambiente e dei servizi in scope.
 
-**Il servizio è valido per audit di Banca d’Italia?**  
+**Il servizio è valido per audit di Banca d’Italia?**
 Sì. Include evidenze, test, documentazione e supporto su RTS/GL EBA.
 
-**È compatibile con ambienti cloud e mobile?**  
+**È compatibile con ambienti cloud e mobile?**
 Sì. ISGroup lavora con AWS, Azure, GCP, container, SDK e app mobile native.
 
-**Quanto tempo serve?**  
+**Quanto tempo serve?**
 Da 4 a 8 settimane, con possibilità di roadmap a fasi e remediation tecnica.
 
-**Il servizio è replicabile ogni anno?**  
+**Il servizio è replicabile ogni anno?**
 Sì. ISGroup propone anche mantenimento compliance e test periodici.
-
-

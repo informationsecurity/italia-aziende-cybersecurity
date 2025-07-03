@@ -103,19 +103,17 @@ EXEEC fornisce test brandizzabili per provider gestiti e integratori.
 
 ## Domande frequenti (FAQ)
 
-**Che differenza c’è tra WAPT e vulnerability scan?**  
+**Che differenza c’è tra WAPT e vulnerability scan?**
 Il WAPT è un test manuale avanzato che simula un attacco hacker reale. La vulnerability scan è automatizzata e spesso poco approfondita.
 
-**ISGroup testa anche API e logica applicativa?**  
+**ISGroup testa anche API e logica applicativa?**
 Sì. Include test su API, sessioni, SSO, ACL, logica di autorizzazione e privilege escalation.
 
-**Il WAPT è obbligatorio?**  
+**Il WAPT è obbligatorio?**
 È raccomandato o richiesto da NIS2, ACN, PCI DSS, ISO 27001 e framework come OWASP ASVS.
 
-**Quanto costa?**  
+**Quanto costa?**
 Da ~5.000€ per applicazioni semplici fino a oltre 20.000€ per ambienti complessi o ad alta esposizione.
 
-**ISGroup fornisce supporto alla correzione?**  
+**ISGroup fornisce supporto alla correzione?**
 Sì. Include call di remediation, validazione patch e training tecnico.
-
-

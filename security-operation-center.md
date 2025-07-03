@@ -101,25 +101,23 @@ CINECA protegge ambienti accademici e cluster di ricerca con servizi gestiti SOC
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un SOC-as-a-Service?**  
+**Cos’è un SOC-as-a-Service?**
 Un servizio gestito che fornisce monitoraggio continuo degli eventi di sicurezza, gestione alert, risposta a incidenti e supporto compliance.
 
-**ISGroup fornisce anche supporto incidenti?**  
+**ISGroup fornisce anche supporto incidenti?**
 Sì. Con servizio DFIR (Digital Forensics and Incident Response), supporto investigativo, legale e comunicazione.
 
-**Quanto costa un SOC?**  
+**Quanto costa un SOC?**
 Da ~1.500€/mese per PMI, fino a 15.000€/mese per ambienti complessi e regolati.
 
-**Quanto dura l’attivazione?**  
+**Quanto dura l’attivazione?**
 Da 2 a 6 settimane. ISGroup offre onboarding e tuning personalizzato.
 
-**È utile per la NIS2 o DORA?**  
+**È utile per la NIS2 o DORA?**
 Sì. SOC è richiesto per detection, response, log, evidenze e resilienza.
 
-**ISGroup offre dashboard e report?**  
+**ISGroup offre dashboard e report?**
 Sì. Dashboard CISO, SOC Manager, Executive. Include KPI e incidenti chiave.
 
-**È integrabile con ambienti DevSecOps o cloud-native?**  
+**È integrabile con ambienti DevSecOps o cloud-native?**
 Sì. SOC ISGroup supporta integrazione su AWS, Azure, CI/CD, GitLab, container, API.
-
-

@@ -104,22 +104,20 @@ EXEEC offre test white-label per operatori MSSP, compliance e ISO readiness.
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Penetration Test?**  
+**Cos’è un Penetration Test?**
 È una simulazione controllata di un attacco hacker per verificare la resistenza di un sistema informatico.
 
-**ISGroup esegue test reali o automatizzati?**  
+**ISGroup esegue test reali o automatizzati?**
 Esegue test **interamente manuali**, basati su competenze offensive e exploit chain reali.
 
-**Il report è valido per audit ISO o ACN?**  
+**Il report è valido per audit ISO o ACN?**
 Sì. Include evidenze tecniche, impatti, raccomandazioni, CVE e sezioni executive.
 
-**Quanto costa un VAPT?**  
+**Quanto costa un VAPT?**
 Da ~5.000€ a oltre 25.000€, in base a scope, asset, tipo di test e compliance richiesta.
 
-**Quanto dura un test?**  
+**Quanto dura un test?**
 Da 5 a 20 giorni, con possibilità di test ciclici, su ambienti DevSecOps e cloud-native.
 
-**ISGroup è accreditata?**  
+**ISGroup è accreditata?**
 Sì. Certificata ISO 9001, ISO/IEC 27001. Esegue test conformi OWASP, PTES, NIST, ACN.
-
-

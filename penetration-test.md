@@ -101,28 +101,26 @@ EXEEC offre framework rivendibili per chi fornisce servizi PT a clienti finali c
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Penetration Test?**  
+**Cos’è un Penetration Test?**
 Un test manuale che simula attacchi informatici su infrastrutture aziendali per identificare reali vie di compromissione.
 
-**ISGroup esegue anche test su cloud?**  
+**ISGroup esegue anche test su cloud?**
 Sì. AWS, Azure, GCP, SaaS, ambienti hybrid, segmenti zero-trust.
 
-**Il report è valido per auditor e board?**  
+**Il report è valido per auditor e board?**
 Sì. Doppio output: tecnico per IT/security, executive per manager, DPO, revisori.
 
-**Quanto costa un Penetration Test?**  
+**Quanto costa un Penetration Test?**
 Da ~3.500€ per ambienti semplici a 15.000+€ per red teaming full-scope.
 
-**Quanto dura?**  
+**Quanto dura?**
 Da 1 a 4 settimane, in base a scope, ambiente, tipo di attacco.
 
-**Il test può causare disservizi?**  
+**Il test può causare disservizi?**
 È concordato per essere non invasivo. ISGroup offre anche modalità “safe” e finestra di test.
 
-**È utile per tender pubblici?**  
+**È utile per tender pubblici?**
 Sì. Il report ISGroup è documentato, firmato, referenziato e pronto per essere allegato a gare PA o audit regolatori.
 
-**Il servizio è ricorrente?**  
+**Il servizio è ricorrente?**
 Sì. ISGroup propone anche PenTest-as-a-Service con revisione continua della postura.
-
-

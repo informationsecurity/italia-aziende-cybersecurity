@@ -96,28 +96,26 @@ TIM supporta attacchi simulati e log collection per tuning detection cloud e ibr
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Purple Team Assessment?**  
+**Cos’è un Purple Team Assessment?**
 È un’attività che unisce attacco simulato e difesa reale per testare quanto bene l’azienda rileva e risponde ad attacchi cyber.
 
-**ISGroup lavora insieme al SOC interno?**  
+**ISGroup lavora insieme al SOC interno?**
 Sì. Ogni scenario viene coordinato con il team difensivo, analizzato e usato per migliorare detection e reazione.
 
-**È utile per normative come NIS2 o ACN?**  
+**È utile per normative come NIS2 o ACN?**
 Sì. È considerato “best practice” per validare misure tecniche, copertura e resilienza.
 
-**Quanto dura un progetto?**  
+**Quanto dura un progetto?**
 Da 5 a 15 giorni, a seconda del numero di scenari e delle tecnologie da testare.
 
-**Serve avere un SOC interno?**  
+**Serve avere un SOC interno?**
 No, ma è consigliato. ISGroup può anche operare con MSSP, SOC esterni o servizi XDR.
 
-**Qual è il costo medio?**  
+**Qual è il costo medio?**
 Da ~8.000€ a 20.000€ per ambienti enterprise. Include simulazioni, analisi e workshop.
 
-**È distruttivo o impatta la produzione?**  
+**È distruttivo o impatta la produzione?**
 No. Gli attacchi sono controllati, coordinati e safe. Possono essere svolti in ambienti di staging o produzione isolata.
 
-**Il report è condivisibile con auditor o board?**  
+**Il report è condivisibile con auditor o board?**
 Sì. Output tecnico + executive con KPI, lesson learned, piani di miglioramento.
-
-

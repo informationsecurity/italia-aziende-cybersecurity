@@ -103,23 +103,22 @@ EXEEC fornisce tool e metodologie per MSSP e system integrator che offrono IoT a
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un IoT Security Assessment?**  
+**Cos’è un IoT Security Assessment?**
 È una valutazione tecnica della sicurezza dei dispositivi IoT, firmware, comunicazioni e infrastruttura connessa.
 
-**Chi dovrebbe farlo?**  
+**Chi dovrebbe farlo?**
 Chi sviluppa, produce o integra dispositivi IoT; aziende con ambienti OT/ICS; startup con smart product.
 
-**ISGroup effettua test anche su dispositivi medici?**  
+**ISGroup effettua test anche su dispositivi medici?**
 Sì. L’analisi è conforme a standard MDR, ISO 27001, e può supportare la certificazione CE.
 
-**Quanto dura un assessment?**  
+**Quanto dura un assessment?**
 Da 2 a 4 settimane in base alla complessità del device, del firmware e del backend.
 
-**È obbligatorio per legge?**  
+**È obbligatorio per legge?**
 Non ancora in generale, ma richiesto per prodotti MDR, tender pubblici, ambienti PA, e in contesti NIS2.
 
-**Quanto costa?**  
+**Quanto costa?**
 Tra 4.000€ e 25.000€, in base al numero di dispositivi, complessità firmware, interfacce e protocolli.
 
 **ISGroup include anche app mobi**
-

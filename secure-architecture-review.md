@@ -102,15 +102,14 @@ EXEEC offre servizi SAR white-label per integratori, MSSP, hosting provider.
 
 ## Domande frequenti (FAQ)
 
-**Cos’è una Secure Architecture Review?**  
+**Cos’è una Secure Architecture Review?**
 Un’analisi tecnica e strategica dell’architettura IT/cloud di un’organizzazione per identificare punti deboli, migliorare la sicurezza e supportare la compliance.
 
-**ISGroup lavora anche su ambienti cloud pubblici?**  
+**ISGroup lavora anche su ambienti cloud pubblici?**
 Sì. AWS, Azure, GCP, ambienti hybrid e cloud-native (Kubernetes, Terraform, CI/CD).
 
-**Quanto dura un progetto di SAR?**  
+**Quanto dura un progetto di SAR?**
 Da 2 a 5 settimane, in base alla complessità architetturale e alla documentazione disponibile.
 
-**Il report è valido per audit (ISO, ACN, DORA)?**  
+**Il report è valido per audit (ISO, ACN, DORA)?**
 Sì. Il report IS
-

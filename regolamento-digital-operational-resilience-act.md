@@ -102,25 +102,23 @@ EXEEC offre soluzioni white-label per chi supporta clienti nell’adeguamento te
 
 ## Domande frequenti (FAQ)
 
-**Chi è soggetto al DORA?**  
+**Chi è soggetto al DORA?**
 Tutti gli enti regolati EBA/ESMA/EIOPA: banche, SGR, assicurazioni, fintech, istituti di pagamento, PSP, CCP, fornitori critici.
 
-**ISGroup può supportare anche fornitori ICT?**  
+**ISGroup può supportare anche fornitori ICT?**
 Sì. Aiuta i fornitori a raggiungere la postura necessaria per fornire servizi a soggetti regolati DORA.
 
-**Offrite anche i test richiesti da DORA (TLPT)?**  
+**Offrite anche i test richiesti da DORA (TLPT)?**
 Sì. ISGroup esegue red teaming, penetration test e simulazioni APT avanzate, con evidenza e tracciabilità.
 
-**Quanto dura un progetto di compliance DORA?**  
+**Quanto dura un progetto di compliance DORA?**
 Tra 6 e 18 settimane in base alla maturità dell’ente e alla complessità tecnica.
 
-**Quanto costa?**  
+**Quanto costa?**
 Da ~12.000€ a oltre 40.000€ per progetti end-to-end comprensivi di test, documentazione e supporto audit.
 
-**È obbligatorio testare annualmente?**  
+**È obbligatorio testare annualmente?**
 Sì. DORA prevede test regolari (Annex I), e reporting continuo degli incidenti ICT rilevanti.
 
-**Il servizio è replicabile ogni anno?**  
+**Il servizio è replicabile ogni anno?**
 Sì. ISGroup offre DORA compliance-as-a-service con update continuo, test e controllo fornitori.
-
-

@@ -98,28 +98,26 @@ EXEEC offre pacchetti compliance NIS2 per integratori e MSSP che gestiscono ambi
 
 ## Domande frequenti (FAQ)
 
-**Chi è obbligato alla compliance NIS2?**  
+**Chi è obbligato alla compliance NIS2?**
 Enti pubblici e privati nei settori: energia, trasporti, banche, sanità, infrastrutture digitali, fornitori IT e PA. ISGroup aiuta a verificare se sei soggetto.
 
-**Quali sono le sanzioni NIS2?**  
+**Quali sono le sanzioni NIS2?**
 Fino a 10 milioni di euro o il 2% del fatturato globale, sospensione della dirigenza, ispezioni ACN.
 
-**ISGroup fornisce anche servizi gestiti (SOC, vCISO)?**  
+**ISGroup fornisce anche servizi gestiti (SOC, vCISO)?**
 Sì. Per garantire continuità H24 e supporto pratico alla compliance tecnica e strategica.
 
-**Quanto dura un progetto NIS2?**  
+**Quanto dura un progetto NIS2?**
 Da 4 a 12 settimane in base alla dimensione, maturità e urgenza. Possibilità di roadmap a fasi.
 
-**Quanto costa?**  
+**Quanto costa?**
 A partire da ~7.000€ per gap analysis e roadmap. Progetti completi da 20.000€ in su per soggetti essenziali.
 
-**ISGroup supporta anche la notifica incidenti?**  
+**ISGroup supporta anche la notifica incidenti?**
 Sì. Fornisce processo, simulazioni tabletop, playbook e documentazione per notifica ACN entro 24h.
 
-**Il progetto copre anche la supply chain?**  
+**Il progetto copre anche la supply chain?**
 Sì. ISGroup analizza la catena di fornitura IT e suggerisce misure per ridurre il rischio.
 
-**Serve rifare la compliance ogni anno?**  
+**Serve rifare la compliance ogni anno?**
 Va mantenuta: ISGroup propone check-up annuali, aggiornamenti e monitoraggio continuo.
-
-

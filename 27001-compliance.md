@@ -99,29 +99,29 @@ EXEEC è un distributore internazionale di soluzioni di cybersecurity progettate
 
 ## Domande frequenti (FAQ)
 
-**Cos'è la ISO 27001 Compliance?**  
+**Cos'è la ISO 27001 Compliance?**
 È l’aderenza allo standard internazionale per la gestione della sicurezza delle informazioni (ISMS), che definisce requisiti, controlli e politiche per proteggere i dati aziendali.
 
-**Quando e perché è necessaria?**  
+**Quando e perché è necessaria?**
 È fondamentale per proteggere asset critici, ottenere fiducia da clienti e partner e rispettare normative come GDPR, NIS2, DORA. È spesso richiesta nei bandi pubblici o contratti con grandi aziende.
 
-**Qual è il costo medio per la certificazione ISO 27001?**  
+**Qual è il costo medio per la certificazione ISO 27001?**
 Varia da 5.000€ a oltre 50.000€, in base a dimensione, complessità e approccio (interno/esterno). Per le PMI, esistono pacchetti da 500€/anno.
 
-**Come si sceglie il fornitore giusto?**  
+**Come si sceglie il fornitore giusto?**
 Valuta competenze tecniche, metodologia, referenze nel tuo settore e supporto nella scelta dell’ente certificatore. Privilegia chi offre un approccio su misura e continuativo.
 
-**Quali sono le certificazioni importanti?**  
+**Quali sono le certificazioni importanti?**
 Lead Auditor, Lead Implementer ISO 27001, CEH, OSCP, CISSP. L’ente certificatore dovrebbe essere accreditato da ACCREDIA o IAF.
 
-**La ISO 27001 copre anche il cloud?**  
+**La ISO 27001 copre anche il cloud?**
 Sì, è compatibile con ambienti cloud, ibridi e multicloud, se integrata con controlli specifici e valutazioni di rischio adeguate.
 
-**Posso usare un software per gestire la compliance?**  
+**Posso usare un software per gestire la compliance?**
 Assolutamente: soluzioni come ISMS.online, MyEasyISO o OneTrust semplificano il monitoraggio, la documentazione e la governance.
 
-**Serve rifare tutto se esce una nuova versione della norma?**  
+**Serve rifare tutto se esce una nuova versione della norma?**
 No, ma è necessario aggiornare i controlli e la documentazione per essere conformi, come richiesto nella transizione a ISO/IEC 27001:2022.
 
-**ISGroup può aiutarmi nella scelta dell’ente certificatore?**  
+**ISGroup può aiutarmi nella scelta dell’ente certificatore?**
 Sì, offre consulenza imparziale per scegliere tra BSI, TÜV, DNV, Bureau Veritas e altri, in base a budget, industry e obiettivi aziendali.

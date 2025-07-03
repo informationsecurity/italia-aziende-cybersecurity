@@ -102,25 +102,23 @@ EXEEC fornisce modelli white-label per fornitori di servizi gestiti o di complia
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Cyber Risk Assessment?**  
+**Cos’è un Cyber Risk Assessment?**
 È un processo per identificare e valutare i rischi informatici legati a tecnologie, dati e processi aziendali.
 
-**ISGroup fornisce anche supporto alla mitigazione dei rischi?**  
+**ISGroup fornisce anche supporto alla mitigazione dei rischi?**
 Sì. Oltre al RA, propone roadmap, misure tecniche, test e soluzioni correttive.
 
-**Quanto dura un progetto di RA?**  
+**Quanto dura un progetto di RA?**
 Da 3 a 6 settimane, a seconda della complessità degli asset e della maturità aziendale.
 
-**Quanto costa?**  
+**Quanto costa?**
 A partire da ~6.000€ per PMI, fino a oltre 25.000€ per ambienti complessi o regolati.
 
-**Il report è valido per audit ISO 27001 o ACN?**  
+**Il report è valido per audit ISO 27001 o ACN?**
 Sì. Include evidenze, tabelle, priorità e documenti pronti per auditor interni o esterni.
 
-**Il RA è obbligatorio secondo NIS2 o DORA?**  
+**Il RA è obbligatorio secondo NIS2 o DORA?**
 Sì. Entrambe le normative richiedono gestione e valutazione periodica dei rischi ICT.
 
-**È replicabile annualmente?**  
+**È replicabile annualmente?**
 Sì. ISGroup propone anche RA ciclico o risk monitoring continuo.
-
-

@@ -101,28 +101,26 @@ EXEEC distribuisce tecnologie di secure code review e supporta system integrator
 
 ## Domande frequenti (FAQ)
 
-**Cos’è la Secure Code Review?**  
+**Cos’è la Secure Code Review?**
 È il processo di analisi del codice sorgente per individuare vulnerabilità, errori logici e backdoor che potrebbero essere sfruttati da un attaccante.
 
-**Quando è consigliata?**  
+**Quando è consigliata?**
 Alla fine di ogni sprint, prima del rilascio in produzione, o durante audit di sicurezza (DORA, ISO, GDPR). Indispensabile per software critici o che gestiscono PII.
 
-**Meglio manuale o automatica?**  
+**Meglio manuale o automatica?**
 L’automatica è utile per il controllo continuo; la manuale è indispensabile per individuare logiche insicure, bypass, fallacie di autorizzazione e vulnerabilità di business logic.
 
-**Quanto costa una Code Review?**  
+**Quanto costa una Code Review?**
 Dipende dalla dimensione e criticità del codice. Si parte da 2.000€ per audit puntuali fino a oltre 20.000€ per software enterprise.
 
-**Posso integrare la Code Review in CI/CD?**  
+**Posso integrare la Code Review in CI/CD?**
 Sì. Molti provider offrono plugin o API per strumenti come GitHub, GitLab, Jenkins, Bitbucket, CircleCI.
 
-**Quali linguaggi sono supportati?**  
+**Quali linguaggi sono supportati?**
 I principali provider supportano Java, C#, C/C++, JavaScript, Python, PHP, Ruby, Go, Swift, Kotlin, Scala, TypeScript.
 
-**ISGroup fornisce anche supporto alla remediation?**  
+**ISGroup fornisce anche supporto alla remediation?**
 Sì. ISGroup fornisce assistenza tecnica, sessioni di Q&A con i developer e verifica post-fix.
 
-**Esistono standard di riferimento?**  
+**Esistono standard di riferimento?**
 Sì. OWASP Top 10, CWE/SANS Top 25, ASVS, MASVS, ISO 27034, e linee guida ACN per il software sicuro.
-
-
