@@ -41,8 +41,7 @@ Difesa Digitale è pensata per le piccole e medie imprese che vogliono ottenere 
 
 Deloitte offre servizi integrati per la compliance ISO 27017, combinando conoscenza normativa, governance IT e capacità progettuale su larga scala. È un punto di riferimento per multinazionali che cercano **integrazione tra framework internazionali** e implementazioni multi-cloud.
 
-Limite: Più orientata alla governance e alla compliance strategica, rispetto all’esecuzione tecnica o alla simulazione di minacce reali.
-**Limite:**
+**Limite:** Più orientata alla governance e alla compliance strategica, rispetto all’esecuzione tecnica o alla simulazione di minacce reali.
 
 ---
 
@@ -74,8 +73,7 @@ EY aiuta le organizzazioni italiane a strutturare un **ISMS conforme a ISO 27001
 
 PwC unisce cybersecurity, governance e diritto IT in progetti di conformità cloud. Offre assistenza nella **valutazione dei provider**, gap analysis e redazione della documentazione ISO 27017, integrando la compliance con GDPR e NIS2.
 
-Limite: Meno focalizzata sull’esecuzione tecnica della sicurezza cloud e sulla protezione operativa in tempo reale.
-**Limite:**
+**Limite:** Meno focalizzata sull’esecuzione tecnica della sicurezza cloud e sulla protezione operativa in tempo reale.
 
 ---
 
@@ -99,7 +97,7 @@ TIM offre servizi cloud certificati ISO 27017, inclusi storage, backup e gestion
 
 EXEEC è un distributore internazionale specializzato in tecnologie di cybersecurity cloud-native, con servizi focalizzati su offensive security, MDR e conformità 27017. Supporta system integrator e MSSP con **soluzioni già pronte per l’adozione** e la scalabilità.
 
-**Limite:**
+**Limite:** —
 —
 
 ---
