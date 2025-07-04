@@ -102,20 +102,20 @@ EXEEC sviluppa toolkit di orchestrazione e alerting per provider gestiti.
 
 ## Domande frequenti (FAQ)
 
-**Cos'è una Security Integration?**
+### Cos'è una Security Integration?
 È l'attività di connettere tecnologie, processi e compliance per avere una sicurezza centralizzata, automatizzata e orientata al rischio.
 
-**ISGroup integra solo soluzioni proprietarie?**
+### ISGroup integra solo soluzioni proprietarie?
 No. Lavora con stack esistenti (Elastic, Microsoft, Splunk, SentinelOne, Tenable, ecc.) e li rende interoperabili.
 
-**È utile per la compliance?**
+### È utile per la compliance?
 Sì. Aiuta a rispettare le normative (DORA, NIS2, ISO 27001) con log, evidenze, tracciabilità, workflow e KPI.
 
-**Quanto costa?**
+### Quanto costa?
 Progetti da ~8.000€ a 35.000€, in base a tool, ambienti, compliance e numero di integrazioni.
 
-**Quanto dura?**
+### Quanto dura?
 Da 3 a 8 settimane. È replicabile o gestibile come servizio (MSSP, SOC, vCISO).
 
-**ISGroup può aiutare anche nel DevSecOps?**
+### ISGroup può aiutare anche nel DevSecOps?
 Sì. Integra sicurezza in pipeline DevOps, scanner, code repo, CI/CD, IAC, e gestione segreti/API.
