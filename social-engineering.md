@@ -98,20 +98,20 @@ CINECA affianca università e centri ricerca in valutazioni comportamentali.
 
 ## Domande frequenti (FAQ)
 
-**Cos'è un Social Engineering Assessment?**
+### Cos'è un Social Engineering Assessment?
 Un test simulato per valutare la vulnerabilità delle persone a tecniche manipolative simili a quelle usate da veri attaccanti.
 
-**ISGroup simula anche chiamate o scenari fisici?**
+### ISGroup simula anche chiamate o scenari fisici?
 Sì. Inclusi vishing, impersonation di fornitori, audit, tecnici, delivery, CEO fraud.
 
-**Quanto costa un progetto?**
+### Quanto costa un progetto?
 Da ~3.000€ per campagne phishing semplici, fino a 20.000€ per scenari avanzati con più vettori.
 
-**È legale?**
+### È legale?
 Sì. Tutte le attività sono autorizzate e simulate in modo controllato.
 
-**È utile ai fini normativi (NIS2, DORA)?**
+### È utile ai fini normativi (NIS2, DORA)?
 Sì. Verifica la componente umana dei controlli e dimostra awareness e formazione.
 
-**Quanto dura una campagna?**
+### Quanto dura una campagna?
 Da 1 a 3 settimane, con possibilità di test ciclici o training integrato.
