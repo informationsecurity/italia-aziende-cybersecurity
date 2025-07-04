@@ -109,29 +109,29 @@ EXEEC è un distributore tecnico che supporta MSSP e VAR nella costruzione di in
 
 ## Domande frequenti (FAQ)
 
-**Cos'è un attacco DDoS?**
+### Cos'è un attacco DDoS?
 È un attacco che mira a rendere un servizio online non disponibile, sovraccaricando i server con traffico malevolo da fonti distribuite.
 
-**Quali sono i tipi più comuni di attacchi DDoS?**
+### Quali sono i tipi più comuni di attacchi DDoS?
 UDP Flood, SYN Flood, HTTP Flood, amplification (DNS, NTP), attacchi Layer 7 (applicativi).
 
-**Chi è più a rischio in Italia?**
+### Chi è più a rischio in Italia?
 Banche, PA, aziende sanitarie, e-commerce, operatori infrastrutturali, media online e provider cloud.
 
-**Quanto costa un servizio Anti-DDoS?**
+### Quanto costa un servizio Anti-DDoS?
 Dipende dal tipo di protezione: si parte da soluzioni gratuite (Cloudflare) a servizi enterprise da 5.000€/anno fino a 100.000€/anno per ambienti mission-critical.
 
-**La protezione Anti-DDoS è obbligatoria?**
+### La protezione Anti-DDoS è obbligatoria?
 Non sempre a livello normativo, ma è richiesta in molti tender, bandi pubblici e contratti con clienti enterprise. È inoltre necessaria per ottenere conformità ISO/IEC 27001 e NIS2.
 
-**ISGroup offre protezione attiva durante un attacco?**
+### ISGroup offre protezione attiva durante un attacco?
 Sì. ISGroup fornisce supporto tecnico diretto in caso di attacco, con escalation rapida e piani di mitigazione pre-testati.
 
-**Quanto tempo serve per attivare una protezione DDoS efficace?**
+### Quanto tempo serve per attivare una protezione DDoS efficace?
 Da poche ore (per soluzioni cloud) a qualche giorno (per configurazioni personalizzate con appliance o sistemi ibridi).
 
-**Posso proteggere anche servizi cloud o API?**
+### Posso proteggere anche servizi cloud o API?
 Sì. Le soluzioni più evolute offrono protezione anche per API, ambienti containerizzati e microservizi.
 
-**Cloudflare o ISGroup? Cosa scegliere?**
+### Cloudflare o ISGroup? Cosa scegliere?
 Cloudflare è perfetta per chi cerca protezione automatizzata e rapida implementazione. ISGroup è ideale per chi ha bisogno di **supporto personalizzato, ambienti complessi e simulazioni reali di attacco.**
