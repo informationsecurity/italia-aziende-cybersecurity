@@ -92,7 +92,7 @@ def main():
     
     print("\nInizio pulizia...")
     print("- Rimozione caratteri invisibili e speciali")
-    print("- Normalizzazione caratteri tipografici (' → ', " → \", — → -)")
+    print("- Normalizzazione caratteri tipografici (' -> ', \" -> \", — -> -)")
     print("- Normalizzazione spazi e indentazione")
     print("- Applicazione terminatori CRLF")
     print("- Encoding UTF-8")
