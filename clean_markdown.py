@@ -33,7 +33,7 @@ def remove_invisible_chars(text):
     text = re.sub(r'[""„‚]', '"', text)
     
     # Converti lineette lunghe in trattini normali
-    text = re.sub(r'[—–]', '-', text)
+    text = re.sub(r'[—–−]', '-', text)
     
     # Normalizza Unicode (NFD -> NFC)
     text = unicodedata.normalize('NFC', text)
@@ -92,7 +92,7 @@ def main():
     
     print("\nInizio pulizia...")
     print("- Rimozione caratteri invisibili e speciali")
-    print("- Normalizzazione caratteri tipografici (' -> ', \" -> \", — -> -)")
+    print("- Normalizzazione caratteri tipografici (' -> ', \" -> \", —/– -> -)")
     print("- Normalizzazione spazi e indentazione")
     print("- Applicazione terminatori CRLF")
     print("- Encoding UTF-8")
