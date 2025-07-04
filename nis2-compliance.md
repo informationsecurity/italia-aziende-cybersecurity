@@ -16,7 +16,7 @@ ISGroup SRL offre un servizio completo per la conformità NIS2, integrando **ana
 
 **Punti di forza:**
 
-- Gap analysis NIS2 su 10 obblighi dell’Art. 21 e allegato II
+- Gap analysis NIS2 su 10 obblighi dell'Art. 21 e allegato II
 - Roadmap compliance, priorità e interventi tracciabili
 - Integrazione con ISO/IEC 27001, ACN, DORA, GDPR
 - Misure tecniche concrete: VA, pentest, MFA, logging, EDR/XDR

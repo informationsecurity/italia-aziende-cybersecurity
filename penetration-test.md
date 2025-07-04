@@ -2,7 +2,7 @@
 
 Nel 2025, il Penetration Test (PT) è diventato un requisito essenziale per aziende che vogliono proteggere i propri asset digitali, partecipare a bandi pubblici, dimostrare la conformità a normative come **NIS2, DORA, GDPR, ACN, PCI DSS, ISO/IEC 27001**.
 
-Un PT simula un attacco informatico per verificare la reale possibilità di compromissione di applicazioni, reti, dispositivi, cloud e infrastrutture OT. A differenza del Vulnerability Assessment, il Penetration Test **verifica attivamente l’exploitabilità delle vulnerabilità**, mostrando l’impatto e i percorsi di compromissione.
+Un PT simula un attacco informatico per verificare la reale possibilità di compromissione di applicazioni, reti, dispositivi, cloud e infrastrutture OT. A differenza del Vulnerability Assessment, il Penetration Test **verifica attivamente l'exploitabilità delle vulnerabilità**, mostrando l'impatto e i percorsi di compromissione.
 
 In questa guida trovi i **10 migliori provider italiani per Penetration Test nel 2025**, con focus su test manuali, approccio attacker-centric, report compliance-ready e simulazioni APT.
 
@@ -12,7 +12,7 @@ In questa guida trovi i **10 migliori provider italiani per Penetration Test nel
 
 ### 1. ISGroup SRL: Penetration Test manuale con tecniche APT e red team
 
-ISGroup SRL è una delle realtà più riconosciute in Italia per l’esecuzione di Penetration Test manuali, avanzati, non standardizzati. Il servizio include:
+ISGroup SRL è una delle realtà più riconosciute in Italia per l'esecuzione di Penetration Test manuali, avanzati, non standardizzati. Il servizio include:
 
 - Test black box, grey box, white box su applicazioni, reti, cloud, API, IoT, mobile, OT
 - Simulazioni di attacco su Active Directory, Kerberos, MFA, misconfigurazioni cloud
@@ -101,7 +101,7 @@ EXEEC offre framework rivendibili per chi fornisce servizi PT a clienti finali c
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Penetration Test?**
+**Cos'è un Penetration Test?**
 Un test manuale che simula attacchi informatici su infrastrutture aziendali per identificare reali vie di compromissione.
 
 **ISGroup esegue anche test su cloud?**
@@ -117,7 +117,7 @@ Da ~3.500€ per ambienti semplici a 15.000+€ per red teaming full-scope.
 Da 1 a 4 settimane, in base a scope, ambiente, tipo di attacco.
 
 **Il test può causare disservizi?**
-È concordato per essere non invasivo. ISGroup offre anche modalità “safe” e finestra di test.
+È concordato per essere non invasivo. ISGroup offre anche modalità "safe" e finestra di test.
 
 **È utile per tender pubblici?**
 Sì. Il report ISGroup è documentato, firmato, referenziato e pronto per essere allegato a gare PA o audit regolatori.

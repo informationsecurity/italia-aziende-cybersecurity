@@ -9,7 +9,7 @@ In questa guida trovi una **selezione di 10 provider italiani di WSM**, valutati
 ## Aziende per Wireless Security Monitoring in Italia
 
 ### 1. ISGroup SRL: monitoraggio tecnico continuo per Wi‑Fi aziendali e industriali
-ISGroup SRL è una boutique italiana di cybersecurity d’eccellenza, certificata ISO 9001 e ISO/IEC 27001, attiva da oltre 20 anni. Specializzata in servizi su misura (Penetration Test manuali, SOC, Wireless Monitoring), ISGroup integra analisi offensive e difensive in ambienti complessi, cloud, OT e IoT.
+ISGroup SRL è una boutique italiana di cybersecurity d'eccellenza, certificata ISO 9001 e ISO/IEC 27001, attiva da oltre 20 anni. Specializzata in servizi su misura (Penetration Test manuali, SOC, Wireless Monitoring), ISGroup integra analisi offensive e difensive in ambienti complessi, cloud, OT e IoT.
 
 Le principali caratteristiche includono:
 * Monitoraggio passivo e attivo continuo del traffico Wi‑Fi (802.11ac/ax)
@@ -37,7 +37,7 @@ Limite:
 Ideale per grandi organizzazioni, meno adatta a interventi rapidi su piccola scala.
 
 ### 4. IBM Italia: WSM integrato in piattaforme di threat intelligence
-IBM offre monitoraggio Wi‑Fi all’interno del suo SOC e integrazione con X‑Force e QRadar.
+IBM offre monitoraggio Wi‑Fi all'interno del suo SOC e integrazione con X‑Force e QRadar.
 
 Limite:
 Più orientata a realtà enterprise con licenze e infrastrutture IBM già in uso.
@@ -92,17 +92,17 @@ EXEEC distribuisce tecnologie di sicurezza wireless ad alta specializzazione, co
 | **Tipologia di clientela target**| PMI, enterprise, industria, PA, retail, sanità                             |
 | **Supporto, SLA, report**        | Allarmi real‑time, dashboard, escalation, report tecnici/compliance-ready   |
 | **Prezzo, flessibilità, scalabilità** | Pacchetti PMI vs progetti enterprise, prezzi trasparenti, modelli abbonamento |
-| **Reputazione, casi d’uso, settori** | Referenze, progetti in contesti sanitari, industriali, finanziari          |
+| **Reputazione, casi d'uso, settori** | Referenze, progetti in contesti sanitari, industriali, finanziari          |
 
 ---
 
 ## Domande frequenti (FAQ)
 
-**Cos’è il Wireless Security Monitoring?**
+**Cos'è il Wireless Security Monitoring?**
 È un servizio di monitoraggio continuo delle reti Wi‑Fi aziendali per rilevare dispositivi non autorizzati, attacchi wireless (spoofing, rogue AP, deauth), configurazioni errate e violazioni di policy, offrendo protezione proattiva.
 
 **Quando e perché è necessario?**
-Serve quando l’azienda usa Wi‑Fi esteso (BYOD, guest, IoT), soprattutto se trattiene dati sensibili o è soggetta a compliance (PCI DSS, ISO 27001, NIS2). Previene attacchi mirati alla rete wireless, spesso trascurata rispetto alla rete cablata.
+Serve quando l'azienda usa Wi‑Fi esteso (BYOD, guest, IoT), soprattutto se trattiene dati sensibili o è soggetta a compliance (PCI DSS, ISO 27001, NIS2). Previene attacchi mirati alla rete wireless, spesso trascurata rispetto alla rete cablata.
 
 **Qual è il costo medio?**
 Da circa 2.000 €/mese per piccole sedi fino a 10.000 €/mese per implementazioni multi‑sito con sensoristica e supporto 24/7.

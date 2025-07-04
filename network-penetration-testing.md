@@ -31,7 +31,7 @@ ISGroup SRL esegue Penetration Test su reti aziendali con approccio **manuale e 
 
 **Perché è diverso:**
 
-ISGroup simula l’attaccante in ogni fase: dall’infiltrazione iniziale all’esfiltrazione, dimostrando l’impatto reale. Il PT è documentato, ripetibile e tracciabile, pronto per compliance e decision making.
+ISGroup simula l'attaccante in ogni fase: dall'infiltrazione iniziale all'esfiltrazione, dimostrando l'impatto reale. Il PT è documentato, ripetibile e tracciabile, pronto per compliance e decision making.
 
 ---
 
@@ -103,14 +103,14 @@ EXEEC fornisce framework di pentest rivendibili, tool e metodologie per system i
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Network Penetration Test?**
+**Cos'è un Network Penetration Test?**
 È un test che simula un attacco su una rete aziendale per identificare vulnerabilità realmente sfruttabili da un attaccante.
 
 **ISGroup fa test anche su Active Directory?**
 Sì. Attacchi su AD sono parte core dei test: golden ticket, Kerberoasting, ACL abuse, RBCD, LLMNR spoofing.
 
 **Il PT è fatto a mano o con tool automatici?**
-Manuale. I tool servono solo a supporto. L’exploitation e la strategia sono condotte da esperti ISGroup.
+Manuale. I tool servono solo a supporto. L'exploitation e la strategia sono condotte da esperti ISGroup.
 
 **Quanto costa un Penetration Test?**
 Dipende da dimensione e scope. Da ~4.000€ per reti semplici, oltre 12.000€ per ambienti complessi.
@@ -119,7 +119,7 @@ Dipende da dimensione e scope. Da ~4.000€ per reti semplici, oltre 12.000€ p
 Sì. ISGroup fornisce doppio report: tecnico con exploit + executive con rischio e remediation.
 
 **Il test può causare disservizi?**
-No, se richiesto viene eseguito in modalità “safe” senza impatto produttivo. Possibilità di finestra di test.
+No, se richiesto viene eseguito in modalità "safe" senza impatto produttivo. Possibilità di finestra di test.
 
 **Il test copre anche cloud e VPN?**
 Sì. ISGroup esegue anche PT su VPN, cloud, hybrid, SD-WAN, Zero Trust Network.

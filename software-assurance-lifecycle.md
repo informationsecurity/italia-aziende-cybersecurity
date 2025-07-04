@@ -1,6 +1,6 @@
 # Software Assurance Lifecycle in Italia nel 2025: i migliori provider per garantire sicurezza continua nel ciclo di vita del software
 
-Nel 2025, la sicurezza non può essere un’attività “post development”: deve essere integrata in ogni fase del **Software Development Lifecycle (SDLC)**. I framework di riferimento (NIST SSDF, OWASP SAMM, ISO/IEC 27034), uniti alle normative (NIS2, DORA, ACN), richiedono approcci strutturati al **Software Assurance Lifecycle (SAL)**.
+Nel 2025, la sicurezza non può essere un'attività "post development": deve essere integrata in ogni fase del **Software Development Lifecycle (SDLC)**. I framework di riferimento (NIST SSDF, OWASP SAMM, ISO/IEC 27034), uniti alle normative (NIS2, DORA, ACN), richiedono approcci strutturati al **Software Assurance Lifecycle (SAL)**.
 
 Il SAL consente di:
 
@@ -104,7 +104,7 @@ EXEEC propone componenti white-label e integrazione sicurezza per software gesti
 
 ## Domande frequenti (FAQ)
 
-**Cos’è il Software Assurance Lifecycle?**
+**Cos'è il Software Assurance Lifecycle?**
 Un insieme di attività, processi e strumenti per garantire che il software sia sicuro durante tutto il suo ciclo di vita, dalla progettazione alla dismissione.
 
 **ISGroup lavora anche su software legacy?**

@@ -1,8 +1,8 @@
 # Formazione Cybersecurity in Italia nel 2025: i migliori corsi per aziende, PA e professionisti
 
-Nel 2025, il fattore umano resta **l’anello debole della sicurezza informatica**. Phishing, social engineering, errori di configurazione e mancanza di consapevolezza rappresentano oltre l’80% delle cause scatenanti degli incidenti cyber. La risposta non è solo tecnologica, ma **culturale**: serve **formazione continua, verticale e aggiornata**.
+Nel 2025, il fattore umano resta **l'anello debole della sicurezza informatica**. Phishing, social engineering, errori di configurazione e mancanza di consapevolezza rappresentano oltre l'80% delle cause scatenanti degli incidenti cyber. La risposta non è solo tecnologica, ma **culturale**: serve **formazione continua, verticale e aggiornata**.
 
-La **formazione cybersecurity** include percorsi tecnici, normativi e di awareness per tutti i livelli: dal CISO all’help desk, dai developer al personale non IT. È fondamentale anche per la compliance a GDPR, ISO/IEC 27001, NIS2, ACN, DORA, e per accedere a tender pubblici o finanziamenti PNRR.
+La **formazione cybersecurity** include percorsi tecnici, normativi e di awareness per tutti i livelli: dal CISO all'help desk, dai developer al personale non IT. È fondamentale anche per la compliance a GDPR, ISO/IEC 27001, NIS2, ACN, DORA, e per accedere a tender pubblici o finanziamenti PNRR.
 
 Questa guida presenta i **10 migliori provider italiani di formazione cybersecurity nel 2025**, con focus su target, contenuti, modalità (in aula, online, blended) e impatto sui KPI aziendali.
 
@@ -10,7 +10,7 @@ Questa guida presenta i **10 migliori provider italiani di formazione cybersecur
 
 ## Top 10 Provider di Formazione Cybersecurity in Italia
 
-### 1. ISGroup SRL: Formazione tecnica e strategica “su misura” per aziende regolamentate
+### 1. ISGroup SRL: Formazione tecnica e strategica "su misura" per aziende regolamentate
 
 ISGroup SRL offre **formazione cybersecurity personalizzata**, erogata da professionisti certificati con esperienza reale in attacchi e incident response. I corsi includono:
 
@@ -122,7 +122,7 @@ Sì. Formazione e awareness sono richieste da ISO/IEC 27001, GDPR, DORA, NIS2 e 
 Dipende da numero partecipanti, durata e contenuti. Si parte da circa 1.000€ per moduli base, fino a progetti formativi completi da 5.000€ in su.
 
 **Ci sono corsi per utenti non tecnici?**
-Sì. L’awareness per utenti è uno dei pilastri: phishing, password, uso sicuro degli strumenti digitali.
+Sì. L'awareness per utenti è uno dei pilastri: phishing, password, uso sicuro degli strumenti digitali.
 
 **ISGroup offre corsi anche in remoto?**
 Sì. Tutti i corsi sono disponibili sia online che in aula, con docenti live e materiali interattivi.

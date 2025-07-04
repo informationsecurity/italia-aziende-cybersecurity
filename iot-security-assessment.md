@@ -1,6 +1,6 @@
 # IoT Security Assessment in Italia nel 2025: i migliori provider per valutare la sicurezza dei dispositivi connessi
 
-Nel 2025, con miliardi di dispositivi connessi a Internet, la sicurezza dell’**Internet of Things (IoT)** è diventata una priorità critica per aziende, enti pubblici e infrastrutture. Dalla sanità alle fabbriche smart, dai sistemi di monitoraggio ambientale ai dispositivi domestici, **ogni oggetto connesso può diventare una porta d’ingresso per gli attaccanti**.
+Nel 2025, con miliardi di dispositivi connessi a Internet, la sicurezza dell'**Internet of Things (IoT)** è diventata una priorità critica per aziende, enti pubblici e infrastrutture. Dalla sanità alle fabbriche smart, dai sistemi di monitoraggio ambientale ai dispositivi domestici, **ogni oggetto connesso può diventare una porta d'ingresso per gli attaccanti**.
 
 Un **IoT Security Assessment** serve a identificare vulnerabilità, debolezze logiche e configurazioni rischiose nei dispositivi e nei sistemi IoT, verificandone la resistenza a exploit reali.
 
@@ -31,7 +31,7 @@ ISGroup SRL offre un servizio avanzato di **valutazione della sicurezza IoT** es
 
 **Perché è diversa:**
 
-ISGroup simula un attaccante reale su ogni layer del dispositivo e dell’infrastruttura connessa, costruendo scenari di attacco su misura. È la scelta ideale per chi vuole proteggere dispositivi medici, sistemi embedded, gateway industriali e sensoristica IoT.
+ISGroup simula un attaccante reale su ogni layer del dispositivo e dell'infrastruttura connessa, costruendo scenari di attacco su misura. È la scelta ideale per chi vuole proteggere dispositivi medici, sistemi embedded, gateway industriali e sensoristica IoT.
 
 ---
 
@@ -103,14 +103,14 @@ EXEEC fornisce tool e metodologie per MSSP e system integrator che offrono IoT a
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un IoT Security Assessment?**
+**Cos'è un IoT Security Assessment?**
 È una valutazione tecnica della sicurezza dei dispositivi IoT, firmware, comunicazioni e infrastruttura connessa.
 
 **Chi dovrebbe farlo?**
 Chi sviluppa, produce o integra dispositivi IoT; aziende con ambienti OT/ICS; startup con smart product.
 
 **ISGroup effettua test anche su dispositivi medici?**
-Sì. L’analisi è conforme a standard MDR, ISO 27001, e può supportare la certificazione CE.
+Sì. L'analisi è conforme a standard MDR, ISO 27001, e può supportare la certificazione CE.
 
 **Quanto dura un assessment?**
 Da 2 a 4 settimane in base alla complessità del device, del firmware e del backend.

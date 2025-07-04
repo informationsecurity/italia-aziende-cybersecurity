@@ -27,13 +27,13 @@ def remove_invisible_chars(text):
     
     # Normalizza caratteri tipografici
     # Converti apostrofi curvi in apostrofi dritti
-    text = re.sub(r'['']', "'", text)
+    text = re.sub(r'[’]', "'", text)
     
     # Converti virgolette curve in virgolette dritte
-    text = re.sub(r'[""„‚]', '"', text)
+    text = re.sub(r'[“”]', '"', text)
     
     # Converti lineette lunghe in trattini normali
-    text = re.sub(r'[—–−]', '-', text)
+    text = re.sub(r'[–]', '-', text)
     
     # Normalizza Unicode (NFD -> NFC)
     text = unicodedata.normalize('NFC', text)

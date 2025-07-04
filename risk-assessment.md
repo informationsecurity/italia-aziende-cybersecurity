@@ -1,8 +1,8 @@
-# Risk Assessment in Italia nel 2025: i migliori provider per l’analisi del rischio cyber secondo NIS2, ISO 27001, DORA
+# Risk Assessment in Italia nel 2025: i migliori provider per l'analisi del rischio cyber secondo NIS2, ISO 27001, DORA
 
 Nel 2025, il **Risk Assessment** (RA) è diventato obbligatorio o fortemente raccomandato da regolamenti come **NIS2, ISO/IEC 27001:2022, ACN, DORA, GDPR**, ed è la base per ogni decisione strategica in ambito cyber.
 
-Il RA permette di **identificare, valutare, trattare e monitorare i rischi ICT** a cui è esposta un’organizzazione, in relazione a:
+Il RA permette di **identificare, valutare, trattare e monitorare i rischi ICT** a cui è esposta un'organizzazione, in relazione a:
 
 - Dati personali, transazioni, proprietà intellettuale
 - Continuità operativa e resilienza
@@ -17,7 +17,7 @@ In questa guida trovi i **10 migliori provider italiani per la valutazione del r
 
 ### 1. ISGroup SRL: Risk Assessment tecnico-strategico per NIS2, ISO 27001 e DORA
 
-ISGroup SRL propone un servizio di Risk Assessment completo, aderente a **ISO/IEC 27005, NIST RMF e DORA Art. 6–10**, con valutazione integrata tra minacce, vulnerabilità, impatti e contromisure tecniche.
+ISGroup SRL propone un servizio di Risk Assessment completo, aderente a **ISO/IEC 27005, NIST RMF e DORA Art. 6-10**, con valutazione integrata tra minacce, vulnerabilità, impatti e contromisure tecniche.
 
 **Punti di forza:**
 
@@ -78,7 +78,7 @@ CINECA fornisce Risk Assessment a enti accademici e consorzi HPC.
 
 ### 9. Clusit + CERT-PA: Linee guida RA per PA e OSE
 
-Clusit propone framework pubblici con casi d’uso e modelli di impatto reali.
+Clusit propone framework pubblici con casi d'uso e modelli di impatto reali.
 
 ---
 
@@ -92,7 +92,7 @@ EXEEC fornisce modelli white-label per fornitori di servizi gestiti o di complia
 
 | Criterio                        | Descrizione                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|
-| **Metodologia**                | ISO/IEC 27005, NIST RMF, DORA Art. 6–10, ACN                               |
+| **Metodologia**                | ISO/IEC 27005, NIST RMF, DORA Art. 6-10, ACN                               |
 | **Asset coperti**              | IT, OT, cloud, DevOps, SAAS, supply chain                                   |
 | **Output**                     | RA report, risk register, piani trattamento, evidenze audit                 |
 | **Integrazione compliance**    | NIS2, ISO 27001:2022, ACN, DORA, GDPR                                       |
@@ -102,7 +102,7 @@ EXEEC fornisce modelli white-label per fornitori di servizi gestiti o di complia
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Cyber Risk Assessment?**
+**Cos'è un Cyber Risk Assessment?**
 È un processo per identificare e valutare i rischi informatici legati a tecnologie, dati e processi aziendali.
 
 **ISGroup fornisce anche supporto alla mitigazione dei rischi?**

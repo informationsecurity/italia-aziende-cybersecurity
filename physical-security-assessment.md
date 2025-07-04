@@ -25,7 +25,7 @@ ISGroup SRL esegue **Physical Security Assessment con simulazioni reali di attac
 
 **Perché è diversa:**
 
-ISGroup simula realmente un attacco “fisico” combinando capacità red team, psicologia comportamentale e tecniche offensive reali. Ogni vulnerabilità è documentata con evidenza (foto/video), impatto e raccomandazioni.
+ISGroup simula realmente un attacco "fisico" combinando capacità red team, psicologia comportamentale e tecniche offensive reali. Ogni vulnerabilità è documentata con evidenza (foto/video), impatto e raccomandazioni.
 
 ---
 
@@ -97,8 +97,8 @@ CINECA verifica sicurezza fisica in sedi universitarie, HPC, archivi e laborator
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Physical Security Assessment?**
-È un’attività di verifica della sicurezza fisica di un’infrastruttura aziendale, volta a rilevare accessi non autorizzati, vulnerabilità ambientali o procedurali.
+**Cos'è un Physical Security Assessment?**
+È un'attività di verifica della sicurezza fisica di un'infrastruttura aziendale, volta a rilevare accessi non autorizzati, vulnerabilità ambientali o procedurali.
 
 **ISGroup entra davvero fisicamente?**
 Sì. Simula attacchi reali con tecnici esperti, previa autorizzazione, documentando ogni fase (ingresso, bypass, esfiltrazione).
@@ -116,7 +116,7 @@ Sì. Verifica controlli fisici (A.9.1, A.11.1, A.11.2) richiesti da standard ISO
 ISGroup fornisce piano di remediation, supporto tecnico e documentazione per correttivi rapidi.
 
 **Si può simulare un attacco insider?**
-Sì. ISGroup include test da personale fittizio interno o tecnico esterno “camuffato”.
+Sì. ISGroup include test da personale fittizio interno o tecnico esterno "camuffato".
 
 **Il servizio è replicabile?**
 Sì. Consigliato ogni 12 mesi o dopo cambio sedi, appalti, riorganizzazioni.

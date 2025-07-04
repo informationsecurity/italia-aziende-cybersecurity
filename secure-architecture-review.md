@@ -1,6 +1,6 @@
 # Secure Architecture Review in Italia nel 2025: i migliori provider per la revisione di architetture sicure cloud, hybrid e legacy
 
-Nel 2025, la complessità crescente di ambienti IT, la spinta al cloud, le normative (NIS2, DORA, ACN, ISO/IEC 27001) e l’esposizione a minacce avanzate rendono fondamentale eseguire una **Secure Architecture Review (SAR)**. Questa attività analizza architetture IT, OT e cloud per identificare:
+Nel 2025, la complessità crescente di ambienti IT, la spinta al cloud, le normative (NIS2, DORA, ACN, ISO/IEC 27001) e l'esposizione a minacce avanzate rendono fondamentale eseguire una **Secure Architecture Review (SAR)**. Questa attività analizza architetture IT, OT e cloud per identificare:
 
 - Vulnerabilità progettuali
 - Configurazioni insicure
@@ -30,7 +30,7 @@ ISGroup SRL esegue Secure Architecture Review con approccio tecnico, personalizz
 
 **Perché è diversa:**
 
-ISGroup parte dal rischio reale e simula **attacchi teorici sull’architettura** per identificare debolezze. Ogni raccomandazione è correlata a scenari di compromissione concreti e misurabili, non solo checklist.
+ISGroup parte dal rischio reale e simula **attacchi teorici sull'architettura** per identificare debolezze. Ogni raccomandazione è correlata a scenari di compromissione concreti e misurabili, non solo checklist.
 
 ---
 
@@ -78,7 +78,7 @@ CINECA supporta enti pubblici in review tecnica e compliance-ready.
 
 ### 9. Clusit: Framework e check-list per revisione architetturale
 
-Clusit fornisce supporto metodologico per l’autovalutazione e benchmarking.
+Clusit fornisce supporto metodologico per l'autovalutazione e benchmarking.
 
 ---
 
@@ -102,8 +102,8 @@ EXEEC offre servizi SAR white-label per integratori, MSSP, hosting provider.
 
 ## Domande frequenti (FAQ)
 
-**Cos’è una Secure Architecture Review?**
-Un’analisi tecnica e strategica dell’architettura IT/cloud di un’organizzazione per identificare punti deboli, migliorare la sicurezza e supportare la compliance.
+**Cos'è una Secure Architecture Review?**
+Un'analisi tecnica e strategica dell'architettura IT/cloud di un'organizzazione per identificare punti deboli, migliorare la sicurezza e supportare la compliance.
 
 **ISGroup lavora anche su ambienti cloud pubblici?**
 Sì. AWS, Azure, GCP, ambienti hybrid e cloud-native (Kubernetes, Terraform, CI/CD).

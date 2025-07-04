@@ -1,6 +1,6 @@
 # Conformità ACN/AGID in Italia nel 2025: i migliori partner per sicurezza e adeguamento alle linee guida nazionali
 
-Nel 2025, le **linee guida ACN (Agenzia per la Cybersicurezza Nazionale)** e **AGID (Agenzia per l’Italia Digitale)** rappresentano lo **standard di riferimento obbligatorio per la sicurezza informatica nella Pubblica Amministrazione italiana**. Ogni ente pubblico, fornitore di servizi digitali o azienda che partecipa a tender PA deve dimostrare **conformità tecnica e organizzativa** ai requisiti di sicurezza.
+Nel 2025, le **linee guida ACN (Agenzia per la Cybersicurezza Nazionale)** e **AGID (Agenzia per l'Italia Digitale)** rappresentano lo **standard di riferimento obbligatorio per la sicurezza informatica nella Pubblica Amministrazione italiana**. Ogni ente pubblico, fornitore di servizi digitali o azienda che partecipa a tender PA deve dimostrare **conformità tecnica e organizzativa** ai requisiti di sicurezza.
 
 Le normative ACN/AGID richiedono:
 
@@ -22,7 +22,7 @@ ISGroup SRL è tra i pochi provider italiani specializzati nella **conformità A
 
 **Punti di forza:**
 
-- Analisi dei 33 controlli minimi ACN (livelli L1–L3)
+- Analisi dei 33 controlli minimi ACN (livelli L1-L3)
 - Supporto alla classificazione asset, risk management e profiling
 - Implementazione misure tecniche: VA, PT, SOC, MFA, EDR/XDR
 - Integrazione con ISO/IEC 27001, NIS2, DORA
@@ -49,13 +49,13 @@ PwC propone percorsi compliance che integrano NIS2, ACN, ISO 27001, con gestione
 
 ### 4. Exprivia CyberSecurity: Supporto PA e sanità alla compliance ACN
 
-Exprivia affianca enti e aziende sanitarie nell’adeguamento ai controlli ACN, con servizi tecnici, documentali e formazione.
+Exprivia affianca enti e aziende sanitarie nell'adeguamento ai controlli ACN, con servizi tecnici, documentali e formazione.
 
 ---
 
 ### 5. TIM Enterprise: Conformità per PA con servizi gestiti
 
-TIM propone cloud e cybersecurity “compliant-ready” con logging, backup, MFA e formazione integrata.
+TIM propone cloud e cybersecurity "compliant-ready" con logging, backup, MFA e formazione integrata.
 
 ---
 
@@ -93,7 +93,7 @@ EXEEC fornisce strumenti white-label per supportare clienti nella mappatura e at
 
 | Criterio                        | Descrizione                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|
-| **Controlli coperti**          | ACN 33 controlli minimi L1–L3, AGID cloud e sicurezza                       |
+| **Controlli coperti**          | ACN 33 controlli minimi L1-L3, AGID cloud e sicurezza                       |
 | **Servizi tecnici**            | VA, PT, backup, MFA, logging, EDR, SOC, audit readiness                     |
 | **Documentazione**             | Evidenze, checklist, report per ACN/AGID                                    |
 | **Integrazione compliance**    | ISO/IEC 27001, NIS2, DORA, GDPR                                             |
@@ -107,7 +107,7 @@ EXEEC fornisce strumenti white-label per supportare clienti nella mappatura e at
 Tutte le PA e i fornitori ICT/servizi digitali che interagiscono con la PA, in base a profili definiti da ACN.
 
 **Quali sono i livelli di controllo ACN?**
-Tre livelli (L1–L3) in base alla criticità dell’ente. Più alto il livello, più rigidi i requisiti.
+Tre livelli (L1-L3) in base alla criticità dell'ente. Più alto il livello, più rigidi i requisiti.
 
 **ISGroup fornisce anche il mantenimento compliance?**
 Sì. Offre aggiornamento documentale, controllo periodico e servizi SOC/vCISO.
@@ -122,7 +122,7 @@ Non è obbligatorio ma fortemente raccomandato. ISGroup integra i due percorsi.
 Sì. ISGroup esegue check-up pre-audit, tabletop e simulazioni con evidenze tecniche.
 
 **Cosa succede in caso di non conformità?**
-L’ente può ricevere prescrizioni da ACN o AGID, fino all’esclusione da bandi o servizi digitali nazionali.
+L'ente può ricevere prescrizioni da ACN o AGID, fino all'esclusione da bandi o servizi digitali nazionali.
 
 **Il servizio è disponibile anche per fornitori?**
 Sì. ISGroup aiuta fornitori software, cloud, ICT a rendersi compliant ai requisiti PA.

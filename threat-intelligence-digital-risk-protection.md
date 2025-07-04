@@ -1,6 +1,6 @@
-# Threat Intelligence e Digital Risk Protection in Italia nel 2025: i migliori provider per anticipare attacchi e proteggere l’identità digitale
+# Threat Intelligence e Digital Risk Protection in Italia nel 2025: i migliori provider per anticipare attacchi e proteggere l'identità digitale
 
-Nel 2025, con l’aumento di ransomware-as-a-service, gruppi APT, frodi BEC, credential stuffing e data leak su dark web e Telegram, la **Threat Intelligence (TI)** e la **Digital Risk Protection (DRP)** sono diventate essenziali per prevenire incidenti, violazioni reputazionali e attacchi mirati.
+Nel 2025, con l'aumento di ransomware-as-a-service, gruppi APT, frodi BEC, credential stuffing e data leak su dark web e Telegram, la **Threat Intelligence (TI)** e la **Digital Risk Protection (DRP)** sono diventate essenziali per prevenire incidenti, violazioni reputazionali e attacchi mirati.
 
 Queste discipline offrono:
 
@@ -74,7 +74,7 @@ Minded incrocia threat feed con codebase e ambienti CI/CD.
 
 ### 8. CINECA: DRP per enti accademici, universitari e consorzi
 
-CINECA aiuta centri ricerca e università a proteggere l’identità digitale.
+CINECA aiuta centri ricerca e università a proteggere l'identità digitale.
 
 ---
 
@@ -104,8 +104,8 @@ EXEEC fornisce moduli TI+DRP pronti per provider gestiti.
 
 ## Domande frequenti (FAQ)
 
-**Cos’è la Threat Intelligence?**
-È l’attività di raccolta, analisi e condivisione di informazioni su minacce attuali e future, al fine di anticipare attacchi e proteggere asset digitali.
+**Cos'è la Threat Intelligence?**
+È l'attività di raccolta, analisi e condivisione di informazioni su minacce attuali e future, al fine di anticipare attacchi e proteggere asset digitali.
 
 **ISGroup monitora anche Telegram o ambienti chiusi?**
 Sì. Monitoraggio avanzato di canali chiusi, dump, ransomware, marketplace, e chat Telegram.
@@ -116,8 +116,8 @@ Da ~5.000€/anno per PMI, fino a oltre 40.000€/anno per ambienti complessi e 
 **È utile per la compliance?**
 Sì. È richiesto da DORA, NIS2 e ACN per il monitoraggio rischio cyber, supply chain e attaccanti.
 
-**Quanto dura l’attivazione?**
-Attivo in 1–2 settimane. ISGroup fornisce feed, alert e dashboard in tempo reale.
+**Quanto dura l'attivazione?**
+Attivo in 1-2 settimane. ISGroup fornisce feed, alert e dashboard in tempo reale.
 
 **Posso integrarlo nel mio SOC?**
 Sì. TI/DRP ISGroup è integrabile via API, feed, SIEM, XDR, dashboard, email.

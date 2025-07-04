@@ -104,7 +104,7 @@ EXEEC offre test white-label per operatori MSSP, compliance e ISO readiness.
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Penetration Test?**
+**Cos'è un Penetration Test?**
 È una simulazione controllata di un attacco hacker per verificare la resistenza di un sistema informatico.
 
 **ISGroup esegue test reali o automatizzati?**

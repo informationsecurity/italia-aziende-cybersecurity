@@ -26,7 +26,7 @@ ISGroup SRL offre un servizio completo per aiutare aziende **a ottenere e manten
 
 **Perché è diversa:**
 
-ISGroup **non si limita all’audit**: implementa le misure richieste a livello di rete, applicazioni, cloud e CI/CD. Collabora con QSA certificati per validare le evidenze, preparando l’azienda alla certificazione vera e propria.
+ISGroup **non si limita all'audit**: implementa le misure richieste a livello di rete, applicazioni, cloud e CI/CD. Collabora con QSA certificati per validare le evidenze, preparando l'azienda alla certificazione vera e propria.
 
 ---
 
@@ -38,7 +38,7 @@ CIPHER è QSA ufficiale e offre certificazioni PCI DSS in Italia, con servizi au
 
 ### 3. Exprivia CyberSecurity: PCI DSS per PSP e banche
 
-Exprivia supporta ambienti regolamentati, con soluzioni tecniche e consulenziali per Req. 6–12 e ambienti cloud.
+Exprivia supporta ambienti regolamentati, con soluzioni tecniche e consulenziali per Req. 6-12 e ambienti cloud.
 
 ---
 
@@ -50,7 +50,7 @@ Deloitte propone un framework compliance che unisce PCI, DORA, PSD2 e ISO/IEC 27
 
 ### 5. TIM Enterprise: PCI-ready cloud e logging
 
-TIM offre servizi cloud e sicurezza con logging, MFA e segmentazione pensati per l’ambiente CDE.
+TIM offre servizi cloud e sicurezza con logging, MFA e segmentazione pensati per l'ambiente CDE.
 
 ---
 
@@ -89,7 +89,7 @@ EXEEC fornisce tool e metodologie PCI per partner MSSP che seguono clienti e-com
 | Criterio                        | Descrizione                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|
 | **Servizi offerti**            | Gap analysis, remediation, audit readiness, supporto QSA                     |
-| **Requisiti coperti**          | PCI DSS v4.0 Req. 1–12, ASV scan, PT, SIEM, segmentation                     |
+| **Requisiti coperti**          | PCI DSS v4.0 Req. 1-12, ASV scan, PT, SIEM, segmentation                     |
 | **Integrazione compliance**    | ISO/IEC 27001, DORA, PSD2, GDPR                                              |
 | **Delivery**                   | Consulenza, servizi tecnici, test, logging, formazione                       |
 | **Target**                     | PSP, ecommerce, cloud provider, fintech, B2C                                 |
@@ -102,7 +102,7 @@ EXEEC fornisce tool e metodologie PCI per partner MSSP che seguono clienti e-com
 Tutte le aziende che memorizzano, processano o trasmettono dati di carte di pagamento, direttamente o tramite terze parti.
 
 **ISGroup è un QSA?**
-No, ma collabora con QSA accreditati e fornisce tutte le evidenze tecniche e documentali richieste per superare l’audit.
+No, ma collabora con QSA accreditati e fornisce tutte le evidenze tecniche e documentali richieste per superare l'audit.
 
 **Fornite anche test richiesti da PCI (PT, VA)?**
 Sì. ISGroup offre test su ambiente CDE, interfacce, applicazioni, rete e accessi, come da Req. 11.3 e 11.4.
@@ -116,7 +116,7 @@ Da 2 a 4 mesi, in base alla maturità, infrastruttura e gap rilevati.
 **Il servizio copre anche logging e segmentazione?**
 Sì. ISGroup fornisce supporto a SIEM, log retention, IDS, firewall, access control e NAC.
 
-**Serve rifare l’audit ogni anno?**
+**Serve rifare l'audit ogni anno?**
 Sì. PCI DSS richiede validazione annuale e scan trimestrali da ASV.
 
 **Supportate DevOps e ambienti cloud?**

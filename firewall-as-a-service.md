@@ -96,15 +96,15 @@ EXEEC fornisce tecnologia FWaaS per MSSP e system integrator, con opzioni white 
 | **Tecnologia**                 | Filtering L7, TLS inspection, identity-aware firewall                        |
 | **Integrazione**               | SOC, SIEM, XDR, SD-WAN, Zero Trust                                           |
 | **Compliance supportata**      | ISO/IEC 27001, ACN, GDPR, NIS2, DORA                                         |
-| **Facilità d’uso**             | Portale, API, assistenza, supporto clienti                                  |
+| **Facilità d'uso**             | Portale, API, assistenza, supporto clienti                                  |
 | **Performance e scalabilità**  | Multi-tenant, traffico cifrato, bassa latenza                                |
 
 ---
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Firewall-as-a-Service (FWaaS)?**
-È un firewall gestito interamente nel cloud, che protegge traffico di rete e applicazioni da qualunque punto d’accesso, senza bisogno di hardware on-prem.
+**Cos'è un Firewall-as-a-Service (FWaaS)?**
+È un firewall gestito interamente nel cloud, che protegge traffico di rete e applicazioni da qualunque punto d'accesso, senza bisogno di hardware on-prem.
 
 **Quali sono i vantaggi rispetto a un firewall tradizionale?**
 Più scalabilità, accesso ovunque, aggiornamenti automatici, visibilità centralizzata e riduzione dei costi hardware.
@@ -125,4 +125,4 @@ Dipende dal numero di utenti, sedi, traffico e funzionalità. Le soluzioni parto
 ISGroup è certificata ISO/IEC 27001 e 9001. Il servizio FWaaS è conforme alle linee guida ACN per sistemi critici.
 
 **Il firewall blocca anche attacchi in HTTPS?**
-Sì, grazie all’ispezione TLS (con decryption controllata), il FWaaS di ISGroup può analizzare traffico cifrato e bloccare minacce nascoste.
+Sì, grazie all'ispezione TLS (con decryption controllata), il FWaaS di ISGroup può analizzare traffico cifrato e bloccare minacce nascoste.

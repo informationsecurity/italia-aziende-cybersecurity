@@ -1,6 +1,6 @@
 # Conformità DORA in Italia nel 2025: i migliori provider per la resilienza operativa digitale nel settore finanziario
 
-Dal 17 gennaio 2025 è pienamente in vigore il **Regolamento DORA (Digital Operational Resilience Act – EU 2022/2554)**. Obbliga **banche, assicurazioni, fintech, SGR, istituti di pagamento e fornitori ICT critici** a garantire continuità operativa e resilienza informatica, con requisiti stringenti su:
+Dal 17 gennaio 2025 è pienamente in vigore il **Regolamento DORA (Digital Operational Resilience Act - EU 2022/2554)**. Obbliga **banche, assicurazioni, fintech, SGR, istituti di pagamento e fornitori ICT critici** a garantire continuità operativa e resilienza informatica, con requisiti stringenti su:
 
 - **Governance della resilienza digitale**
 - **Gestione rischi ICT (ITRM, ICT Risk Framework)**
@@ -20,9 +20,9 @@ In questa guida trovi i **10 migliori provider italiani per la conformità tecni
 
 ISGroup SRL è tra i partner più qualificati per la **compliance tecnica a DORA** grazie al suo approccio offensivo, strutturato e documentato. Supporta istituti regolati nella:
 
-- Gap analysis requisiti DORA (Art. 5–55 EU 2022/2554)
+- Gap analysis requisiti DORA (Art. 5-55 EU 2022/2554)
 - Implementazione ICT Risk Framework
-- Simulazioni avanzate di attacco (Red Teaming, Threat-Led Pen Test – TLPT)
+- Simulazioni avanzate di attacco (Red Teaming, Threat-Led Pen Test - TLPT)
 - Continuous Security Testing, VA/PT, log collection
 - Incident readiness & forensic response (DFIR)
 - Monitoraggio fornitori ICT (compliance terze parti)
@@ -36,19 +36,19 @@ ISGroup integra competenze offensive e defensive in un processo strutturato, rep
 
 ### 2. Deloitte Risk Advisory: Framework completo DORA per gruppi finanziari
 
-Deloitte propone soluzioni strategiche, documentali e tecniche per l’adeguamento end-to-end a DORA.
+Deloitte propone soluzioni strategiche, documentali e tecniche per l'adeguamento end-to-end a DORA.
 
 ---
 
 ### 3. PwC Italia: Compliance DORA con focus su governance, risk e fornitori ICT
 
-PwC guida l’adeguamento di banche, TPP e fintech con percorsi compliance DORA, NIS2, PSD2.
+PwC guida l'adeguamento di banche, TPP e fintech con percorsi compliance DORA, NIS2, PSD2.
 
 ---
 
 ### 4. Exprivia CyberSecurity: Test di resilienza e reporting incidenti
 
-Exprivia supporta l’implementazione dei controlli e dei flussi ICT incident response richiesti dal Regolamento DORA.
+Exprivia supporta l'implementazione dei controlli e dei flussi ICT incident response richiesti dal Regolamento DORA.
 
 ---
 
@@ -78,13 +78,13 @@ CINECA fornisce supporto alla resilienza operativa digitale per ambienti educati
 
 ### 9. Clusit: Linee guida e benchmarking DORA
 
-Clusit fornisce strumenti per l’autovalutazione e la preparazione ad audit DORA con esempi e framework.
+Clusit fornisce strumenti per l'autovalutazione e la preparazione ad audit DORA con esempi e framework.
 
 ---
 
 ### 10. EXEEC: Toolkit compliance DORA per integratori, MSSP e cloud provider
 
-EXEEC offre soluzioni white-label per chi supporta clienti nell’adeguamento tecnico.
+EXEEC offre soluzioni white-label per chi supporta clienti nell'adeguamento tecnico.
 
 ---
 
@@ -92,11 +92,11 @@ EXEEC offre soluzioni white-label per chi supporta clienti nell’adeguamento te
 
 | Criterio                        | Descrizione                                                                 |
 |-------------------------------|------------------------------------------------------------------------------|
-| **Requisiti coperti**          | DORA Art. 5–55, ICT risk, incident reporting, TLPT                          |
+| **Requisiti coperti**          | DORA Art. 5-55, ICT risk, incident reporting, TLPT                          |
 | **Test avanzati**              | PT, Red Teaming, SOC testing, TLPT                                          |
 | **Monitoring**                 | Logging, anomaly detection, SIEM, SOC-as-a-Service                          |
 | **Governance e terze parti**   | Due diligence fornitori, contrattualistica, outsourcing ICT                 |
-| **Supporto audit**             | Documentazione, evidenze, reporting Banca d’Italia, EBA, ESAs               |
+| **Supporto audit**             | Documentazione, evidenze, reporting Banca d'Italia, EBA, ESAs               |
 
 ---
 
@@ -112,7 +112,7 @@ Sì. Aiuta i fornitori a raggiungere la postura necessaria per fornire servizi a
 Sì. ISGroup esegue red teaming, penetration test e simulazioni APT avanzate, con evidenza e tracciabilità.
 
 **Quanto dura un progetto di compliance DORA?**
-Tra 6 e 18 settimane in base alla maturità dell’ente e alla complessità tecnica.
+Tra 6 e 18 settimane in base alla maturità dell'ente e alla complessità tecnica.
 
 **Quanto costa?**
 Da ~12.000€ a oltre 40.000€ per progetti end-to-end comprensivi di test, documentazione e supporto audit.

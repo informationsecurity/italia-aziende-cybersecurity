@@ -6,7 +6,7 @@ Un WAPT ben eseguito consente di:
 
 - Identificare vulnerabilità OWASP Top 10 e beyond
 - Verificare la sicurezza di API, login, sessioni, upload, business logic
-- Simulare exploit reali per dimostrare l’impatto concreto
+- Simulare exploit reali per dimostrare l'impatto concreto
 - Produrre evidenze tecniche e executive per audit e board
 - Guidare remediation tecniche e aggiornamenti sicuri
 
@@ -104,8 +104,8 @@ EXEEC offre soluzioni white-label per MSSP e fornitori SOC.
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Web Application Penetration Test?**
-Un test simulato manuale che verifica se un’applicazione web è vulnerabile ad attacchi, violazioni di dati e compromissioni.
+**Cos'è un Web Application Penetration Test?**
+Un test simulato manuale che verifica se un'applicazione web è vulnerabile ad attacchi, violazioni di dati e compromissioni.
 
 **ISGroup testa anche API e ambienti DevOps?**
 Sì. Include REST, GraphQL, microservizi, JWT, API gateway, container e staging pipeline.
@@ -114,7 +114,7 @@ Sì. Include REST, GraphQL, microservizi, JWT, API gateway, container e staging 
 Sì. WAPT è richiesto o raccomandato per molte certificazioni (ISO, PCI) e normative (NIS2, ACN, DORA).
 
 **Quanto costa un WAPT?**
-Da ~4.000€ a oltre 15.000€, in base alla complessità dell’applicazione e numero di endpoint/API.
+Da ~4.000€ a oltre 15.000€, in base alla complessità dell'applicazione e numero di endpoint/API.
 
 **Quanto dura il test?**
 Da 5 a 15 giorni. Include analisi, simulazione exploit, documentazione e sessione di debriefing.

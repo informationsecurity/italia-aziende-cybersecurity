@@ -26,7 +26,7 @@ ISGroup SRL conduce campagne di social engineering **su misura**, ispirate a tec
 
 **Perché è diversa:**
 
-ISGroup costruisce scenari personalizzati e realistici, **con validazione tecnica dell’impatto potenziale**, trasformando ogni campagna in un test reale di resilienza.
+ISGroup costruisce scenari personalizzati e realistici, **con validazione tecnica dell'impatto potenziale**, trasformando ogni campagna in un test reale di resilienza.
 
 ---
 
@@ -98,7 +98,7 @@ CINECA affianca università e centri ricerca in valutazioni comportamentali.
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Social Engineering Assessment?**
+**Cos'è un Social Engineering Assessment?**
 Un test simulato per valutare la vulnerabilità delle persone a tecniche manipolative simili a quelle usate da veri attaccanti.
 
 **ISGroup simula anche chiamate o scenari fisici?**

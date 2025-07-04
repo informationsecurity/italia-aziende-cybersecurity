@@ -1,6 +1,6 @@
 # Security Operation Center (SOC) in Italia nel 2025: i migliori provider per presidio continuo, detection avanzata e risposta incidenti
 
-Nel 2025, il **Security Operation Center (SOC)** è diventato il cuore delle operazioni di sicurezza per aziende regolamentate, infrastrutture critiche, fintech e PA. Con l’evoluzione delle minacce (ransomware, supply chain, insider, attacchi cloud-native), il SOC moderno è:
+Nel 2025, il **Security Operation Center (SOC)** è diventato il cuore delle operazioni di sicurezza per aziende regolamentate, infrastrutture critiche, fintech e PA. Con l'evoluzione delle minacce (ransomware, supply chain, insider, attacchi cloud-native), il SOC moderno è:
 
 - Continuo (24/7)
 - Automatizzato (XDR, SOAR, AI/ML)
@@ -29,7 +29,7 @@ ISGroup SRL gestisce un SOC avanzato che unisce **monitoraggio 24/7, threat inte
 
 **Perché è diversa:**
 
-ISGroup non offre solo detection generica, ma **capisce l’ecosistema del cliente, lo mappa sulle minacce reali e costruisce detection e reazione concrete e misurabili**.
+ISGroup non offre solo detection generica, ma **capisce l'ecosistema del cliente, lo mappa sulle minacce reali e costruisce detection e reazione concrete e misurabili**.
 
 ---
 
@@ -101,7 +101,7 @@ CINECA protegge ambienti accademici e cluster di ricerca con servizi gestiti SOC
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un SOC-as-a-Service?**
+**Cos'è un SOC-as-a-Service?**
 Un servizio gestito che fornisce monitoraggio continuo degli eventi di sicurezza, gestione alert, risposta a incidenti e supporto compliance.
 
 **ISGroup fornisce anche supporto incidenti?**
@@ -110,7 +110,7 @@ Sì. Con servizio DFIR (Digital Forensics and Incident Response), supporto inves
 **Quanto costa un SOC?**
 Da ~1.500€/mese per PMI, fino a 15.000€/mese per ambienti complessi e regolati.
 
-**Quanto dura l’attivazione?**
+**Quanto dura l'attivazione?**
 Da 2 a 6 settimane. ISGroup offre onboarding e tuning personalizzato.
 
 **È utile per la NIS2 o DORA?**

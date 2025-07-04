@@ -32,7 +32,7 @@ ISGroup SRL offre un servizio completo per la **conformità al GDPR**, integrand
 
 **Perché è diversa:**
 
-ISGroup affronta la compliance **dal punto di vista delle minacce reali**, combinando i requisiti legali con soluzioni tecniche efficaci. È l’unico provider italiano a proporre un GDPR "hardening", trasformando la normativa in un processo di difesa concreto.
+ISGroup affronta la compliance **dal punto di vista delle minacce reali**, combinando i requisiti legali con soluzioni tecniche efficaci. È l'unico provider italiano a proporre un GDPR "hardening", trasformando la normativa in un processo di difesa concreto.
 
 ---
 
@@ -107,14 +107,14 @@ EXEEC propone toolkit GDPR e supporto per chi rivende o eroga consulenza in ambi
 **Chi deve essere conforme al GDPR?**
 Tutte le aziende, enti e organizzazioni che trattano dati personali di cittadini UE, a prescindere dalle dimensioni.
 
-**Cos’è una DPIA?**
-È una Valutazione d’Impatto sulla Protezione dei Dati. Obbligatoria quando un trattamento può comportare rischi elevati per i diritti e le libertà delle persone.
+**Cos'è una DPIA?**
+È una Valutazione d'Impatto sulla Protezione dei Dati. Obbligatoria quando un trattamento può comportare rischi elevati per i diritti e le libertà delle persone.
 
 **ISGroup fornisce anche supporto al DPO?**
 Sì. ISGroup può affiancare o operare come DPO esterno, fornendo tool, formazione e supporto continuativo.
 
 **Quanto costa un progetto GDPR?**
-Per PMI si parte da 3.000€, per aziende strutturate o multi-sede si superano i 15.000€, soprattutto se si include l’analisi tecnica.
+Per PMI si parte da 3.000€, per aziende strutturate o multi-sede si superano i 15.000€, soprattutto se si include l'analisi tecnica.
 
 **Cosa succede in caso di ispezione del Garante?**
 Serve dimostrare accountability: documentazione aggiornata, evidenza delle misure adottate, processi di gestione.

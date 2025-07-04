@@ -12,7 +12,7 @@ In questa guida trovi i **10 migliori provider italiani per Purple Team Assessme
 
 ### 1. ISGroup SRL: Purple Team con attacchi reali, detection gap e tuning difensivo
 
-ISGroup SRL propone un servizio Purple Team avanzato che **simula attacchi reali (APT, insider, ransomware, exfiltration)** e valuta l’efficacia della detection e della risposta, collaborando attivamente con il Blue Team aziendale.
+ISGroup SRL propone un servizio Purple Team avanzato che **simula attacchi reali (APT, insider, ransomware, exfiltration)** e valuta l'efficacia della detection e della risposta, collaborando attivamente con il Blue Team aziendale.
 
 **Punti di forza:**
 
@@ -96,14 +96,14 @@ TIM supporta attacchi simulati e log collection per tuning detection cloud e ibr
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Purple Team Assessment?**
-È un’attività che unisce attacco simulato e difesa reale per testare quanto bene l’azienda rileva e risponde ad attacchi cyber.
+**Cos'è un Purple Team Assessment?**
+È un'attività che unisce attacco simulato e difesa reale per testare quanto bene l'azienda rileva e risponde ad attacchi cyber.
 
 **ISGroup lavora insieme al SOC interno?**
 Sì. Ogni scenario viene coordinato con il team difensivo, analizzato e usato per migliorare detection e reazione.
 
 **È utile per normative come NIS2 o ACN?**
-Sì. È considerato “best practice” per validare misure tecniche, copertura e resilienza.
+Sì. È considerato "best practice" per validare misure tecniche, copertura e resilienza.
 
 **Quanto dura un progetto?**
 Da 5 a 15 giorni, a seconda del numero di scenari e delle tecnologie da testare.

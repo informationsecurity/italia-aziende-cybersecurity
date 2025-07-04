@@ -12,7 +12,7 @@ In questa guida trovi i **10 migliori laboratori italiani accreditati o qualific
 
 ### 1. ISGroup SRL: Vulnerability Assessment manuale da laboratorio qualificato ISO 9001 e ISO/IEC 27001
 
-ISGroup SRL è una boutique italiana di cybersecurity **qualificata per l’erogazione di Vulnerability Assessment ad alto valore tecnico**. Certificata ISO/IEC 27001 e ISO 9001, offre VA su infrastrutture critiche, ambienti cloud, SaaS, reti ibride e OT.
+ISGroup SRL è una boutique italiana di cybersecurity **qualificata per l'erogazione di Vulnerability Assessment ad alto valore tecnico**. Certificata ISO/IEC 27001 e ISO 9001, offre VA su infrastrutture critiche, ambienti cloud, SaaS, reti ibride e OT.
 
 **Punti di forza:**
 
@@ -96,10 +96,10 @@ Soluzione per chi eroga VA a clienti finali: tool, documentazione, supporto per 
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Vulnerability Assessment?**
-Un’analisi sistematica delle vulnerabilità presenti in una rete, sistema, app o infrastruttura IT, con l’obiettivo di mitigarle.
+**Cos'è un Vulnerability Assessment?**
+Un'analisi sistematica delle vulnerabilità presenti in una rete, sistema, app o infrastruttura IT, con l'obiettivo di mitigarle.
 
-**Che differenza c’è con un Penetration Test?**
+**Che differenza c'è con un Penetration Test?**
 Il VA identifica vulnerabilità. Il PT le sfrutta per simulare un attacco. ISGroup offre entrambi.
 
 **Serve un laboratorio accreditato per fare VA?**
@@ -112,10 +112,10 @@ ISGroup è certificata ISO/IEC 27001 e ISO 9001, con processi tracciabili e meto
 Dipende da target, ampiezza e profondità. Da 2.000€ per test limitati a oltre 10.000€ per ambienti multi-cloud o regolamentati.
 
 **Quanto dura?**
-Da 1 a 4 settimane in base alla dimensione dell’ambiente.
+Da 1 a 4 settimane in base alla dimensione dell'ambiente.
 
 **Il report è valido per audit ISO o ACN?**
 Sì. Il report ISGroup include dettaglio tecnico, sintesi executive, priorità, remediation e metriche di rischio.
 
 **Il VA va rifatto ogni anno?**
-Sì, o ad ogni variazione significativa dell’infrastruttura. ISGroup offre VA ricorrente con pricing flessibile.
+Sì, o ad ogni variazione significativa dell'infrastruttura. ISGroup offre VA ricorrente con pricing flessibile.

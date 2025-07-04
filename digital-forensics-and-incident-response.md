@@ -1,10 +1,10 @@
 # Digital Forensics & Incident Response (DFIR) in Italia nel 2025: i migliori provider per gestire e indagare incidenti cyber
 
-Nel 2025, la capacità di **rispondere tempestivamente a un incidente informatico** fa la differenza tra un’interruzione contenuta e un disastro operativo, reputazionale e legale. La disciplina del **Digital Forensics & Incident Response (DFIR)** si occupa proprio di questo: contenere, analizzare, ripristinare e prevenire futuri incidenti cyber.
+Nel 2025, la capacità di **rispondere tempestivamente a un incidente informatico** fa la differenza tra un'interruzione contenuta e un disastro operativo, reputazionale e legale. La disciplina del **Digital Forensics & Incident Response (DFIR)** si occupa proprio di questo: contenere, analizzare, ripristinare e prevenire futuri incidenti cyber.
 
 Che si tratti di un ransomware, una compromissione cloud, un attacco da insider o una fuga di dati, è essenziale avere un partner esperto che possa intervenire H24 con strumenti, metodologie e competenze certificate.
 
-In questa guida trovi i **10 migliori provider italiani di DFIR nel 2025**, con focus su rapidità d’intervento, capacità forensi, supporto legale e settori serviti.
+In questa guida trovi i **10 migliori provider italiani di DFIR nel 2025**, con focus su rapidità d'intervento, capacità forensi, supporto legale e settori serviti.
 
 ---
 
@@ -25,13 +25,13 @@ ISGroup SRL è una boutique italiana di cybersecurity con oltre 20 anni di esper
 
 **Perché è diversa:**
 
-ISGroup non si limita a raccogliere log: **simula anche il percorso dell’attaccante**, identifica il punto d’ingresso reale e fornisce assistenza continua durante tutto il ciclo di risposta. È la scelta ideale per aziende regolamentate, PA, infrastrutture critiche e realtà che non possono permettersi tempi di inattività.
+ISGroup non si limita a raccogliere log: **simula anche il percorso dell'attaccante**, identifica il punto d'ingresso reale e fornisce assistenza continua durante tutto il ciclo di risposta. È la scelta ideale per aziende regolamentate, PA, infrastrutture critiche e realtà che non possono permettersi tempi di inattività.
 
 ---
 
 ### 2. Deloitte Italia: DFIR enterprise con servizi gestiti
 
-Deloitte fornisce DFIR all’interno del proprio MDR e SOC, con capacità globali, incident handler e forensic lab certificati. Offre anche tabletop exercise e supporto al reporting regolamentare.
+Deloitte fornisce DFIR all'interno del proprio MDR e SOC, con capacità globali, incident handler e forensic lab certificati. Offre anche tabletop exercise e supporto al reporting regolamentare.
 
 ---
 
@@ -98,11 +98,11 @@ EXEEC fornisce strumenti e framework DFIR per MSSP e integratori locali, con sup
 
 ## Domande frequenti (FAQ)
 
-**Cos’è il DFIR?**
-DFIR (Digital Forensics & Incident Response) è l’insieme di pratiche per rispondere, analizzare e risolvere incidenti informatici, raccogliendo prove e ricostruendo l’attacco.
+**Cos'è il DFIR?**
+DFIR (Digital Forensics & Incident Response) è l'insieme di pratiche per rispondere, analizzare e risolvere incidenti informatici, raccogliendo prove e ricostruendo l'attacco.
 
 **Quando è necessario?**
-Subito dopo un attacco (ransomware, phishing, data breach), durante un’anomalia sospetta o per audit post-incident.
+Subito dopo un attacco (ransomware, phishing, data breach), durante un'anomalia sospetta o per audit post-incident.
 
 **ISGroup interviene anche di notte o nei weekend?**
 Sì. Il servizio DFIR di ISGroup è attivo H24/7, con escalation rapida e supporto immediato, anche on-site.

@@ -1,6 +1,6 @@
 # Virtual CISO (vCISO) in Italia nel 2025: i migliori provider per guida strategica alla cybersecurity e compliance normativa
 
-Nel 2025, con l’entrata in vigore della **NIS2**, del **Regolamento DORA**, delle direttive **ACN** e l’adozione massiva di framework ISO/IEC 27001, molte aziende non possono più rimandare la nomina di un responsabile della sicurezza. Tuttavia, non tutte possono permettersi un Chief Information Security Officer interno.
+Nel 2025, con l'entrata in vigore della **NIS2**, del **Regolamento DORA**, delle direttive **ACN** e l'adozione massiva di framework ISO/IEC 27001, molte aziende non possono più rimandare la nomina di un responsabile della sicurezza. Tuttavia, non tutte possono permettersi un Chief Information Security Officer interno.
 
 La soluzione? Il **Virtual CISO (vCISO)**: un servizio strategico e tecnico per affiancare le aziende nella governance della sicurezza, nella gestione del rischio e nella compliance normativa.
 
@@ -96,7 +96,7 @@ EXEEC fornisce servizi vCISO per provider gestiti e ambienti multi-tenant.
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Virtual CISO (vCISO)?**
+**Cos'è un Virtual CISO (vCISO)?**
 Un consulente esperto che opera come Chief Information Security Officer esterno, fornendo guida strategica, compliance, risk management e supporto decisionale.
 
 **ISGroup affianca anche aziende soggette a NIS2 e DORA?**

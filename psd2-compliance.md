@@ -1,6 +1,6 @@
 # Conformità PSD2 in Italia nel 2025: i migliori provider per sicurezza, SCA e gestione dei rischi nei pagamenti digitali
 
-Nel 2025, la **direttiva PSD2 (EU 2015/2366)** è pienamente operativa e soggetta a ispezioni sempre più severe da parte di **Banca d’Italia** e **autorità di vigilanza europee**. Oltre agli obblighi normativi, la PSD2 impone **Standard di Sicurezza** come:
+Nel 2025, la **direttiva PSD2 (EU 2015/2366)** è pienamente operativa e soggetta a ispezioni sempre più severe da parte di **Banca d'Italia** e **autorità di vigilanza europee**. Oltre agli obblighi normativi, la PSD2 impone **Standard di Sicurezza** come:
 
 - Autenticazione forte del cliente (SCA)
 - Sicurezza delle API (AISP, PISP, ASPSP)
@@ -32,7 +32,7 @@ ISGroup SRL supporta PSP, fintech, banche, TPP e gateway con servizi di **verifi
 
 **Perché è diversa:**
 
-ISGroup integra l’approccio **offensivo (PT, VA, fuzzing API)** con una forte attenzione ai requisiti documentali e alla conformità ai RTS e alle linee guida EBA. È ideale per fintech, challenger bank, PSP e TPP in cerca di compliance e sicurezza concreta.
+ISGroup integra l'approccio **offensivo (PT, VA, fuzzing API)** con una forte attenzione ai requisiti documentali e alla conformità ai RTS e alle linee guida EBA. È ideale per fintech, challenger bank, PSP e TPP in cerca di compliance e sicurezza concreta.
 
 ---
 
@@ -80,7 +80,7 @@ Hackmanac assiste startup fintech nella costruzione di API sicure, SCA e segnala
 
 ### 9. CINECA: Supporto compliance per università e PSP accademici
 
-CINECA affianca strutture accademiche nell’adeguamento PSD2, con API, SCA e documentazione.
+CINECA affianca strutture accademiche nell'adeguamento PSD2, con API, SCA e documentazione.
 
 ---
 
@@ -114,9 +114,9 @@ Sì. Fuzzing, injection, token abuse, auth bypass, replay e test DoS.
 Sì. ISGroup analizza SCA multi-device, OTP, app-to-app, challenge-response.
 
 **Quanto costa un progetto di conformità PSD2?**
-Da ~5.000€ a oltre 20.000€ in base alla complessità dell’ambiente e dei servizi in scope.
+Da ~5.000€ a oltre 20.000€ in base alla complessità dell'ambiente e dei servizi in scope.
 
-**Il servizio è valido per audit di Banca d’Italia?**
+**Il servizio è valido per audit di Banca d'Italia?**
 Sì. Include evidenze, test, documentazione e supporto su RTS/GL EBA.
 
 **È compatibile con ambienti cloud e mobile?**

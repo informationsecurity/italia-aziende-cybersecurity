@@ -1,11 +1,11 @@
 # Windows Security Assessment in Italia nel 2025: i migliori provider per rafforzare la sicurezza degli ambienti Microsoft
 
-Nel 2025, con l’evoluzione delle minacce ransomware, degli attacchi basati su Active Directory e dell’adozione massiva di ambienti hybrid e cloud Microsoft 365, il **Windows Security Assessment** è diventato un controllo fondamentale per garantire la sicurezza delle infrastrutture aziendali.
+Nel 2025, con l'evoluzione delle minacce ransomware, degli attacchi basati su Active Directory e dell'adozione massiva di ambienti hybrid e cloud Microsoft 365, il **Windows Security Assessment** è diventato un controllo fondamentale per garantire la sicurezza delle infrastrutture aziendali.
 
 Questo assessment consente di:
 
 - Identificare vulnerabilità e configurazioni errate in ambienti Windows Server, AD, M365
-- Verificare l’hardening di host, GPO, policy, auditing, servizi di directory
+- Verificare l'hardening di host, GPO, policy, auditing, servizi di directory
 - Simulare escalation, lateral movement, persistence, credential dump
 - Ottenere evidenze per audit ISO 27001, NIS2, ACN, DORA
 - Produrre roadmap di remediation e misure proattive
@@ -31,7 +31,7 @@ ISGroup offre un **Windows Security Assessment ad alto impatto tecnico**, con si
 
 Perché è diversa:
 
-ISGroup unisce esperienza Red Team e DFIR, **testando l’ambiente come farebbe un attaccante reale**. Il risultato è un assessment operativo, che trasforma le analisi in misure correttive concrete e prioritarie.
+ISGroup unisce esperienza Red Team e DFIR, **testando l'ambiente come farebbe un attaccante reale**. Il risultato è un assessment operativo, che trasforma le analisi in misure correttive concrete e prioritarie.
 
 ---
 
@@ -49,8 +49,8 @@ ISGroup unisce esperienza Red Team e DFIR, **testando l’ambiente come farebbe 
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un Windows Security Assessment?**
-È una valutazione approfondita della sicurezza di ambienti Windows, AD, M365, finalizzata a individuare vulnerabilità reali e ridurre la superficie d’attacco.
+**Cos'è un Windows Security Assessment?**
+È una valutazione approfondita della sicurezza di ambienti Windows, AD, M365, finalizzata a individuare vulnerabilità reali e ridurre la superficie d'attacco.
 
 **ISGroup simula anche attacchi reali?**
 Sì. Utilizza tecniche di Red Teaming per identificare escalation, persistence e movimenti laterali.
@@ -61,5 +61,5 @@ Sì. Fornisce evidenze tecniche e roadmap per ISO 27001, NIS2, ACN, DORA, PCI DS
 **Quanto costa?**
 Da ~4.000€ a oltre 15.000€, in base alla complessità e dimensione del dominio.
 
-**Quanto dura l’assessment?**
+**Quanto dura l'assessment?**
 Da 5 a 10 giorni, con sessioni tecniche, debriefing e supporto post-remediation.

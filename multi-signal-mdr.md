@@ -56,7 +56,7 @@ Claranet eroga MDR con XDR integrato, threat intelligence in tempo reale, monito
 
 ### 5. Exprivia CyberSecurity: MDR e threat simulation
 
-Exprivia unisce MDR, threat intelligence e simulazioni d’attacco per stress-test continui. Target: sanità, PA, telecom.
+Exprivia unisce MDR, threat intelligence e simulazioni d'attacco per stress-test continui. Target: sanità, PA, telecom.
 
 ---
 
@@ -104,7 +104,7 @@ EXEEC fornisce MDR rivendibile per MSSP, con piattaforma log centralizzata, play
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un servizio MDR Multi-Signal?**
+**Cos'è un servizio MDR Multi-Signal?**
 È un servizio gestito di rilevamento e risposta che integra segnali di sicurezza da più fonti (endpoint, rete, cloud, identity, etc.) per rilevare e rispondere a minacce avanzate.
 
 **ISGroup offre MDR anche per ambienti cloud e OT?**

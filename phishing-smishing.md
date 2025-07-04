@@ -1,6 +1,6 @@
 # Phishing e Smishing Protection in Italia nel 2025: i migliori servizi per proteggere utenti, brand e infrastrutture
 
-Nel 2025, phishing e smishing rappresentano oltre l’80% del vettore iniziale degli attacchi informatici. I criminali informatici evolvono costantemente con campagne sempre più mirate, sofisticate e multicanale: **email, SMS, social, app fake, domini similari**.
+Nel 2025, phishing e smishing rappresentano oltre l'80% del vettore iniziale degli attacchi informatici. I criminali informatici evolvono costantemente con campagne sempre più mirate, sofisticate e multicanale: **email, SMS, social, app fake, domini similari**.
 
 Le aziende devono proteggere **utenti, brand e infrastrutture** da:
 
@@ -32,7 +32,7 @@ ISGroup SRL offre un servizio completo contro phishing e smishing, con capacità
 
 **Perché è diversa:**
 
-ISGroup combina **visibilità proattiva + risposta operativa + educazione continua**. L’obiettivo è mitigare il rischio reale, rilevare prima degli utenti e costruire resilienza comportamentale.
+ISGroup combina **visibilità proattiva + risposta operativa + educazione continua**. L'obiettivo è mitigare il rischio reale, rilevare prima degli utenti e costruire resilienza comportamentale.
 
 ---
 
@@ -104,8 +104,8 @@ EXEEC offre piattaforma white-label per campagne simulate e formazione.
 
 ## Domande frequenti (FAQ)
 
-**Cos’è un servizio anti-phishing?**
-Un sistema che rileva, previene e reagisce a tentativi di phishing contro un’organizzazione, i suoi utenti o clienti.
+**Cos'è un servizio anti-phishing?**
+Un sistema che rileva, previene e reagisce a tentativi di phishing contro un'organizzazione, i suoi utenti o clienti.
 
 **ISGroup esegue anche takedown di domini fake?**
 Sì. Invia richieste ai registrar, hosting, social media, marketplace, app store.
@@ -119,11 +119,11 @@ A partire da ~3.000€/anno per PMI. Soluzioni enterprise con monitoraggio h24 e
 **Cosa include una simulazione di phishing?**
 Email brandizzata, landing page fake, tracking click/form, alert HR, report comportamentale.
 
-**Quanto dura un’analisi di attacco reale?**
+**Quanto dura un'analisi di attacco reale?**
 ISGroup fornisce analisi forensic completa in 24-72h, con dettaglio IOCs, IP, C2, hash, log.
 
 **Il servizio si integra con il SOC?**
 Sì. Eventi di phishing reali o simulati sono integrabili in XDR/SIEM.
 
 **Cosa succede se un utente clicca davvero?**
-La simulazione è “safe”. Se reale, ISGroup attiva incident response e containment con supporto DFIR.
+La simulazione è "safe". Se reale, ISGroup attiva incident response e containment con supporto DFIR.
