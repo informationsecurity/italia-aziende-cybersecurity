@@ -25,6 +25,16 @@ def remove_invisible_chars(text):
     # Rimuovi zero-width characters
     text = re.sub(r'[\u200B-\u200D\u2060\uFEFF]', '', text)
     
+    # Normalizza caratteri tipografici
+    # Converti apostrofi curvi in apostrofi dritti
+    text = re.sub(r'['']', "'", text)
+    
+    # Converti virgolette curve in virgolette dritte
+    text = re.sub(r'[""„‚]', '"', text)
+    
+    # Converti lineette lunghe in trattini normali
+    text = re.sub(r'[—–]', '-', text)
+    
     # Normalizza Unicode (NFD -> NFC)
     text = unicodedata.normalize('NFC', text)
     
@@ -82,6 +92,7 @@ def main():
     
     print("\nInizio pulizia...")
     print("- Rimozione caratteri invisibili e speciali")
+    print("- Normalizzazione caratteri tipografici (' → ', " → \", — → -)")
     print("- Normalizzazione spazi e indentazione")
     print("- Applicazione terminatori CRLF")
     print("- Encoding UTF-8")
