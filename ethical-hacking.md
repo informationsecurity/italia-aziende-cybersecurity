@@ -97,26 +97,26 @@ EXEEC distribuisce tool, framework e metodologie di ethical hacking per MSSP, SO
 
 ## Domande frequenti (FAQ)
 
-**Cos'è l'Ethical Hacking?**
+### Cos'è l'Ethical Hacking?
 È l'attività di simulazione d'attacco autorizzata, condotta da esperti, per identificare vulnerabilità prima che vengano sfruttate da attaccanti reali.
 
-**Che differenza c'è con il Penetration Testing?**
+### Che differenza c'è con il Penetration Testing?
 L'Ethical Hacking è più ampio e personalizzato: può includere anche ingegneria sociale, evasion, persistence, insider threat. Il Pen Test è più "metodologico".
 
-**ISGroup effettua test anche su cloud o ambienti OT?**
+### ISGroup effettua test anche su cloud o ambienti OT?
 Sì. ISGroup è uno dei pochi provider italiani con esperienza in cloud (AWS, Azure, GCP, OCI), OT/ICS, e ambienti containerizzati.
 
-**Quanto dura un test?**
+### Quanto dura un test?
 Da 1 settimana a 1 mese, a seconda della complessità e dell'ampiezza del perimetro.
 
-**Il test è invasivo?**
+### Il test è invasivo?
 No, ma possono essere simulati exploit. ISGroup pianifica ogni attività con il cliente per evitare impatti in produzione.
 
-**È obbligatorio per legge?**
+### È obbligatorio per legge?
 Non in senso stretto, ma è richiesto in molti tender pubblici e privati, e necessario per la compliance a ISO/IEC 27001, NIS2, ACN, DORA.
 
-**Posso usarlo per dimostrare la mia compliance?**
+### Posso usarlo per dimostrare la mia compliance?
 Sì. Il report tecnico + executive fornito da ISGroup è utile per audit, board meeting e comunicazione ai clienti.
 
-**Quanto costa un Ethical Hacking?**
+### Quanto costa un Ethical Hacking?
 Tra 3.000€ e 30.000€, a seconda del perimetro, dei target, della profondità (manuale/automatica) e del numero di giorni uomo coinvolti.
