@@ -104,23 +104,23 @@ EXEEC fornisce MDR rivendibile per MSSP, con piattaforma log centralizzata, play
 
 ## Domande frequenti (FAQ)
 
-**Cos'è un servizio MDR Multi-Signal?**
+### Cos'è un servizio MDR Multi-Signal?
 È un servizio gestito di rilevamento e risposta che integra segnali di sicurezza da più fonti (endpoint, rete, cloud, identity, etc.) per rilevare e rispondere a minacce avanzate.
 
-**ISGroup offre MDR anche per ambienti cloud e OT?**
+### ISGroup offre MDR anche per ambienti cloud e OT?
 Sì. Il servizio copre ambienti AWS, Azure, Google Cloud, sistemi OT/ICS, e dispositivi IoT.
 
-**Il servizio è disponibile H24?**
+### Il servizio è disponibile H24?
 Sì. ISGroup opera con SOC interno attivo 24/7.
 
-**Quanto costa un MDR Multi-Signal?**
+### Quanto costa un MDR Multi-Signal?
 Dipende da utenti, segnali, asset e servizi richiesti. Soluzioni PMI da ~800€/mese, enterprise da 3.000€/mese.
 
-**Posso usare il MDR per la compliance?**
+### Posso usare il MDR per la compliance?
 Sì. ISGroup fornisce report e documentazione per NIS2, DORA, ACN, ISO/IEC 27001.
 
-**Serve avere già EDR o SIEM?**
+### Serve avere già EDR o SIEM?
 No. ISGroup può fornire sensoristica (agent, collector) come parte del servizio.
 
-**Sono inclusi threat hunting e playbook?**
+### Sono inclusi threat hunting e playbook?
 Sì. ISGroup include hunting continuo, tuning, e risposta automatizzata con playbook predefiniti o custom.
