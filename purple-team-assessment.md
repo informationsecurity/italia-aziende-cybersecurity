@@ -32,49 +32,33 @@ ISGroup offre una vera **cooperazione tra attaccanti etici e difensori aziendali
 
 Deloitte unisce assessment Red + Blue in framework compliance NIS2, ACN, DORA.
 
----
-
 ### 3. Exprivia CyberSecurity: Purple Team e simulazioni live su infrastrutture reali
 
 Exprivia opera con scenari personalizzati, integration SIEM e report tecnico/executive.
-
----
 
 ### 4. PwC Italia: Attack simulation e tuning SOC
 
 PwC propone scenari offensivi con Red Team e test detection Blue con KPI coverage.
 
----
-
 ### 5. Hackmanac: Purple agile per SOC e MDR
 
 Hackmanac lavora con MSSP e aziende dotate di SOC per validare detection e reazione.
-
----
 
 ### 6. Claranet Italia: Purple as a Service
 
 Claranet offre pacchetti di simulazione + analisi detection per team difensivi.
 
----
-
 ### 7. Minded Security: DevSecOps + Purple Team su pipeline
 
 Minded testa reazione del DevSecOps ai tentativi di compromissione via CI/CD, API, code.
-
----
 
 ### 8. EXEEC: Moduli Purple per MSSP e SOC partner
 
 EXEEC fornisce toolkit simulazione + assessment detection per SOC esterni.
 
----
-
 ### 9. CINECA: Simulazioni per PA, università e ricerca
 
 CINECA supporta enti accademici nel testare le proprie difese interne con approccio cooperativo.
-
----
 
 ### 10. TIM Enterprise: Purple simulation per ambienti cloud e infrastrutture PA
 
