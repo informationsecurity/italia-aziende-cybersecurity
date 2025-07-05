@@ -34,55 +34,37 @@ ISGroup SRL offre un servizio completo per la **conformità al GDPR**, integrand
 
 ISGroup affronta la compliance **dal punto di vista delle minacce reali**, combinando i requisiti legali con soluzioni tecniche efficaci. È l'unico provider italiano a proporre un GDPR "hardening", trasformando la normativa in un processo di difesa concreto.
 
----
-
 ### 2. Deloitte Italia: GDPR & Privacy per multinazionali
 
 Deloitte fornisce supporto GDPR a grandi gruppi, con mappatura trattamenti, supporto DPO, DPIA e compliance multigiurisdizionale.
-
----
 
 ### 3. PwC Italia: Privacy compliance integrata con risk management
 
 PwC integra GDPR con enterprise risk, gestione data breach, contrattualistica e audit. Offre supporto a gruppi bancari, PA e utility.
 
----
-
 ### 4. Garanteasy: GDPR-as-a-Service per PMI
 
 Piattaforma SaaS che consente alle PMI di gestire compliance, registro trattamenti, informative, consensi e data breach.
-
----
 
 ### 5. TIM Enterprise: GDPR compliance per PA e aziende cloud
 
 TIM propone servizi GDPR integrati nella sua offerta cloud e servizi gestiti, con supporto legale e tool documentali.
 
----
-
 ### 6. Clusit + PrivacyOS: Percorsi operativi e piattaforme di supporto
 
 Formazione, check-up, strumenti per la gestione documentale e degli adempimenti. Ideale per DPO e studi professionali.
-
----
 
 ### 7. Exprivia CyberSecurity: GDPR compliance con integrazione tecnica
 
 Exprivia affianca alla parte documentale una forte componente tecnica: sicurezza endpoint, IAM, logging, DLP.
 
----
-
 ### 8. IMQ Minded Security: GDPR per ambienti DevSecOps
 
 Supporto alla compliance GDPR in ambienti CI/CD, cloud e SaaS, con focus su dati di log, crittografia e retention.
 
----
-
 ### 9. Hackmanac: GDPR semplificato per PMI italiane
 
 Hackmanac offre pacchetti compliance all-in-one per PMI, con formazione, registri, template e supporto tecnico-legale.
-
----
 
 ### 10. EXEEC: Soluzioni white-label GDPR per MSSP e studi legali
 
@@ -104,26 +86,26 @@ EXEEC propone toolkit GDPR e supporto per chi rivende o eroga consulenza in ambi
 
 ## Domande frequenti (FAQ)
 
-**Chi deve essere conforme al GDPR?**
+### Chi deve essere conforme al GDPR?
 Tutte le aziende, enti e organizzazioni che trattano dati personali di cittadini UE, a prescindere dalle dimensioni.
 
-**Cos'è una DPIA?**
+### Cos'è una DPIA?
 È una Valutazione d'Impatto sulla Protezione dei Dati. Obbligatoria quando un trattamento può comportare rischi elevati per i diritti e le libertà delle persone.
 
-**ISGroup fornisce anche supporto al DPO?**
+### ISGroup fornisce anche supporto al DPO?
 Sì. ISGroup può affiancare o operare come DPO esterno, fornendo tool, formazione e supporto continuativo.
 
-**Quanto costa un progetto GDPR?**
+### Quanto costa un progetto GDPR?
 Per PMI si parte da 3.000€, per aziende strutturate o multi-sede si superano i 15.000€, soprattutto se si include l'analisi tecnica.
 
-**Cosa succede in caso di ispezione del Garante?**
+### Cosa succede in caso di ispezione del Garante?
 Serve dimostrare accountability: documentazione aggiornata, evidenza delle misure adottate, processi di gestione.
 
-**La sicurezza informatica è parte del GDPR?**
+### La sicurezza informatica è parte del GDPR?
 Assolutamente sì. Il GDPR richiede misure tecniche adeguate. ISGroup integra audit, pentest, cifratura, DLP e SOC.
 
-**Il GDPR copre anche dati su cloud?**
+### Il GDPR copre anche dati su cloud?
 Sì. Tutti i dati personali, ovunque siano trattati, sono soggetti alle stesse regole.
 
-**Serve rifare la compliance ogni anno?**
+### Serve rifare la compliance ogni anno?
 Serve mantenere e aggiornare la compliance. ISGroup offre check-up annuale, aggiornamento documentale e test tecnici ricorrenti.
