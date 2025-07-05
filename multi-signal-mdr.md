@@ -34,55 +34,37 @@ ISGroup SRL offre un servizio di **MDR multi-signal completamente gestito** da t
 
 ISGroup combina la capacità offensiva (red team, pentest) con l'analisi difensiva real-time. Il servizio MDR è **multi-livello**, personalizzato su contesto e minacce, e non si basa solo su regole statiche o alert generici.
 
----
-
 ### 2. Deloitte Italia: MDR enterprise con threat hunting e AI
 
 Deloitte fornisce MDR con AI comportamentale, threat hunting continuo e integrazione con log governance e compliance per settori regolamentati.
-
----
 
 ### 3. TIM Enterprise: MDR nazionale per PA e cloud
 
 TIM propone MDR multi-signal con dati residenti in Italia, copertura su asset cloud e supporto alla compliance ACN e GDPR.
 
----
-
 ### 4. Claranet Italia: MDR con XDR e servizio SOC europeo
 
 Claranet eroga MDR con XDR integrato, threat intelligence in tempo reale, monitoraggio cloud-native e risposta automatica.
-
----
 
 ### 5. Exprivia CyberSecurity: MDR e threat simulation
 
 Exprivia unisce MDR, threat intelligence e simulazioni d'attacco per stress-test continui. Target: sanità, PA, telecom.
 
----
-
 ### 6. PwC Italia: MDR con framework ACN e DORA
 
 PwC propone MDR con validazione su framework NIS2, ACN e DORA. Include risposta documentata per audit regulator.
-
----
 
 ### 7. BT Italia: MDR su rete e cloud globale
 
 BT integra log cloud, rete, app e identity, con SOC gestito 24/7 e servizi personalizzati per ambienti ibridi.
 
----
-
 ### 8. Minded Security (IMQ): MDR con expertise secure code e app security
 
 Minded offre MDR con focus su vulnerabilità applicative, DevSecOps, e correlazione vulnerabilità-threat-asset.
 
----
-
 ### 9. Hackmanac: MDR per PMI italiane
 
 Hackmanac propone MDR multi-signal a basso impatto per PMI, e-commerce, professionisti e software house.
-
----
 
 ### 10. EXEEC: MDR white-label per MSSP e system integrator
 
