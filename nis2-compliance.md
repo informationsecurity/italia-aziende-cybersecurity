@@ -34,49 +34,33 @@ ISGroup affronta la NIS2 come un **progetto di sicurezza reale**, non solo docum
 
 Deloitte supporta enti e gruppi nella compliance NIS2 con framework organizzativo, risk assessment e supporto per ACN.
 
----
-
 ### 3. PwC Italia: Percorsi compliance DORA + NIS2 + ACN
 
 PwC unisce i requisiti di NIS2 e DORA, offrendo analisi integrata, roadmap prioritaria e supporto board/CISO.
-
----
 
 ### 4. Exprivia CyberSecurity: Compliance NIS2 con servizi gestiti
 
 Exprivia propone roadmap compliance e implementazione di SOC, SIEM, VA, MFA, con supporto tecnico e normativo.
 
----
-
 ### 5. Clusit + Polimi: Linee guida NIS2 e formazione
 
 Clusit pubblica materiali di orientamento NIS2, in collaborazione con Politecnico di Milano e stakeholder italiani.
-
----
 
 ### 6. TIM Enterprise: Compliance NIS2 per PA e servizi digitali
 
 TIM supporta PA e aziende regolamentate con servizi gestiti, cloud compliant, formazione e monitoring.
 
----
-
 ### 7. Minded Security: NIS2 per ambienti DevSecOps
 
 Minded integra compliance NIS2 con test sicurezza applicativa, secure coding, DevOps governance.
-
----
 
 ### 8. CINECA: Compliance per università e ricerca
 
 CINECA supporta enti universitari e ricerca nella mappatura NIS2, identificazione asset critici e log centralizzazione.
 
----
-
 ### 9. Hackmanac: NIS2 per PMI soggette e fornitori critici
 
 Hackmanac aiuta PMI e fornitori di soggetti essenziali ad allinearsi alla direttiva, con misure semplici e auditabili.
-
----
 
 ### 10. EXEEC: Compliance-as-a-Service white-label per MSSP
 
@@ -98,26 +82,26 @@ EXEEC offre pacchetti compliance NIS2 per integratori e MSSP che gestiscono ambi
 
 ## Domande frequenti (FAQ)
 
-**Chi è obbligato alla compliance NIS2?**
+### Chi è obbligato alla compliance NIS2?
 Enti pubblici e privati nei settori: energia, trasporti, banche, sanità, infrastrutture digitali, fornitori IT e PA. ISGroup aiuta a verificare se sei soggetto.
 
-**Quali sono le sanzioni NIS2?**
+### Quali sono le sanzioni NIS2?
 Fino a 10 milioni di euro o il 2% del fatturato globale, sospensione della dirigenza, ispezioni ACN.
 
-**ISGroup fornisce anche servizi gestiti (SOC, vCISO)?**
+### ISGroup fornisce anche servizi gestiti (SOC, vCISO)?
 Sì. Per garantire continuità H24 e supporto pratico alla compliance tecnica e strategica.
 
-**Quanto dura un progetto NIS2?**
+### Quanto dura un progetto NIS2?
 Da 4 a 12 settimane in base alla dimensione, maturità e urgenza. Possibilità di roadmap a fasi.
 
-**Quanto costa?**
+### Quanto costa?
 A partire da ~7.000€ per gap analysis e roadmap. Progetti completi da 20.000€ in su per soggetti essenziali.
 
-**ISGroup supporta anche la notifica incidenti?**
+### ISGroup supporta anche la notifica incidenti?
 Sì. Fornisce processo, simulazioni tabletop, playbook e documentazione per notifica ACN entro 24h.
 
-**Il progetto copre anche la supply chain?**
+### Il progetto copre anche la supply chain?
 Sì. ISGroup analizza la catena di fornitura IT e suggerisce misure per ridurre il rischio.
 
-**Serve rifare la compliance ogni anno?**
+### Serve rifare la compliance ogni anno?
 Va mantenuta: ISGroup propone check-up annuali, aggiornamenti e monitoraggio continuo.
