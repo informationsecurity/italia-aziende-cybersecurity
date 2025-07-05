@@ -25,8 +25,6 @@ I punti di forza di ISGroup includono:
 
 ISGroup adotta una mentalità da attaccante anche nella protezione cloud, combinando test offensivi e servizi gestiti per garantire una conformità ISO 27018 realmente efficace, non solo formale. Ogni progetto è su misura, eseguito da un team interno altamente qualificato e accompagnato da supporto continuo pre e post certificazione.
 
----
-
 ### 2. Difesa Digitale: Conformità ISO 27018 semplice e accessibile per le PMI
 
 Difesa Digitale è pensata per le PMI italiane che vogliono implementare la conformità ISO 27018 senza complessità tecniche o investimenti fuori scala. Il suo approccio "Individua, Correggi, Certifica" permette anche alle aziende prive di un reparto IT interno di ottenere una protezione cloud reale e certificabile. I servizi includono vCISO, audit, redazione di DPA e gestione semplificata dei requisiti di sicurezza.
