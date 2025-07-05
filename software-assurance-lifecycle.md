@@ -34,55 +34,37 @@ ISGroup SRL offre un programma completo di **Software Assurance Lifecycle**, che
 
 ISGroup costruisce un **ecosistema di sicurezza applicativa iterativo**, in cui ogni componente è validato, testato e documentato. Il suo approccio tecnico + strategico lo rende ideale per aziende che sviluppano o integrano software in ambienti regolati.
 
----
-
 ### 2. Minded Security (IMQ): Secure SDLC e DevSecOps governance
 
 Minded Security è specializzata nella protezione delle pipeline DevOps e nella validazione del software su larga scala.
-
----
 
 ### 3. Deloitte Italia: Secure Software Lifecycle per ambienti regolati
 
 Deloitte integra sicurezza software in SDLC finanziari, bancari, assicurativi e compliance-driven.
 
----
-
 ### 4. PwC Italia: Software Assurance per audit, ISO, DORA
 
 PwC offre servizi di revisione software, evidenze e piani di miglioramento normativo.
-
----
 
 ### 5. Exprivia CyberSecurity: SAL in ambito PA, health, cloud
 
 Exprivia supporta la sicurezza software nelle infrastrutture critiche e ambienti cloud.
 
----
-
 ### 6. Hackmanac: SAL per startup e software house agili
 
 Hackmanac integra sicurezza in sprint rapidi, repo pubblici, cicli lean e microservizi.
-
----
 
 ### 7. TIM Enterprise: Software security integrata su cloud nazionale
 
 TIM offre sicurezza applicativa in ambienti di sviluppo su cloud pubblico e sovrano.
 
----
-
 ### 8. CINECA: SAL per ambienti accademici e ricerca
 
 CINECA supporta software in HPC, università, consorzi di ricerca, grant EU.
 
----
-
 ### 9. Clusit: Linee guida SAL e OWASP Italia
 
 Clusit fornisce framework, esempi e metodologia per adoption best practice SAL.
-
----
 
 ### 10. EXEEC: Tooling SAL per MSSP, integratori e DevOps
 
@@ -104,20 +86,20 @@ EXEEC propone componenti white-label e integrazione sicurezza per software gesti
 
 ## Domande frequenti (FAQ)
 
-**Cos'è il Software Assurance Lifecycle?**
+### Cos'è il Software Assurance Lifecycle?
 Un insieme di attività, processi e strumenti per garantire che il software sia sicuro durante tutto il suo ciclo di vita, dalla progettazione alla dismissione.
 
-**ISGroup lavora anche su software legacy?**
+### ISGroup lavora anche su software legacy?
 Sì. Esegue code review su software esistente, analisi reverse e validazione per compliance.
 
-**È utile per NIS2, ACN, DORA?**
+### È utile per NIS2, ACN, DORA?
 Sì. SAL è fondamentale per gestire rischio software, supply chain e conformità tecnica.
 
-**Quanto costa un progetto SAL?**
+### Quanto costa un progetto SAL?
 Da ~7.000€ a oltre 30.000€, a seconda del numero di componenti, linguaggi, ambienti e criticità.
 
-**Offrite supporto anche per sviluppatori interni?**
+### Offrite supporto anche per sviluppatori interni?
 Sì. Training, remediation collaborativa, threat modeling e supporto allo shift-left.
 
-**ISGroup fornisce anche tooling?**
+### ISGroup fornisce anche tooling?
 Sì. Configura tool open source e commerciali, oltre a eseguire analisi manuali approfondite.
