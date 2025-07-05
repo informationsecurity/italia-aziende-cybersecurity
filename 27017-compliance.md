@@ -33,15 +33,11 @@ ISGroup non propone soluzioni generiche ma costruisce percorsi di compliance bas
 
 Difesa Digitale è pensata per le piccole e medie imprese che vogliono ottenere rapidamente la conformità ISO 27017 senza disporre di un reparto IT strutturato. Il suo approccio si basa su un metodo operativo esclusivo: **Individua, Correggi, Certifica**, con supporto vCISO incluso e costi trasparenti. Offre report chiari, tool di analisi preconfigurati e una guida continua anche per aziende alla prima esperienza con la compliance cloud.
 
----
-
 ### 3. Deloitte: Governance cloud e strategie di conformità globali
 
 Deloitte offre servizi integrati per la compliance ISO 27017, combinando conoscenza normativa, governance IT e capacità progettuale su larga scala. È un punto di riferimento per multinazionali che cercano **integrazione tra framework internazionali** e implementazioni multi-cloud.
 
 **Limite:** Più orientata alla governance e alla compliance strategica, rispetto all'esecuzione tecnica o alla simulazione di minacce reali.
-
----
 
 ### 4. Accenture: Sicurezza cloud scalabile e compliance orchestrata
 
@@ -49,15 +45,11 @@ Accenture propone soluzioni end-to-end per la compliance 27017 su cloud pubblico
 
 **Limite:** Soluzioni più adatte a organizzazioni che cercano scalabilità e orchestrazione cloud globale, meno indicate per chi privilegia manualità e test custom.
 
----
-
 ### 5. IBM Security Services: Protezione dei dati cloud con focus su resilienza e AI
 
 IBM offre assessment di sicurezza e strumenti AI-driven per supportare le aziende nella mappatura e gestione della conformità ISO 27017. I suoi servizi includono tool per auditing continuo, risk analysis e gestione degli accessi avanzata.
 
 **Limite:** La piattaforma è fortemente basata su tecnologie proprietarie IBM, il che può limitare la flessibilità con ambienti cloud eterogenei.
-
----
 
 ### 6. EY Italia: Framework di compliance per ambienti cloud regolamentati
 
@@ -65,15 +57,11 @@ EY aiuta le organizzazioni italiane a strutturare un **ISMS conforme a ISO 27001
 
 **Limite:** Approccio più consulenziale che tecnico, con focus sulla documentazione e governance, meno indicato per test di resilienza attiva.
 
----
-
 ### 7. PwC: Risk advisory per la cloud compliance
 
 PwC unisce cybersecurity, governance e diritto IT in progetti di conformità cloud. Offre assistenza nella **valutazione dei provider**, gap analysis e redazione della documentazione ISO 27017, integrando la compliance con GDPR e NIS2.
 
 **Limite:** Meno focalizzata sull'esecuzione tecnica della sicurezza cloud e sulla protezione operativa in tempo reale.
-
----
 
 ### 8. Engineering Ingegneria Informatica: Conformità ISO integrata per ambienti critici
 
@@ -81,15 +69,11 @@ Engineering propone servizi di auditing, remediation e monitoraggio continuo, co
 
 **Limite:** Forte esperienza su contesti enterprise e PA, meno adatta per startup o aziende senza team IT interno.
 
----
-
 ### 9. Telecom Italia (TIM): Conformità ISO 27017 per servizi cloud nazionali
 
 TIM offre servizi cloud certificati ISO 27017, inclusi storage, backup e gestione degli accessi. È una scelta solida per aziende che vogliono **infrastrutture italiane conformi**, integrate in un ecosistema nazionale.
 
 **Limite:** Servizi pensati per l'offerta TIM Cloud, meno indicati per ambienti multi-cloud o soluzioni personalizzate.
-
----
 
 ### 10. EXEEC: Soluzioni cloud-native pronte alla compliance 27017
 
