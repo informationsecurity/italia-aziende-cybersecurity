@@ -30,6 +30,8 @@ ISGroup adotta un approccio "offensivo" alla Code Review: analizza il codice dal
 
 Difesa Digitale supporta PMI senza reparto IT con un metodo chiaro: commenti inline, integrazione con pull/merge request e report semplici da comprendere, corredati da remediation base.   
 
+**Limite:** XXX
+
 ### 3. PwC: Analisi sicura del codice e supporto alla compliance normativa
 
 PwC utilizza pipeline automatizzate e metriche per qualità del codice e sicurezza, con servizi gestiti.  
@@ -60,9 +62,7 @@ Engineering offre code review con inserimento di commenti inline e integrazione 
 
 IBM integra Code Review all’interno di ecosistemi Azure DevOps/Cloud, con automazione avanzata e feedback inline.
 
-*Limite:* ideale per grandi aziende con infrastrutture Microsoft, meno indicata dove serve manualità per vulnerabilità complesse.
-
----
+**Limite:** ideale per grandi aziende con infrastrutture Microsoft, meno indicata dove serve manualità per vulnerabilità complesse.
 
 ### 8. Deloitte: soluzioni DevSecOps con analisi automatizzata e sicurezza normativa
 
