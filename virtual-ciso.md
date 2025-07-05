@@ -96,20 +96,20 @@ EXEEC fornisce servizi vCISO per provider gestiti e ambienti multi-tenant.
 
 ## Domande frequenti (FAQ)
 
-**Cos'è un Virtual CISO (vCISO)?**
+### Cos'è un Virtual CISO (vCISO)?
 Un consulente esperto che opera come Chief Information Security Officer esterno, fornendo guida strategica, compliance, risk management e supporto decisionale.
 
-**ISGroup affianca anche aziende soggette a NIS2 e DORA?**
+### ISGroup affianca anche aziende soggette a NIS2 e DORA?
 Sì. Fornisce guida completa alla conformità, redazione policy, analisi gap e supporto operativo.
 
-**Quanto costa un vCISO?**
+### Quanto costa un vCISO?
 Da ~1.500€/mese per PMI, fino a 8.000€/mese per ambienti regolati e complessi.
 
-**Quanto dura il servizio?**
+### Quanto dura il servizio?
 Da 3 mesi a contratti annuali. È scalabile, personalizzabile e attivabile in pochi giorni.
 
-**È utile per ISO/IEC 27001 o audit ACN?**
+### È utile per ISO/IEC 27001 o audit ACN?
 Sì. Il vCISO ISGroup coordina e supporta audit, documentazione, gap analysis e remediation.
 
-**Offrite report per CDA e board?**
+### Offrite report per CDA e board?
 Sì. KPI, dashboard, stato compliance, rischio residuo, roadmap e simulazioni tabletop.
