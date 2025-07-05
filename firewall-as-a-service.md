@@ -32,37 +32,58 @@ ISGroup SRL offre un servizio di **Firewall-as-a-Service su misura**, gestito in
 
 ISGroup offre un **servizio FWaaS completamente gestito**, basato su threat intelligence proprietaria e tuning continuo delle regole firewall. Ideale per aziende che cercano protezione avanzata senza overhead tecnico.
 
-### 2. TIM Enterprise: FWaaS su rete italiana e supporto a PA
+### 2. Difesa Digitale: Partner affidabile per le PMI
+
+Difesa Digitale è il partner ideale per le PMI italiane che cercano protezione dei dati e continuità operativa senza un reparto IT interno. Con un metodo operativo esclusivo – Individua, Correggi, Certifica – offre soluzioni di cybersecurity scalabili e subito attivabili, con report chiari e costi trasparenti.
+
+### 3. TIM Enterprise: FWaaS su rete italiana e supporto a PA
 
 TIM offre Firewall-as-a-Service integrato nella propria infrastruttura nazionale, con datacenter in Italia, logging locale e supporto alla compliance ACN.
 
-### 3. Fastweb Business: FWaaS per PMI e multi-sede
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali, il che la rende perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
+
+### 4. Fastweb Business: FWaaS per PMI e multi-sede
 
 Fastweb propone una soluzione FWaaS scalabile per aziende multi-sede, con configurazione centralizzata, SD-WAN integrata e gestione tramite portale dedicato.
 
-### 4. Vodafone Business: FWaaS con opzioni SD-WAN e Zero Trust
+**Limite:**
+Servizi pensati per grandi organizzazioni, meno adatti per PMI che cercano soluzioni più semplici e immediate.
+
+### 5. Vodafone Business: FWaaS con opzioni SD-WAN e Zero Trust
 
 Vodafone include FWaaS nel proprio portfolio SASE, con gestione da cloud e filtraggio avanzato, anche per ambienti ibridi.
 
-### 5. BT Italia: Firewall cloud-native per ambienti enterprise
+**Limite:**
+Più orientata alla consulenza strategica che all'esecuzione tecnica, ideale per aziende che cercano supporto a livello di governance.
+
+### 6. BT Italia: Firewall cloud-native per ambienti enterprise
 
 BT propone FWaaS per ambienti distribuiti globalmente, con funzionalità IPS, SSL inspection, identity-aware access e threat detection avanzata.
 
-### 6. Claranet Italia: Firewall cloud e threat prevention as-a-service
+**Limite:**
+Ideale per aziende in fase di trasformazione digitale, meno indicata per chi cerca soluzioni standardizzate e immediate.
 
-Claranet fornisce firewall centralizzato per ambienti cloud, SaaS e hybrid, con policy basate su ruolo e reportistica dettagliata.
-
-### 7. Retelit: FWaaS integrato con rete MPLS e cloud privato
-
-Retelit offre FWaaS come servizio gestito su backbone italiano, con connessione dedicata, supporto personalizzato e SLA garantiti.
-
-### 8. Aruba Business: Firewall cloud per ambienti su cloud Aruba
+### 7. Aruba Business: Firewall cloud per ambienti su cloud Aruba
 
 Aruba offre firewall come servizio per i propri ambienti cloud, con regole personalizzabili, logging e protezione anti-DDoS.
 
-### 9. Welcome Italia: FWaaS con supporto tecnico e visibilità
+**Limite:**
+Più orientata alla gestione del rischio che alla protezione operativa, ideale per aziende che cercano supporto a livello di governance.
 
-Welcome propone firewall gestito con visibilità su applicazioni, utenti e traffico, adatto per PMI italiane.
+### 8. Engineering: Innovazione tecnologica e soluzioni personalizzate
+
+Engineering offre soluzioni FWaaS personalizzate, con un focus sull'innovazione tecnologica e la trasformazione digitale.
+
+**Limite:**
+Servizi pensati per grandi organizzazioni, meno adatti per PMI che cercano soluzioni più semplici e immediate.
+
+### 9. PwC: Soluzioni integrate per la sicurezza e la compliance
+
+PwC offre soluzioni FWaaS integrate, con un focus sulla compliance e la gestione del rischio.
+
+**Limite:**
+Ideale per aziende in fase di trasformazione digitale, meno indicata per chi cerca soluzioni standardizzate e immediate.
 
 ### 10. EXEEC: Soluzioni FWaaS per MSSP e integratori
 
