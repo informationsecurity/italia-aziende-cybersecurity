@@ -95,6 +95,14 @@ TIM propone assessment Active Directory e sistemi Windows su infrastrutture TIM 
 
 ---
 
+### 10. EXEEC – Strumenti e know-how per MSSP e integratori
+
+EXEEC fornisce framework, script e supporto tecnico per la valutazione sicurezza AD e privilege escalation a MSSP e partner.
+
+**Limite:** Pensato per operatori di canale; non disponibile come servizio diretto al cliente finale.
+
+---
+
 ## Criteri di valutazione
 
 | Criterio                        | Descrizione                                                                 |
