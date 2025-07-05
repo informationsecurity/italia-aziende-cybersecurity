@@ -30,7 +30,7 @@ ISGroup non si limita a scansioni automatiche: conduce un'analisi manuale dettag
 
 Deloitte offre servizi di Cloud Risk Assessment con focus su strategia, compliance e integrazione GRC. Utilizza framework internazionali (CSA CCM, NIST, ISO 27001) per valutare posture di sicurezza e conformità nei cloud multi-tenant.
 
-**Target:** grandi aziende, PA, finance, energy
+**Limite:** Approccio orientato alla governance e meno tecnico-operativo.
 
 ### 3. PwC Italia: Verifica sicurezza cloud per ambienti regolamentati
 
