@@ -36,8 +36,6 @@ Deloitte offre servizi di Cloud Risk Assessment con focus su strategia, complian
 
 PwC propone un approccio risk-based al Cloud Security Assessment, focalizzato su privacy, data protection, threat modeling e benchmark industriali. Offre servizi dedicati a banca, assicurazioni e PA.
 
-**Caratteristica distintiva:** Integrazione con processi ESG e auditing interno.
-
 **Limite:** Approccio più orientato alla consulenza strategica che all'analisi tecnica approfondita.
 
 ### 4. Accenture: Assessment tecnico-operativo per ambienti cloud-native
