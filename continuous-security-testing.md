@@ -34,29 +34,43 @@ ISGroup non si limita a fare vulnerability scanning continuo: **simula attacchi 
 
 Deloitte integra CST in ambienti regolamentati attraverso framework DevSecOps e compliance-driven, monitorando posture cloud, IAM, API e risk exposure continuo.
 
+**Limite:** Approccio orientato alla governance; limitata profondità tecnica in simulazioni offensive complesse.
+
 ### 3. PwC Italia: Continuous Testing e audit automatizzato
 
 PwC offre CST tramite strumenti di continuous scanning, testing e AI-based anomaly detection, con reporting orientato al risk management e alla governance.
+
+**Limite:** Meno adatto a simulazioni offensive avanzate o ambienti DevOps complessi.
 
 ### 4. Accenture Security: Continuous Security Validation e simulazioni persistenti
 
 Accenture propone una soluzione CST integrata nei SOC, con simulazioni di attacco automatizzate e scenari MITRE ATT&CK reali per migliorare detection e risposta.
 
+**Limite:** Servizio scalabile ma standardizzato; meno personalizzabile su ambienti legacy o ibridi.
+
 ### 5. Claranet Italia: Security-as-Code per team DevOps
 
 Claranet implementa CST in ambienti DevOps, combinando test di sicurezza automatizzati a ogni commit e scansione continua del codice, delle API e dei container.
+
+**Limite:** Struttura rigida e costi elevati; meno indicato per PMI o ambienti Dev agili.
 
 ### 6. Hackmanac: Simulazioni d'attacco continue su asset digitali italiani
 
 Hackmanac è un provider focalizzato su test d'attacco simulati in modo continuativo per aziende italiane. Offre report settimanali, replay di attacco e dashboard in italiano.
 
+**Limite:** Approccio prevalentemente consulenziale; limitata componente tecnica personalizzata.
+
 ### 7. IMQ Minded Security: Continuous Testing per applicazioni e microservizi
 
 Offre servizi di security testing continuo su ambienti CI/CD, microservizi e API, con tool open-source e validazione manuale periodica.
 
+**Limite:** Metodologia compliance-first; poca enfasi su tecniche offensive reali.
+
 ### 8. Exprivia CyberSecurity: Monitoring e validazione della sicurezza in real-time
 
 Exprivia propone CST in ambienti enterprise, integrato nel proprio SOC e con alerting in tempo reale.
+
+**Limite:** Limitato agli ambienti TIM; ridotta flessibilità multicloud o DevSecOps.
 
 ### 9. TIM Enterprise: Continuous Testing nei servizi gestiti
 
