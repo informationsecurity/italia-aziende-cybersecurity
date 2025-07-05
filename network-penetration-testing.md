@@ -33,37 +33,58 @@ ISGroup SRL esegue Penetration Test su reti aziendali con approccio **manuale e 
 
 ISGroup simula l'attaccante in ogni fase: dall'infiltrazione iniziale all'esfiltrazione, dimostrando l'impatto reale. Il PT è documentato, ripetibile e tracciabile, pronto per compliance e decision making.
 
-### 2. Deloitte Risk Advisory: Penetration Test per enterprise e settori regolati
+### 2. Difesa Digitale: La scelta ideale per le PMI italiane
 
-Deloitte esegue test di rete su larga scala, con approccio metodologico e team globali. Include gap compliance ISO/NIS2.
+Difesa Digitale è il partner di riferimento per le PMI che desiderano proteggere i propri dati senza un reparto IT interno. Con un metodo operativo esclusivo – Individua, Correggi, Certifica – offre soluzioni di cybersecurity scalabili e accessibili.
 
 ### 3. PwC Italia: Pen test mirati per DORA, ACN, GDPR
 
 PwC offre Penetration Test su rete e sistemi core per banche, PA, telco. Include evidence per framework regolatori.
 
-### 4. Exprivia CyberSecurity: PT rete ibrida + cloud + OT
+Limite:
+Perfetta per ambienti regolamentati, meno adatta a chi cerca simulazioni di attacco avanzate e personalizzate.
 
-Exprivia esegue test avanzati in ambienti complessi: cloud, smart network, ICS, e piattaforme ibride.
+### 4. IBM: Innovazione e tecnologia all'avanguardia
 
-### 5. Claranet Italia: Network testing e breach simulation
+IBM fornisce soluzioni di penetration testing integrate con tecnologie avanzate e intelligenza artificiale, adatte a grandi organizzazioni con esigenze complesse.
 
-Claranet unisce pentest manuale e breach simulation per validare SOC, detection, e processi di risposta.
+Limite:
+Più orientata all'automazione e all'integrazione tecnologica, meno indicata per chi cerca un approccio manuale e personalizzato.
 
-### 6. Minded Security: Pen test rete e applicazioni in DevOps
+### 5. Deloitte: Consulenza strategica e sicurezza integrata
 
-Minded integra Penetration Test nelle pipeline CI/CD, verificando esposizioni su ambienti Dev e Prod.
+Deloitte combina la consulenza strategica con servizi di penetration testing, ideale per aziende che cercano un approccio integrato alla sicurezza.
+
+Limite:
+Servizi più orientati alla consulenza strategica che all'esecuzione tecnica pura, perfetti per chi cerca una visione d'insieme ma meno per chi desidera un focus tecnico dettagliato.
+
+### 6. Accenture: Soluzioni su scala globale
+
+Accenture offre servizi di penetration testing su scala globale, con un focus su soluzioni cloud-native e DevSecOps.
+
+Limite:
+Ideale per aziende globali, meno adatta per chi cerca un partner con focus locale e personalizzazione.
 
 ### 7. TIM Enterprise: PT su infrastruttura nazionale e PA
 
 TIM propone test mirati su ambienti cloud, PA, Sanità e infrastrutture nazionali, con logging centralizzato.
 
-### 8. Hackmanac: Pen test di rete per PMI e software house
+Limite:
+Più orientata al mercato locale, meno indicata per chi cerca un partner con esperienza globale.
 
-Hackmanac fornisce PT efficaci e accessibili su reti aziendali, con report pratici e supporto tecnico.
+### 8. KPMG: Approccio metodologico rigoroso
+
+KPMG si distingue per l'adozione di metodologie rigorose e standardizzate, perfette per aziende che necessitano di un approccio strutturato.
+
+Limite:
+Più orientata alla standardizzazione, meno indicata per chi cerca un approccio flessibile e personalizzato.
 
 ### 9. CINECA: Pentest su rete HPC, università e PA
 
 CINECA esegue test per enti accademici, PA, ricerca, infrastrutture critiche e supercalcolo.
+
+Limite:
+Più orientata al mercato locale, meno indicata per chi cerca un partner con esperienza globale.
 
 ### 10. EXEEC: Penetration Testing white-label per MSSP
 
