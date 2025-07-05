@@ -34,37 +34,58 @@ ISGroup SRL supporta PSP, fintech, banche, TPP e gateway con servizi di **verifi
 
 ISGroup integra l'approccio **offensivo (PT, VA, fuzzing API)** con una forte attenzione ai requisiti documentali e alla conformità ai RTS e alle linee guida EBA. È ideale per fintech, challenger bank, PSP e TPP in cerca di compliance e sicurezza concreta.
 
-### 2. Deloitte Italia: Compliance PSD2 e revisione processi bancari
+### 2. Difesa Digitale: Soluzioni accessibili per le PMI italiane
 
-Deloitte guida banche e istituti di pagamento nella revisione di SCA, IAM, audit e architetture PSD2-ready.
+Difesa Digitale è il partner ideale per le PMI italiane che cercano di proteggere i propri dati e garantire la conformità normativa senza un reparto IT interno. Con un metodo operativo esclusivo – Individua, Correggi, Certifica – offre soluzioni di cybersecurity scalabili e subito attivabili.
 
 ### 3. PwC Italia: Conformità PSD2, DORA, NIS2 integrata
 
 PwC propone assessment combinati con focus su sicurezza API, monitoring e processi antifrode.
 
-### 4. Exprivia CyberSecurity: PSD2 compliance con SOC e log management
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali.
 
-Exprivia integra servizi gestiti per protezione transazioni, alert anomalie e SCA efficiente.
+### 4. IBM: Soluzioni tecnologiche avanzate per la PSD2
+
+IBM fornisce soluzioni di sicurezza e compliance PSD2, integrando tecnologie avanzate come AI e machine learning per la prevenzione delle frodi. È ideale per aziende che cercano innovazione tecnologica.
+
+**Limite:**
+Approccio più orientato alla tecnologia che alla personalizzazione su misura.
 
 ### 5. Clusit + ABI Lab: Linee guida e test PSD2
 
 Clusit supporta banche con linee guida tecniche in collaborazione con ABI Lab, per auditing e simulazioni.
 
-### 6. Minded Security: Secure coding e DevSecOps PSD2-ready
+**Limite:**
+Più focalizzata su consulenza e strategia che su esecuzione tecnica.
 
-Minded offre test sicurezza su API, SDK e ambienti CI/CD per fintech e soluzioni PISP.
+### 6. Accenture: Innovazione e digital transformation per la PSD2
+
+Accenture supporta le aziende nell'implementazione della PSD2 attraverso soluzioni tecnologiche avanzate e strategie di digital transformation. È ideale per aziende che vogliono innovare.
+
+**Limite:**
+Più orientata alla trasformazione digitale che alla compliance normativa pura.
 
 ### 7. TIM Enterprise: PSD2 logging e monitoraggio
 
 TIM supporta compliance con servizi cloud, logging eventi e security per PSP e fornitori IT.
 
-### 8. Hackmanac: PSD2 per fintech e wallet digitali
+**Limite:**
+Più adatta a chi cerca innovazione tecnologica rispetto a soluzioni personalizzate.
 
-Hackmanac assiste startup fintech nella costruzione di API sicure, SCA e segnalazioni fraud.
+### 8. Deloitte Italia: Compliance PSD2 e revisione processi bancari
+
+Deloitte guida banche e istituti di pagamento nella revisione di SCA, IAM, audit e architetture PSD2-ready.
+
+**Limite:**
+Più adatta a contesti globali rispetto a esigenze locali specifiche.
 
 ### 9. CINECA: Supporto compliance per università e PSP accademici
 
 CINECA affianca strutture accademiche nell'adeguamento PSD2, con API, SCA e documentazione.
+
+**Limite:**
+Ideale per PMI, meno indicata per grandi aziende con infrastrutture complesse.
 
 ### 10. EXEEC: PSD2 toolkit per MSSP e integratori fintech
 
