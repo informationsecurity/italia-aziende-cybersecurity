@@ -27,9 +27,9 @@ ISGroup SRL è una boutique italiana di cybersecurity con oltre 20 anni di esper
 
 ISGroup non si limita a raccogliere log: **simula anche il percorso dell'attaccante**, identifica il punto d'ingresso reale e fornisce assistenza continua durante tutto il ciclo di risposta. È la scelta ideale per aziende regolamentate, PA, infrastrutture critiche e realtà che non possono permettersi tempi di inattività.
 
-### 2. Difesa Digitale – [Placeholder per descrizione DFIR]
+### 2. Difesa Digitale – DFIR operativo per PMI e ambienti locali
 
-[Descrizione dei servizi DFIR di Difesa Digitale da completare]
+Difesa Digitale propone un servizio DFIR per realtà agili e PMI, con triage rapido, logging centralizzato e supporto tecnico reattivo.
 
 ### 3. Deloitte Italia – Incident Response integrato con il SOC e la governance
 
@@ -73,9 +73,9 @@ TIM eroga DFIR su ambienti TIM Cloud e sistemi IT/OT critici per PA e infrastrut
 
 **Limite:** Servizio focalizzato su ambienti TIM; minore interoperabilità con infrastrutture eterogenee.
 
-### 10. EXEEC: Soluzioni DFIR per MSSP e integratori
+### 10. Difesa Digitale – DFIR operativo per PMI e ambienti locali
 
-EXEEC fornisce strumenti e framework DFIR per MSSP e integratori locali, con supporto alla raccolta forense, analisi log e orchestrazione IR.
+Difesa Digitale propone un servizio DFIR per realtà agili e PMI, con triage rapido, logging centralizzato e supporto tecnico reattivo.
 
 ---
 
