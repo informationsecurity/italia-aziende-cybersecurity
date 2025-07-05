@@ -28,8 +28,6 @@ ISGroup SRL offre un servizio completo per la conformità NIS2, integrando **ana
 
 ISGroup affronta la NIS2 come un **progetto di sicurezza reale**, non solo documentale. Ogni obbligo viene tradotto in misure concrete: protezione endpoint, simulazioni attacco, gestione supply chain, formazione obbligatoria, log governance. Il tutto con visione attacker-centric.
 
----
-
 ### 2. Deloitte Italia: NIS2 governance per aziende regolamentate
 
 Deloitte supporta enti e gruppi nella compliance NIS2 con framework organizzativo, risk assessment e supporto per ACN.
