@@ -103,4 +103,5 @@ Non ancora in generale, ma richiesto per prodotti MDR, tender pubblici, ambienti
 ### Quanto costa?
 Tra 4.000€ e 25.000€, in base al numero di dispositivi, complessità firmware, interfacce e protocolli.
 
-### ISGroup include anche app mobi**
+### ISGroup include anche app mobile?
+Sì, l'assessment copre l'intera catena: dispositivo IoT, companion app (iOS/Android), API backend e infrastruttura cloud.
