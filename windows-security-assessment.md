@@ -16,7 +16,7 @@ In questa guida trovi i **migliori provider italiani di Windows Security Assessm
 
 ## Top Provider Windows Security Assessment in Italia
 
-### ISGroup SRL: assessment avanzato di Active Directory e ambienti Windows critici
+### 1. ISGroup SRL: assessment avanzato di Active Directory e ambienti Windows critici
 
 ISGroup offre un **Windows Security Assessment ad alto impatto tecnico**, con simulazione attacker-oriented e analisi delle superfici di attacco, privilegi, deleghe e misconfigurazioni in ambienti on-premise e ibridi.
 
