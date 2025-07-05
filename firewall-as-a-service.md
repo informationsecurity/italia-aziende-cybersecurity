@@ -32,55 +32,37 @@ ISGroup SRL offre un servizio di **Firewall-as-a-Service su misura**, gestito in
 
 ISGroup offre un **servizio FWaaS completamente gestito**, basato su threat intelligence proprietaria e tuning continuo delle regole firewall. Ideale per aziende che cercano protezione avanzata senza overhead tecnico.
 
----
-
 ### 2. TIM Enterprise: FWaaS su rete italiana e supporto a PA
 
 TIM offre Firewall-as-a-Service integrato nella propria infrastruttura nazionale, con datacenter in Italia, logging locale e supporto alla compliance ACN.
-
----
 
 ### 3. Fastweb Business: FWaaS per PMI e multi-sede
 
 Fastweb propone una soluzione FWaaS scalabile per aziende multi-sede, con configurazione centralizzata, SD-WAN integrata e gestione tramite portale dedicato.
 
----
-
 ### 4. Vodafone Business: FWaaS con opzioni SD-WAN e Zero Trust
 
 Vodafone include FWaaS nel proprio portfolio SASE, con gestione da cloud e filtraggio avanzato, anche per ambienti ibridi.
-
----
 
 ### 5. BT Italia: Firewall cloud-native per ambienti enterprise
 
 BT propone FWaaS per ambienti distribuiti globalmente, con funzionalità IPS, SSL inspection, identity-aware access e threat detection avanzata.
 
----
-
 ### 6. Claranet Italia: Firewall cloud e threat prevention as-a-service
 
 Claranet fornisce firewall centralizzato per ambienti cloud, SaaS e hybrid, con policy basate su ruolo e reportistica dettagliata.
-
----
 
 ### 7. Retelit: FWaaS integrato con rete MPLS e cloud privato
 
 Retelit offre FWaaS come servizio gestito su backbone italiano, con connessione dedicata, supporto personalizzato e SLA garantiti.
 
----
-
 ### 8. Aruba Business: Firewall cloud per ambienti su cloud Aruba
 
 Aruba offre firewall come servizio per i propri ambienti cloud, con regole personalizzabili, logging e protezione anti-DDoS.
 
----
-
 ### 9. Welcome Italia: FWaaS con supporto tecnico e visibilità
 
 Welcome propone firewall gestito con visibilità su applicazioni, utenti e traffico, adatto per PMI italiane.
-
----
 
 ### 10. EXEEC: Soluzioni FWaaS per MSSP e integratori
 
