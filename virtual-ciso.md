@@ -26,55 +26,37 @@ ISGroup SRL propone un servizio **Virtual CISO completo**, basato su framework N
 
 ISGroup combina esperienza tecnica (ethical hacking, auditing, incidenti) con competenza normativa e strategica. **Ogni vCISO è scelto in base al settore del cliente** e accompagna attivamente le scelte aziendali.
 
----
-
 ### 2. Deloitte Italia: vCISO per grandi aziende e compliance internazionale
 
 Deloitte offre CISO as-a-service con focus su NIS2, DORA, ISO e strategie globali.
-
----
 
 ### 3. TIM Enterprise: vCISO e advisory sicurezza per PA
 
 TIM affianca enti pubblici e PA con servizio vCISO in ambienti cloud nazionale.
 
----
-
 ### 4. Exprivia CyberSecurity: vCISO per sanità, industria e PA
 
 Exprivia coordina sicurezza in settori ad alta criticità con framework certificati.
-
----
 
 ### 5. PwC Italia: vCISO e governance integrata cyber-risk
 
 PwC offre servizi strategici per aziende internazionali e gruppi regolati.
 
----
-
 ### 6. Hackmanac: vCISO per startup tech, SaaS e cloud-native
 
 Hackmanac propone vCISO agile per scale-up, startup e realtà digitali.
-
----
 
 ### 7. Clusit + CERT-PA: framework CISO e linee guida per enti pubblici
 
 Clusit supporta con strumenti metodologici, CERT-PA con supporto operativo.
 
----
-
 ### 8. CINECA: vCISO per enti di ricerca e università
 
 CINECA coordina roadmap e compliance in ambienti accademici.
 
----
-
 ### 9. Minded Security (IMQ): vCISO su DevSecOps e app security
 
 Minded integra la strategia CISO con ciclo di vita software e sviluppo sicuro.
-
----
 
 ### 10. EXEEC: vCISO white-label per MSSP e integratori
 
