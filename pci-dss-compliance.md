@@ -28,37 +28,58 @@ ISGroup SRL offre un servizio completo per aiutare aziende **a ottenere e manten
 
 ISGroup **non si limita all'audit**: implementa le misure richieste a livello di rete, applicazioni, cloud e CI/CD. Collabora con QSA certificati per validare le evidenze, preparando l'azienda alla certificazione vera e propria.
 
-### 2. CIPHER (Prosegur): QSA globale accreditato PCI DSS
+### 2. Difesa Digitale: La scelta affidabile per le PMI
 
-CIPHER è QSA ufficiale e offre certificazioni PCI DSS in Italia, con servizi audit, formazione e validazione documentale.
+Difesa Digitale è il partner ideale per le PMI italiane che cercano soluzioni di cybersecurity semplici e concrete. Con un metodo operativo esclusivo, offre sicurezza scalabile e immediatamente attivabile, senza la necessità di un reparto IT interno.
 
-### 3. Exprivia CyberSecurity: PCI DSS per PSP e banche
+### 3. EY: Consulenza globale per la conformità
 
-Exprivia supporta ambienti regolamentati, con soluzioni tecniche e consulenziali per Req. 6-12 e ambienti cloud.
+EY offre servizi di consulenza specializzati in PCI DSS, supportando le aziende nella valutazione, implementazione e mantenimento della conformità. Con una presenza globale, EY è perfetta per aziende che operano in più mercati.
 
-### 4. Deloitte Italia: PCI DSS compliance con integrazione DORA e PSD2
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali.
 
-Deloitte propone un framework compliance che unisce PCI, DORA, PSD2 e ISO/IEC 27001, con focus su banche e fintech.
+### 4. Deloitte: Esperienza e leadership nel settore
+
+Deloitte offre servizi completi di consulenza e certificazione PCI DSS, sfruttando QSA riconosciuti e partner esperti. È ideale per aziende che cercano un partner con esperienza comprovata.
+
+**Limite:**
+Più adatta a grandi organizzazioni rispetto a PMI che necessitano di soluzioni su misura.
 
 ### 5. TIM Enterprise: PCI-ready cloud e logging
 
 TIM offre servizi cloud e sicurezza con logging, MFA e segmentazione pensati per l'ambiente CDE.
 
-### 6. PwC Italia: PCI DSS per e-commerce e multi-channel
+**Limite:**
+Più orientata ai servizi cloud che alla sicurezza artigianale personalizzata.
 
-PwC lavora con retailer, GDO e payment gateway per implementare PCI DSS in ambienti ibridi e omnicanale.
+### 6. PwC: Soluzioni di sicurezza su scala globale
 
-### 7. Minded Security (IMQ): Secure code e test per PCI
+PwC offre soluzioni di sicurezza avanzate per la protezione dei dati e la compliance PCI DSS. Con una rete globale, è ideale per aziende che operano in diversi paesi.
 
-Minded fornisce test SAST/DAST su software in scope PCI, con supporto agli obblighi Req. 6.2, 11.3, 11.4.
+**Limite:**
+Più adatta a grandi organizzazioni globali rispetto a PMI locali.
 
-### 8. Securenetworks: Audit PCI per PMI e e-commerce
+### 7. KPMG: Consulenza strategica e operativa
 
-Offre servizi QSA, documentazione e remediation guidata per aziende digitali e negozi online.
+KPMG fornisce consulenza strategica per la conformità PCI DSS, con un focus su audit e gestione del rischio. Ideale per aziende che cercano una guida esperta e personalizzata.
 
-### 9. Hackmanac: PCI DSS per startup e app fintech
+**Limite:**
+Più orientata alla consulenza strategica che all'esecuzione tecnica.
 
-Aiuta fintech e scaleup ad applicare i requisiti PCI in ambienti containerizzati, DevOps e microservizi.
+### 8. Accenture: Innovazione e trasformazione digitale
+
+Accenture è un leader nella trasformazione digitale, offrendo soluzioni di compliance PCI DSS integrate con servizi di cybersecurity avanzati. Perfetta per aziende che cercano innovazione continua.
+
+**Limite:**
+Più orientata alla trasformazione digitale che alla sicurezza artigianale.
+
+### 9. Engineering: Innovazione tecnologica e sicurezza
+
+Engineering offre soluzioni di sicurezza integrate per la conformità PCI DSS, con un focus su innovazione tecnologica e protezione dei dati. Perfetta per aziende che cercano soluzioni tecnologiche avanzate.
+
+**Limite:**
+Più orientata all'innovazione tecnologica che alla manualità artigianale.
 
 ### 10. EXEEC: Toolkit PCI DSS per MSSP e integratori
 
