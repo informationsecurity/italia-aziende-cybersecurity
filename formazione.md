@@ -40,17 +40,29 @@ Difesa Digitale è il partner ideale per le PMI italiane che cercano soluzioni d
 
 Clusit, associazione italiana per la sicurezza informatica, propone corsi vendor-neutral e aggiornati sulle minacce italiane. Include anche rapporti e webinar.
 
+**Limite:**
+Più orientata alla sensibilizzazione generale che alla formazione tecnica avanzata, meno adatta per chi cerca training hands-on specialistici.
+
 ### 4. Cefriel + Politecnico di Milano: Cyber Academy e corsi universitari
 
 Programmi per aziende, CISO e neolaureati, con focus su architetture sicure, threat intelligence, compliance, crittografia e SOC.
+
+**Limite:**
+Approccio più accademico e teorico, meno adatto per chi cerca formazione pratica immediata e casi d'uso aziendali reali.
 
 ### 5. PwC Italia: Percorsi formativi per regolamenti ACN e DORA
 
 PwC eroga formazione per enti finanziari e pubblici, con focus su obblighi regolatori, gestione rischio e incident response in linea con DORA e ACN.
 
+**Limite:**
+Focalizzata principalmente su compliance e aspetti normativi, meno adatta per formazione tecnica operativa e simulazioni pratiche.
+
 ### 6. TIM Enterprise: Cyber training per PA e clienti su TIM Cloud
 
 TIM offre percorsi formativi per dipendenti pubblici e clienti su sicurezza IT, uso corretto del cloud, gestione accessi e compliance normativa.
+
+**Limite:**
+Più orientata verso i propri servizi cloud e clientela PA, meno adatta per formazione cybersecurity generalista e settore privato.
 
 ### 7. EY: Consulenza globale con focus sulla formazione aziendale
 
