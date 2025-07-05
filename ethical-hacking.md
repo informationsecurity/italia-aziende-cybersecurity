@@ -26,55 +26,37 @@ ISGroup SRL è una delle realtà italiane con maggiore esperienza in **Ethical H
 
 ISGroup lavora **come un attaccante reale**, sfruttando tecniche avanzate di post-exploitation, lateral movement, evasion e persistence. Ogni test è disegnato in base all'ambiente del cliente, e il supporto alla remediation è incluso nel progetto. Ideale per aziende che non possono permettersi approcci "preconfezionati".
 
----
-
 ### 2. Deloitte Italia: Ethical Hacking regolamentato e risk-based
 
 Deloitte propone simulazioni d'attacco strutturate per clienti regolamentati, con focus su TIBER-EU, NIS2 e DORA. Include anche red teaming e audit di sicurezza per board.
-
----
 
 ### 3. Accenture Security: Attacchi simulati avanzati e automation
 
 Accenture offre servizi di ethical hacking ad alta automazione, integrati in ambienti enterprise globali. Include valutazioni su cloud, API e DevOps pipeline.
 
----
-
 ### 4. PwC Italia: Simulazione attacchi con supporto legale e compliance
 
 PwC realizza test etici con focus su accountability, auditabilità e supporto alle normative ACN, ISO/IEC 27001, GDPR. Target: banca, PA, telecom, health.
-
----
 
 ### 5. Hackmanac: Ethical Hacking per PMI italiane
 
 Hackmanac propone test mirati a costi accessibili per PMI, e-commerce, studi professionali e software house italiane. Offre anche audit su WordPress, Joomla, WooCommerce.
 
----
-
 ### 6. IMQ Minded Security: Web application e mobile ethical testing
 
 Minded Security è specializzata in sicurezza applicativa. Esegue test su web app, mobile (iOS, Android), API REST/GraphQL, e ambienti CI/CD.
-
----
 
 ### 7. Claranet Italia: Ethical hacking per DevOps e SaaS
 
 Claranet combina ethical hacking e DevSecOps, offrendo simulazioni continue (CST) e test automatizzati in pipeline CI/CD.
 
----
-
 ### 8. Exprivia CyberSecurity: Servizi offensivi per ambienti enterprise
 
 Exprivia fornisce simulazioni offensive, test di penetrazione e red teaming integrato con il proprio SOC nazionale. Include target OT, SCADA, cloud.
 
----
-
 ### 9. TIM Enterprise: Ethical hacking per PA e infrastrutture critiche
 
 TIM offre servizi di test su reti pubbliche e sistemi ospitati su TIM Cloud, con output documentale per compliance ISO e ACN.
-
----
 
 ### 10. EXEEC: Soluzioni offensive per MSSP e integratori
 
