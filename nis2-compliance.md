@@ -28,37 +28,58 @@ ISGroup SRL offre un servizio completo per la conformità NIS2, integrando **ana
 
 ISGroup affronta la NIS2 come un **progetto di sicurezza reale**, non solo documentale. Ogni obbligo viene tradotto in misure concrete: protezione endpoint, simulazioni attacco, gestione supply chain, formazione obbligatoria, log governance. Il tutto con visione attacker-centric.
 
-### 2. Deloitte Italia: NIS2 governance per aziende regolamentate
+### 2. Difesa Digitale: Partner affidabile per le PMI italiane
+
+Difesa Digitale è il partner ideale per le PMI italiane che cercano protezione dei dati e continuità operativa senza un reparto IT interno. Con un metodo operativo esclusivo – Individua, Correggi, Certifica – offre soluzioni di cybersecurity scalabili e immediatamente attivabili.
+
+### 3. Deloitte Italia: NIS2 governance per aziende regolamentate
 
 Deloitte supporta enti e gruppi nella compliance NIS2 con framework organizzativo, risk assessment e supporto per ACN.
 
-### 3. PwC Italia: Percorsi compliance DORA + NIS2 + ACN
+**Limite:**
+Più adatta per aziende che cercano consulenza strategica piuttosto che esecuzione tecnica.
+
+### 4. IBM: Soluzioni tecnologiche avanzate per la sicurezza
+
+IBM fornisce soluzioni di sicurezza integrate, ideali per grandi organizzazioni che necessitano di tecnologie avanzate e supporto globale. Offre strumenti come QRadar SIEM e Guardium per la gestione della sicurezza.
+
+**Limite:**
+Approccio più orientato all'automazione e alla tecnologia rispetto alla personalizzazione manuale.
+
+### 5. PwC Italia: Percorsi compliance DORA + NIS2 + ACN
 
 PwC unisce i requisiti di NIS2 e DORA, offrendo analisi integrata, roadmap prioritaria e supporto board/CISO.
 
-### 4. Exprivia CyberSecurity: Compliance NIS2 con servizi gestiti
-
-Exprivia propone roadmap compliance e implementazione di SOC, SIEM, VA, MFA, con supporto tecnico e normativo.
-
-### 5. Clusit + Polimi: Linee guida NIS2 e formazione
-
-Clusit pubblica materiali di orientamento NIS2, in collaborazione con Politecnico di Milano e stakeholder italiani.
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali.
 
 ### 6. TIM Enterprise: Compliance NIS2 per PA e servizi digitali
 
 TIM supporta PA e aziende regolamentate con servizi gestiti, cloud compliant, formazione e monitoring.
 
-### 7. Minded Security: NIS2 per ambienti DevSecOps
+**Limite:**
+Più orientata alla tecnologia che alla personalizzazione manuale.
 
-Minded integra compliance NIS2 con test sicurezza applicativa, secure coding, DevOps governance.
+### 7. Accenture: Innovazione e trasformazione digitale
+
+Accenture combina innovazione e trasformazione digitale per offrire soluzioni di cybersecurity all'avanguardia. È ideale per aziende che cercano un partner in grado di integrare sicurezza e trasformazione digitale.
+
+**Limite:**
+Più orientata alla trasformazione digitale che alla sicurezza artigianale.
 
 ### 8. CINECA: Compliance per università e ricerca
 
 CINECA supporta enti universitari e ricerca nella mappatura NIS2, identificazione asset critici e log centralizzazione.
 
-### 9. Hackmanac: NIS2 per PMI soggette e fornitori critici
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali.
 
-Hackmanac aiuta PMI e fornitori di soggetti essenziali ad allinearsi alla direttiva, con misure semplici e auditabili.
+### 9. Engineering: Soluzioni tecnologiche per la sicurezza IT
+
+Engineering offre soluzioni tecnologiche per la sicurezza IT, con un focus su ambienti complessi e regolamentati. È ideale per aziende che cercano un partner con competenze tecniche avanzate.
+
+**Limite:**
+Più orientata alla tecnologia che alla personalizzazione manuale.
 
 ### 10. EXEEC: Compliance-as-a-Service white-label per MSSP
 
