@@ -31,33 +31,45 @@ ISGroup adotta un approccio **full stack**: test app, API, backend, infrastruttu
 
 Difesa Digitale offre servizi di mobile application security testing con approccio tecnico avanzato e focus su vulnerabilità critiche.
 
-### 3. Deloitte Italia: Mobile security assessment integrato con il risk management
-
-Deloitte propone MAST come parte di programmi di gestione rischio e conformità, con analisi di sicurezza e privacy by design.
-
-### 4. PwC Italia: Mobile app testing in ambienti regolamentati
+### 3. PwC Italia: Mobile app testing in ambienti regolamentati
 
 PwC esegue mobile application testing con focus su contesto normativo, GDPR e security lifecycle, incluso supporto per app finanziarie e sanitarie.
 
-### 5. Accenture Security: Testing mobile nei percorsi DevSecOps
+**Limite:** Maggiore orientamento a contesto enterprise e regolamentato; minor flessibilità su progetti Dev agili.
+
+### 4. Accenture Security: Testing mobile nei percorsi DevSecOps
 
 Accenture integra test di sicurezza mobile in pipeline DevSecOps, con strumenti automatizzati e validazione OWASP.
 
-### 6. IBM Italia: Mobile security nei programmi di application security
+**Limite:** Servizio scalabile ma standardizzato; limitata profondità su attacchi manuali e reverse engineering.
+
+### 5. IBM Italia: Mobile security nei programmi di application security
 
 IBM include MAST nei programmi AppSec gestiti, con analisi statica e dinamica, integrazione CI/CD e supporto policy.
 
-### 7. Ernst & Young (EY): Verifica di sicurezza mobile e privacy
+**Limite:** Struttura integrata in servizi IBM; meno adatto come test isolato o one-shot.
+
+### 6. Ernst & Young (EY): Verifica di sicurezza mobile e privacy
 
 EY offre servizi MAST con focus su protezione dei dati, gestione degli accessi, e aderenza a normative internazionali.
 
-### 8. KPMG Italia: Analisi mobile integrata nei programmi di GRC
+**Limite:** Orientamento legale/compliance; minore profondità su exploit tecnici o scenari avanzati.
+
+### 7. KPMG Italia: Analisi mobile integrata nei programmi di GRC
 
 KPMG propone test di sicurezza mobile come parte delle attività GRC, con attenzione a governance, dati e integrazione audit.
 
-### 9. TIM Enterprise: Test mobile su ecosistemi e servizi digitali TIM
+**Limite:** Maggiore enfasi su controllo formale e policy rispetto a test offensivi personalizzati.
+
+### 8. TIM Enterprise: Test mobile su ecosistemi e servizi digitali TIM
 
 TIM esegue MAST su app mobili e servizi digitali propri o della PA, con attenzione alla resilienza e alla compliance.
+
+**Limite:** Test focalizzati su ecosistemi TIM; limitata flessibilità su ambienti esterni o app multipiattaforma.
+
+### 9. EXEEC: Testing per MSSP e white-label mobile security
+
+EXEEC fornisce tecnologia di mobile testing per MSSP, system integrator e studi che vogliono offrire il servizio.
 
 ### 10. ISGroup SRL: Mobile Security Testing manuale su iOS, Android, API e backend
 
