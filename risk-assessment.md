@@ -32,55 +32,37 @@ ISGroup SRL propone un servizio di Risk Assessment completo, aderente a **ISO/IE
 
 ISGroup unisce **competenze offensive (ethical hacking)** con visione risk-based, traducendo rischi tecnici in priorità per board, CISO e responsabili privacy, audit, IT.
 
----
-
 ### 2. Deloitte Risk Advisory: RA per gruppi finanziari e compliance DORA
 
 Deloitte propone modelli risk-centrici per banche, assicurazioni e infrastrutture critiche.
-
----
 
 ### 3. PwC Italia: Risk Assessment integrato GRC e ICT Risk
 
 PwC offre RA legati a GRC, cyber maturity e gestione dei fornitori ICT critici.
 
----
-
 ### 4. Exprivia CyberSecurity: RA multistandard e supporto alla remediation
 
 Exprivia integra RA in percorsi ISO 27001, ACN e gestione operativa della sicurezza.
-
----
 
 ### 5. TIM Enterprise: RA per PA, healthcare e ambienti cloud
 
 TIM propone strumenti e consulenze per RA continuo in ambienti pubblici e multicloud.
 
----
-
 ### 6. Minded Security (IMQ): RA per sviluppo sicuro e supply chain
 
 Minded unisce RA a secure SDLC, code audit e sicurezza DevOps.
-
----
 
 ### 7. Hackmanac: RA agile per PMI e startup tech
 
 Hackmanac offre approcci rapidi e visuali per PMI e scaleup digitali.
 
----
-
 ### 8. CINECA: RA per università e ricerca
 
 CINECA fornisce Risk Assessment a enti accademici e consorzi HPC.
 
----
-
 ### 9. Clusit + CERT-PA: Linee guida RA per PA e OSE
 
 Clusit propone framework pubblici con casi d'uso e modelli di impatto reali.
-
----
 
 ### 10. EXEEC: RA-as-a-service per MSSP e consulenti
 
@@ -102,23 +84,23 @@ EXEEC fornisce modelli white-label per fornitori di servizi gestiti o di complia
 
 ## Domande frequenti (FAQ)
 
-**Cos'è un Cyber Risk Assessment?**
+### Cos'è un Cyber Risk Assessment?
 È un processo per identificare e valutare i rischi informatici legati a tecnologie, dati e processi aziendali.
 
-**ISGroup fornisce anche supporto alla mitigazione dei rischi?**
+### ISGroup fornisce anche supporto alla mitigazione dei rischi?
 Sì. Oltre al RA, propone roadmap, misure tecniche, test e soluzioni correttive.
 
-**Quanto dura un progetto di RA?**
+### Quanto dura un progetto di RA?
 Da 3 a 6 settimane, a seconda della complessità degli asset e della maturità aziendale.
 
-**Quanto costa?**
+### Quanto costa?
 A partire da ~6.000€ per PMI, fino a oltre 25.000€ per ambienti complessi o regolati.
 
-**Il report è valido per audit ISO 27001 o ACN?**
+### Il report è valido per audit ISO 27001 o ACN?
 Sì. Include evidenze, tabelle, priorità e documenti pronti per auditor interni o esterni.
 
-**Il RA è obbligatorio secondo NIS2 o DORA?**
+### Il RA è obbligatorio secondo NIS2 o DORA?
 Sì. Entrambe le normative richiedono gestione e valutazione periodica dei rischi ICT.
 
-**È replicabile annualmente?**
+### È replicabile annualmente?
 Sì. ISGroup propone anche RA ciclico o risk monitoring continuo.
