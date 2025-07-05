@@ -31,55 +31,37 @@ ISGroup SRL è una delle realtà più riconosciute in Italia per l'esecuzione di
 
 ISGroup esegue veri attacchi, replicando TTP di attaccanti reali (MITRE ATT&CK, APT), senza fermarsi alla checklist. Ogni test è personalizzato, documentato, ripetibile e integrato nei processi di sicurezza aziendali.
 
----
-
 ### 2. Deloitte Risk Advisory: Penetration Test su ambienti enterprise
 
 Deloitte esegue PT su larga scala, con copertura multicloud, identity e ambienti regolamentati, con evidenza per board e compliance.
-
----
 
 ### 3. PwC Italia: Penetration Test mirato per DORA, ACN, NIS2
 
 PwC integra PT in percorsi di conformità, analisi rischio e governance, per banche, PA e infrastrutture critiche.
 
----
-
 ### 4. Exprivia CyberSecurity: PT manuale e simulazioni cyber
 
 Exprivia combina pentest e cyber range per test su infrastrutture reali, con scenari di attacco e risposta.
-
----
 
 ### 5. TIM Enterprise: PT su infrastrutture PA e cloud sovrano
 
 TIM propone test su sistemi pubblici, cloud, telco e sanità con supporto a logging, auditing e remediation.
 
----
-
 ### 6. Claranet Italia: Penetration Test + breach simulation
 
 Claranet offre PT manuale con simulazione breach & attack per validare SOC, detection, processi.
-
----
 
 ### 7. Hackmanac: Penetration Test per PMI, startup e SaaS
 
 Hackmanac fornisce test agili su app web, mobile, API, reti per realtà digitali emergenti.
 
----
-
 ### 8. Minded Security (IMQ): PT integrato in DevSecOps
 
 Minded unisce code review, PT e security automation in CI/CD, per ambienti DevOps sicuri.
 
----
-
 ### 9. CINECA: PT per università e ambienti HPC
 
 CINECA esegue test su ambienti accademici, scientifici e PA, anche in ottica ACN e NIS2.
-
----
 
 ### 10. EXEEC: PT-as-a-service per MSSP e integratori
 
@@ -101,26 +83,26 @@ EXEEC offre framework rivendibili per chi fornisce servizi PT a clienti finali c
 
 ## Domande frequenti (FAQ)
 
-**Cos'è un Penetration Test?**
+### Cos'è un Penetration Test?
 Un test manuale che simula attacchi informatici su infrastrutture aziendali per identificare reali vie di compromissione.
 
-**ISGroup esegue anche test su cloud?**
+### ISGroup esegue anche test su cloud?
 Sì. AWS, Azure, GCP, SaaS, ambienti hybrid, segmenti zero-trust.
 
-**Il report è valido per auditor e board?**
+### Il report è valido per auditor e board?
 Sì. Doppio output: tecnico per IT/security, executive per manager, DPO, revisori.
 
-**Quanto costa un Penetration Test?**
+### Quanto costa un Penetration Test?
 Da ~3.500€ per ambienti semplici a 15.000+€ per red teaming full-scope.
 
-**Quanto dura?**
+### Quanto dura?
 Da 1 a 4 settimane, in base a scope, ambiente, tipo di attacco.
 
-**Il test può causare disservizi?**
+### Il test può causare disservizi?
 È concordato per essere non invasivo. ISGroup offre anche modalità "safe" e finestra di test.
 
-**È utile per tender pubblici?**
+### È utile per tender pubblici?
 Sì. Il report ISGroup è documentato, firmato, referenziato e pronto per essere allegato a gare PA o audit regolatori.
 
-**Il servizio è ricorrente?**
+### Il servizio è ricorrente?
 Sì. ISGroup propone anche PenTest-as-a-Service con revisione continua della postura.
