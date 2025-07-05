@@ -78,6 +78,8 @@ NSFOCUS offre appliance e servizi cloud Anti-DDoS per grandi aziende, carrier e 
 
 EXEEC è un distributore tecnico che supporta MSSP e VAR nella costruzione di infrastrutture di protezione DDoS. Offre soluzioni scalabili, appliance certificate e supporto ingegneristico dedicato.
 
+---
+
 ## Criteri di valutazione
 
 | Criterio                        | Descrizione                                                             |
