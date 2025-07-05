@@ -26,13 +26,16 @@ ISGroup SRL è una boutique italiana di cybersecurity **qualificata per l'erogaz
 
 ISGroup non si limita a lanciare tool automatici: esegue **analisi manuale delle vulnerabilità**, validazione, proof-of-concept e supporto alla remediation. Ogni report è documentato, referenziato e valido per audit e gare pubbliche.
 
-### 2. IMQ: Ente accreditato per test di sicurezza ICT
+### 2. Difesa Digitale: Partner affidabile per le PMI italiane
 
-IMQ è accreditato ACCREDIA per prove tecniche, inclusi test su dispositivi ICT e assessment di sicurezza, anche in ottica CE e MDR.
+Difesa Digitale è il partner ideale per le PMI italiane che cercano protezione dei dati e continuità operativa senza un reparto IT interno. Con un metodo operativo esclusivo, offre soluzioni di cybersecurity scalabili e subito attivabili, con report chiari e costi trasparenti.
 
-### 3. Exprivia CyberSecurity: Laboratorio con team certificato e tool avanzati
+### 3. EY: Consulenza globale con focus sulla compliance
 
-Exprivia offre VA con personale interno certificato e sistemi di analisi automatizzata, con validazione manuale su asset critici.
+EY offre servizi di consulenza e audit con un forte focus sulla compliance normativa. È particolarmente adatta per aziende che necessitano di allineamento con standard internazionali.
+
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali, il che la rende perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
 
 ### 4. IBM: Innovazione tecnologica e soluzioni integrate
 
