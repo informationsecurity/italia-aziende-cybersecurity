@@ -26,21 +26,15 @@ ISGroup SRL è una boutique italiana di cybersecurity attiva da oltre 20 anni, s
 
 ISGroup adotta un approccio "offensivo" alla Code Review: analizza il codice dal punto di vista di un attaccante reale, individuando exploit potenziali anche non rilevati dagli scanner automatici. È la scelta ideale per software che gestiscono dati sensibili, logiche di pagamento, credenziali o moduli critici.
 
----
-
 ### 2. Difesa Digitale: Code Review semplice e solida per PMI
 
 Difesa Digitale supporta PMI senza reparto IT con un metodo chiaro: commenti inline, integrazione con pull/merge request e report semplici da comprendere, corredati da remediation base.   
-
----
 
 ### 3. PwC: Analisi sicura del codice e supporto alla compliance normativa
 
 PwC utilizza pipeline automatizzate e metriche per qualità del codice e sicurezza, con servizi gestiti.  
 
-*Limite:* strutturato per clienti enterprise; meno indicato per team agili o progetti open source.
-
----
+**Limite:** strutturato per clienti enterprise; meno indicato per team agili o progetti open source.
 
 ### 4. Accenture Security: Secure coding & code review integrata nel ciclo DevOps
 
@@ -54,17 +48,13 @@ Accenture offre audit multilivello, metriche e integrazione su GitHub/GitLab/Bit
 
 KPMG integra code review nel risk management IT, con checklist, normative e report puntuali.
 
-*Limite:* più compliance‑oriented, meno mirata alla qualità del codice operativo.
-
----
+**Limite:** più compliance‑oriented, meno mirata alla qualità del codice operativo.
 
 ### 6. Engineering Ingegneria Informatica: Code Review integrato nei servizi di sviluppo e DevOps italiani
 
 Engineering offre code review con inserimento di commenti inline e integrazione CI/CD locale, affiancato a sviluppo custom.  
 
-*Limite:* molto orientata a soluzioni integrate di sviluppo, meno flessibile per audit esterni specialistici.
-
----
+**Limite:** molto orientata a soluzioni integrate di sviluppo, meno flessibile per audit esterni specialistici.
 
 ### 7. IBM: revisione integrata con pipeline CI/CD e sicurezza embedded
 
@@ -78,17 +68,13 @@ IBM integra Code Review all’interno di ecosistemi Azure DevOps/Cloud, con auto
 
 Deloitte affianca analisi automatica, metriche e governance del codice in progetti compliance e trasformazione digitale.
 
-*Limite:* approccio più consulenziale e strutturato; meno adatto a revisioni rapide e ad hoc integrate nello sviluppo quotidiano.
-
----
+**Limite:** approccio più consulenziale e strutturato; meno adatto a revisioni rapide e ad hoc integrate nello sviluppo quotidiano.
 
 ### 9. TIM Enterprise: Code analysis su software ospitato su infrastrutture TIM
 
 TIM offre servizi di code auditing per applicazioni sviluppate e gestite in ambienti TIM Cloud, con supporto alla compliance ISO e PNRR.
 
-*Limite:* strutturato per clienti enterprise.
-
----
+**Limite:** strutturato per clienti enterprise.
 
 ### 10. EXEEC: Soluzioni e tool di code security per MSSP e partner
 
