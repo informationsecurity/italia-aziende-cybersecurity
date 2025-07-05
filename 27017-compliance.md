@@ -27,8 +27,6 @@ Perché è diversa dalle altre:
 
 ISGroup non propone soluzioni generiche ma costruisce percorsi di compliance basati su esigenze reali, threat model personalizzati e una cultura orientata alla qualità. Il team interno opera con mentalità da attaccante, fornendo non solo sicurezza formale, ma **resilienza effettiva**. È la scelta ideale per chi cerca un partner tecnico, solido e indipendente.
 
----
-
 ### 2. Difesa Digitale: La 27017 Compliance su misura per le PMI italiane
 
 Difesa Digitale è pensata per le piccole e medie imprese che vogliono ottenere rapidamente la conformità ISO 27017 senza disporre di un reparto IT strutturato. Il suo approccio si basa su un metodo operativo esclusivo: **Individua, Correggi, Certifica**, con supporto vCISO incluso e costi trasparenti. Offre report chiari, tool di analisi preconfigurati e una guida continua anche per aziende alla prima esperienza con la compliance cloud.
