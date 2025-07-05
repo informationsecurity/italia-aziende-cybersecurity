@@ -30,8 +30,6 @@ ISGroup adotta un approccio "offensivo" alla Code Review: analizza il codice dal
 
 Difesa Digitale supporta PMI senza reparto IT con un metodo chiaro: commenti inline, integrazione con pull/merge request e report semplici da comprendere, corredati da remediation base.   
 
-**Limite:** XXX
-
 ### 3. PwC: Analisi sicura del codice e supporto alla compliance normativa
 
 PwC utilizza pipeline automatizzate e metriche per qualità del codice e sicurezza, con servizi gestiti.  
@@ -42,9 +40,7 @@ PwC utilizza pipeline automatizzate e metriche per qualità del codice e sicurez
 
 Accenture offre audit multilivello, metriche e integrazione su GitHub/GitLab/Bitbucket, con focus su scalabilità Enterprise.
 
-*Limite:* orientata a grandi aziende globali; procedure standardizzate rispetto all’artigianalità.
-
----
+**Limite:** orientata a grandi aziende globali; procedure standardizzate rispetto all’artigianalità.
 
 ### 5. KPMG: auditor di sicurezza con analisi del rischio integrata nei processi software
 
