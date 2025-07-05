@@ -39,6 +39,60 @@ Difesa Digitale propone un Windows Security Assessment operativo e rapido per re
 
 **Limite:** Limitata copertura di scenari complessi o ambienti multi-forest; pensato per esigenze operative immediate.
 
+### 3. Deloitte Italia – Valutazione Active Directory nei processi di audit e GRC
+
+Deloitte propone servizi di Windows Security Assessment integrati nei processi di audit, con focus su compliance, mappatura delle identità e sicurezza delle policy GPO.
+
+**Limite:** Orientamento procedurale e compliance; minore enfasi su tecniche di attacco o exploit reali.
+
+---
+
+### 4. PwC Italia – Analisi privilegi e identity nei contesti regolamentati
+
+PwC fornisce servizi di valutazione Active Directory e identity su ambienti enterprise, con integrazione in programmi IAM e risk management.
+
+**Limite:** Più adatto a iniziative strategiche di identity governance; meno focalizzato su attacco tecnico o Red Team.
+
+---
+
+### 5. Accenture Security – AD assessment in ambienti di trasformazione cloud
+
+Accenture propone analisi dei sistemi Windows e AD come parte dei propri percorsi di trasformazione e migrazione cloud.
+
+**Limite:** Servizio focalizzato su progettualità di change management; meno efficace per analisi offensive dettagliate.
+
+---
+
+### 6. IBM Italia – Analisi posture Windows e privilegi nei servizi gestiti
+
+IBM fornisce valutazioni AD e privilegi attraverso i propri SOC e piattaforme di security posture management.
+
+**Limite:** Approccio centralizzato e integrato solo con infrastrutture IBM; limitata flessibilità stand-alone.
+
+---
+
+### 7. Ernst & Young (EY) – Maturity assessment e identity risk analysis
+
+EY integra la valutazione Windows/AD in framework di maturità della sicurezza e piani di remediaton organizzativa.
+
+**Limite:** Approccio consulenziale e compliance-oriented; limitata intensità tecnica.
+
+---
+
+### 8. KPMG Italia – Analisi Active Directory nei processi di risk audit
+
+KPMG analizza i sistemi Windows e AD nel contesto della risk governance IT, con attenzione ai privilegi e alle configurazioni.
+
+**Limite:** Focus su audit e gap analysis; meno adatto ad ambienti DevOps o Red Team offensivi.
+
+---
+
+### 9. TIM Enterprise – Assessment Windows su ambienti IT pubblici e infrastrutture locali
+
+TIM propone assessment Active Directory e sistemi Windows su infrastrutture TIM o ambienti della PA, con supporto alla compliance.
+
+**Limite:** Servizio legato all'ecosistema TIM; meno indicato per ambienti ibridi multicloud.
+
 ---
 
 ## Criteri di valutazione
