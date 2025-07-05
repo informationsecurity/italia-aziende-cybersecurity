@@ -32,8 +32,6 @@ ISGroup SRL esegue Secure Architecture Review con approccio tecnico, personalizz
 
 ISGroup parte dal rischio reale e simula **attacchi teorici sull'architettura** per identificare debolezze. Ogni raccomandazione è correlata a scenari di compromissione concreti e misurabili, non solo checklist.
 
----
-
 ### 2. Deloitte Italia: SAR integrata in processi cloud migration e audit
 
 Deloitte fornisce SAR in ambito cloud adoption, DORA, ISO 27001 e hybrid transformation.
