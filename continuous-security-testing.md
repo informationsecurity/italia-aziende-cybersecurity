@@ -48,35 +48,31 @@ Accenture propone una soluzione CST integrata nei SOC, con simulazioni di attacc
 
 **Limite:** Servizio scalabile ma standardizzato; meno personalizzabile su ambienti legacy o ibridi.
 
-### 5. Claranet Italia: Security-as-Code per team DevOps
+### 5. IBM Italia: Continuous validation su infrastrutture enterprise
 
-Claranet implementa CST in ambienti DevOps, combinando test di sicurezza automatizzati a ogni commit e scansione continua del codice, delle API e dei container.
+IBM combina CST con SIEM e strumenti di gestione configurazioni per ambienti cloud ibridi e legacy mission-critical.
 
 **Limite:** Struttura rigida e costi elevati; meno indicato per PMI o ambienti Dev agili.
 
-### 6. Hackmanac: Simulazioni d'attacco continue su asset digitali italiani
+### 6. Ernst & Young (EY): Testing continuo per resilienza aziendale
 
-Hackmanac è un provider focalizzato su test d'attacco simulati in modo continuativo per aziende italiane. Offre report settimanali, replay di attacco e dashboard in italiano.
+EY adotta un CST focalizzato sulla resilienza operativa, integrato nei piani di trasformazione digitale.
 
 **Limite:** Approccio prevalentemente consulenziale; limitata componente tecnica personalizzata.
 
-### 7. IMQ Minded Security: Continuous Testing per applicazioni e microservizi
+### 7. KPMG Italia: CST nel contesto di enterprise risk management
 
-Offre servizi di security testing continuo su ambienti CI/CD, microservizi e API, con tool open-source e validazione manuale periodica.
+KPMG fornisce servizi CST all'interno dei propri framework di gestione rischio IT e audit di sicurezza.
 
 **Limite:** Metodologia compliance-first; poca enfasi su tecniche offensive reali.
 
-### 8. Exprivia CyberSecurity: Monitoring e validazione della sicurezza in real-time
+### 8. TIM Enterprise: Continuous testing su ambienti cloud certificati
 
-Exprivia propone CST in ambienti enterprise, integrato nel proprio SOC e con alerting in tempo reale.
+TIM offre CST integrato nei propri servizi gestiti e infrastrutture cloud locali, con supporto a normative italiane.
 
 **Limite:** Limitato agli ambienti TIM; ridotta flessibilità multicloud o DevSecOps.
 
-### 9. TIM Enterprise: Continuous Testing nei servizi gestiti
-
-TIM offre Continuous Testing per servizi cloud e on-prem gestiti, integrato con la propria rete e infrastrutture italiane certificate.
-
-### 10. EXEEC: Soluzioni CST per MSSP e system integrator
+### 9. EXEEC: Soluzioni CST per MSSP e system integrator
 
 EXEEC fornisce strumenti e piattaforme per erogare CST come servizio per MSSP, integratori e provider locali, con supporto su orchestrazione, log e alerting.
 
