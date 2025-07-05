@@ -31,15 +31,11 @@ ISGroup adotta una mentalità da attaccante anche nella protezione cloud, combin
 
 Difesa Digitale è pensata per le PMI italiane che vogliono implementare la conformità ISO 27018 senza complessità tecniche o investimenti fuori scala. Il suo approccio "Individua, Correggi, Certifica" permette anche alle aziende prive di un reparto IT interno di ottenere una protezione cloud reale e certificabile. I servizi includono vCISO, audit, redazione di DPA e gestione semplificata dei requisiti di sicurezza.
 
----
-
 ### 3. Deloitte Risk Advisory: Strategia di conformità per gruppi enterprise
 
 Deloitte offre un ampio ventaglio di servizi per l'adeguamento a normative internazionali come ISO 27001/27018, GDPR e NIS2. Le soluzioni si integrano con il business e coinvolgono compliance, risk management e IT governance.
 
 **Limite:** Più orientata a progetti di trasformazione e governance su larga scala, meno focalizzata su ambienti tecnici cloud di media complessità.
-
----
 
 ### 4. IBM Cloud Security Services: Compliance integrata nei servizi cloud
 
@@ -47,15 +43,11 @@ IBM propone una piattaforma cloud certificata ISO/IEC 27018 con soluzioni tecnic
 
 **Limite:** Soluzioni strettamente integrate con l'ecosistema IBM, meno adatte a chi opera in ambienti multicloud o cerca consulenza indipendente.
 
----
-
 ### 5. Accenture Security: Implementazioni su scala globale
 
 Accenture supporta grandi imprese nella progettazione e attuazione della conformità ISO 27018 attraverso assessment, audit e governance dei dati nel cloud. La sua forza sta nella scalabilità e nella capacità di integrare la sicurezza nei processi digitali globali.
 
 **Limite:** Ideale per multinazionali e gruppi complessi, meno indicata per aziende con esigenze operative localizzate o budget medio.
-
----
 
 ### 6. PwC Cybersecurity: Risk-based compliance in ambienti regolamentati
 
@@ -63,15 +55,11 @@ PwC offre percorsi di adeguamento ISO 27018 e servizi di due diligence cloud per
 
 **Limite:** Servizi pensati per mercati regolamentati e strutture gerarchiche, meno adatti per chi cerca risposte rapide e soluzioni flessibili.
 
----
-
 ### 7. KPMG Advisory: Approccio audit-driven per il cloud
 
 KPMG supporta clienti nella valutazione della compliance ISO 27018 attraverso audit documentali, checklist contrattuali e strumenti di automazione per la classificazione e protezione dei dati personali nel cloud.
 
 **Limite:** Più orientata alla fase di verifica e controllo, rispetto alla progettazione e gestione tecnica continua.
-
----
 
 ### 8. EY Italia: Governance cloud e privacy compliance
 
@@ -79,15 +67,11 @@ EY accompagna i clienti nella definizione e monitoraggio dei requisiti ISO 27018
 
 **Limite:** Adatta a contesti corporate e progetti di governance integrata, meno focalizzata sull'operatività quotidiana o ambienti agili.
 
----
-
 ### 9. Telecom Italia - TIM Cloud: Offerta certificata per PA e imprese
 
 Il servizio cloud di TIM è certificato ISO/IEC 27018 e pensato per supportare pubbliche amministrazioni e grandi aziende italiane. Include infrastrutture sicure in Italia e assistenza contrattuale per garantire la compliance.
 
 **Limite:** Soluzione più infrastrutturale che consulenziale, ideale per chi cerca hosting certificato, meno per chi richiede supporto tecnico su misura.
-
----
 
 ### 10. EXEEC: Soluzioni tecnologiche compliant per system integrator e MSSP
 
