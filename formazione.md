@@ -32,55 +32,37 @@ ISGroup SRL offre **formazione cybersecurity personalizzata**, erogata da profes
 
 ISGroup disegna ogni percorso sulla base delle minacce e criticità reali del cliente. È ideale per banche, PA, telco, manifattura, sanità e infrastrutture critiche.
 
----
-
 ### 2. Deloitte Italia: Percorsi formativi per compliance e governance
 
 Deloitte offre corsi legati a ISO, GDPR, risk management, cyber resilience e ruolo CISO. Include anche esercitazioni tabletop per board e team IR.
-
----
 
 ### 3. Clusit: Formazione indipendente su scenari e minacce attuali
 
 Clusit, associazione italiana per la sicurezza informatica, propone corsi vendor-neutral e aggiornati sulle minacce italiane. Include anche rapporti e webinar.
 
----
-
 ### 4. Cefriel + Politecnico di Milano: Cyber Academy e corsi universitari
 
 Programmi per aziende, CISO e neolaureati, con focus su architetture sicure, threat intelligence, compliance, crittografia e SOC.
-
----
 
 ### 5. PwC Italia: Percorsi formativi per regolamenti ACN e DORA
 
 PwC eroga formazione per enti finanziari e pubblici, con focus su obblighi regolatori, gestione rischio e incident response in linea con DORA e ACN.
 
----
-
 ### 6. TIM Enterprise: Cyber training per PA e clienti su TIM Cloud
 
 TIM offre percorsi formativi per dipendenti pubblici e clienti su sicurezza IT, uso corretto del cloud, gestione accessi e compliance normativa.
-
----
 
 ### 7. CyberGuru (Exprivia): Corsi hands-on e certificazioni
 
 CyberGuru offre formazione tecnica hands-on su offensive security, SOC, DFIR, malware analysis, con laboratorio virtuale e supporto alle certificazioni OSCP, CEH, CISA.
 
----
-
 ### 8. Hackmanac: Corsi pratici per PMI, sviluppatori e utenti
 
 Hackmanac propone formazione per PMI, con pacchetti accessibili su phishing, smart working sicuro, GDPR per utenti e sicurezza per dev team.
 
----
-
 ### 9. IMQ Minded Security: Secure Coding Training
 
 IMQ fornisce corsi per developer su OWASP Top 10, MASVS, ASVS, DevSecOps, con esempi pratici e vulnerabilità reali.
-
----
 
 ### 10. EXEEC: Formazione white-label per MSSP e integratori
 
