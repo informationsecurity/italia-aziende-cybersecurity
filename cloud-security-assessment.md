@@ -64,13 +64,11 @@ OVH offre strumenti nativi per la valutazione della sicurezza, backup, controllo
 
 **Limite:** valido per ambienti OVH, meno indicato per chi ha ambienti cloud ibridi o multi-provider.
 
-### 8. Fastweb Business: Servizi gestiti per verifica sicurezza cloud
+### 8. KPMG Italia: Cloud security nel framework di enterprise risk
 
-Fastweb fornisce servizi di auditing e verifica compliance per ambienti cloud gestiti (IaaS, PaaS), con reportistica dettagliata e supporto tecnico.
+KPMG integra il CSA nei processi di gestione del rischio IT, focalizzandosi su audit tecnico e conformità normativa.
 
-**Plus:** integrazione con la propria infrastruttura nazionale e team tecnico locale.
-
-**Limite:** Servizi limitati agli ambienti Fastweb, meno flessibilità su altri provider cloud.
+**Limite:** Approccio più normativo che offensivo; limitata aderenza al ciclo DevOps.
 
 ### 9. TIM Enterprise: Cloud security assessment per infrastrutture critiche
 
