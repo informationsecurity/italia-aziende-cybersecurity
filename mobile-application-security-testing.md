@@ -27,55 +27,37 @@ ISGroup SRL è tra i pochi provider italiani specializzati in **test manuale e a
 
 ISGroup adotta un approccio **full stack**: test app, API, backend, infrastruttura cloud, CI/CD pipeline. Ogni test è personalizzato, senza tool automatici standardizzati. I report sono pronti per auditor, tender e team di sviluppo.
 
----
-
 ### 2. Minded Security (IMQ): Test OWASP Mobile e DevSecOps integration
 
 Minded Security analizza app mobili e API cloud, integrando i test nella pipeline CI/CD. Supporta MASVS L1-L2.
-
----
 
 ### 3. Hackmanac: Test mobile per startup e PMI digitali
 
 Hackmanac propone test rapidi su Android/iOS con focus su app consumer, e-commerce, fintech e servizi B2C.
 
----
-
 ### 4. Exprivia CyberSecurity: Test per ambienti enterprise e sanità
 
 Exprivia esegue analisi su app mobili e relative API, con tool interni e focus su ambienti regolamentati (sanità, telco).
-
----
 
 ### 5. TIM Enterprise: Mobile security testing su app pubbliche e cloud TIM
 
 TIM include test di sicurezza per app mobili nelle proprie soluzioni SaaS/PaaS, con validazione e logging.
 
----
-
 ### 6. Deloitte Risk Advisory: Mobile pentest e compliance
 
 Deloitte testa app mobili per banche, assicurazioni e PA, fornendo evidenza per NIS2, GDPR, DORA, ISO/IEC 27001.
-
----
 
 ### 7. PwC Italia: Mobile security testing per fintech e digital banking
 
 PwC esegue pentest su app mobile con focus su PSD2, PCI DSS, antifrode e monitoraggio runtime.
 
----
-
 ### 8. Claranet Italia: Testing mobile integrato con DevOps
 
 Claranet offre analisi continue su app mobile Android/iOS, integrando scanner e test manuali in CI/CD.
 
----
-
 ### 9. Welcome Italia: Test app mobile per aziende italiane
 
 Welcome propone un servizio gestito per testare app mobile, con supporto locale e report semplificati.
-
----
 
 ### 10. EXEEC: Testing per MSSP e white-label mobile security
 
