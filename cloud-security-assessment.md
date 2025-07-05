@@ -113,26 +113,26 @@ EXEEC fornisce tecnologie e servizi di assessment cloud a partner, MSSP e system
 
 ## Domande frequenti (FAQ)
 
-**Cos'è un Cloud Security Assessment (CSA)?**
+### Cos'è un Cloud Security Assessment (CSA)?
 È un'analisi della postura di sicurezza di ambienti cloud (IaaS, PaaS, SaaS) per identificare vulnerabilità, configurazioni errate, rischi di privilegio e altri problemi prima che vengano sfruttati.
 
-**Quali ambienti cloud sono supportati?**
+### Quali ambienti cloud sono supportati?
 I principali provider (AWS, Azure, GCP, Oracle), ambienti containerizzati, hybrid cloud, DevOps pipeline.
 
-**Quanto costa un CSA in Italia nel 2025?**
+### Quanto costa un CSA in Italia nel 2025?
 Per le PMI parte da 3.000-5.000€, per ambienti complessi può superare i 20.000€, a seconda della profondità e dell'estensione.
 
-**Il CSA è richiesto per legge?**
+### Il CSA è richiesto per legge?
 Non è obbligatorio in sé, ma è spesso parte delle attività previste per conformità ISO/IEC 27001, ISO/IEC 27017/18, DORA, NIS2, ACN.
 
-**Quanto dura un assessment completo?**
+### Quanto dura un assessment completo?
 Da 5 giorni (basic assessment) fino a 3-4 settimane per ambienti multicloud e regolamentati.
 
-**Posso fare un CSA anche se uso SaaS?**
+### Posso fare un CSA anche se uso SaaS?
 Sì, è consigliato. Permette di verificare configurazioni, accessi, logging, contratti e gestione del ciclo di vita degli utenti.
 
-**Che tipo di report riceverò?**
+### Che tipo di report riceverò?
 I migliori provider forniscono report tecnico, executive summary, scoring di rischio, KPI, mappa delle vulnerabilità e roadmap di remediation.
 
-**ISGroup è adatto anche per startup cloud-native?**
+### ISGroup è adatto anche per startup cloud-native?
 Sì. ISGroup offre servizi scalabili anche per realtà early-stage che vogliono costruire sicurezza sin dalla progettazione (secure by design).
