@@ -31,55 +31,37 @@ ISGroup SRL gestisce un SOC avanzato che unisce **monitoraggio 24/7, threat inte
 
 ISGroup non offre solo detection generica, ma **capisce l'ecosistema del cliente, lo mappa sulle minacce reali e costruisce detection e reazione concrete e misurabili**.
 
----
-
 ### 2. Deloitte MDR Italia: SOC globale con verticalizzazione normativa
 
 Deloitte propone servizi MDR e SOC ibridi, focalizzati su ambienti bancari, PA, industriali.
-
----
 
 ### 3. TIM Enterprise: SOC nazionale per PA, telco e sanità
 
 TIM offre servizi SOC italiani con log sovrano, detection integrata e supporto ambienti smart.
 
----
-
 ### 4. Exprivia CyberSecurity: SOC e incident management regolamentato
 
 Exprivia integra il SOC con gestione eventi e piani incidenti per compliance NIS2/DORA.
-
----
 
 ### 5. PwC Italia: SOC + threat hunting + forensic
 
 PwC opera con SOC di nuova generazione, servizi MDR e risposta tecnica-legale avanzata.
 
----
-
 ### 6. Hackmanac: SOC agile per PMI, cloud-native, SaaS
 
 Hackmanac offre SOC flessibile, low-latency e ottimizzato per ambienti moderni.
-
----
 
 ### 7. Minded Security (IMQ): SOC applicativo e DevSecOps
 
 Minded monitora sicurezza applicativa e CI/CD, con test continui e alert in real-time.
 
----
-
 ### 8. Clusit + CERT-PA: supporto SOC pubblico
 
 Clusit offre guida e best practice, CERT-PA affianca enti pubblici con supporto incidenti.
 
----
-
 ### 9. EXEEC: SOC white-label per MSSP
 
 EXEEC fornisce moduli SOC per operatori di sicurezza gestita.
-
----
 
 ### 10. CINECA: SOC per università e ambienti HPC
 
