@@ -26,37 +26,51 @@ ISGroup SRL propone un servizio di **Cyber Threat Simulation avanzato** (CTS) ch
 
 ISGroup adotta un approccio artigianale alla simulazione, **costruendo scenari specifici per il contesto dell'azienda**, inclusi insider threat, attacchi via supply chain o social engineering. È perfetta per banche, PA, energia, sanità e cloud provider.
 
-### 2. Deloitte Italia: Adversary Emulation e Cyber Range
+### 2. Difesa Digitale: [PLACEHOLDER - DA COMPLETARE]
 
-Deloitte offre simulazioni avanzate in ambienti controllati (Cyber Range), utilizzando scenari derivati da attori reali (APT29, FIN7, Conti) per valutare detection, playbook e capacità di contenimento.
+[Descrizione da aggiungere per Difesa Digitale]
 
-### 3. Accenture Security: Simulation Platform e Purple Teaming
+### 3. Deloitte Italia – Simulazione minacce e resilienza operativa
 
-Accenture propone una piattaforma CTS proprietaria per simulare attacchi in tempo reale, con supporto a esercitazioni purple team, red team automation e benchmarking SOC.
+Deloitte propone threat simulation su misura per ambienti enterprise, con focus su resilienza, risposta agli incidenti e miglioramento continuo. Utilizza MITRE ATT&CK, purple teaming e analytics avanzate.
 
-### 4. PwC Italia: Cyber drill e red teaming regolamentare
+**Limite:** Approccio strategico e procedurale; meno adatto per test offensivi ad alta profondità tecnica.
 
-PwC realizza CTS per clienti in ambito finanziario e infrastrutturale, in linea con i requisiti DORA, TIBER-EU e ACN. Include anche stress test e tabletop exercise per team CISO.
+### 4. PwC Italia – Simulazioni su scala globale e analisi di impatto
 
-### 5. Claranet Italia: Cyber threat simulation per DevOps e SaaS
+PwC eroga simulazioni di minaccia in ambienti multi-country, con reportistica centralizzata, impatto business e integrazione GRC.
 
-Claranet simula attacchi reali su ambienti cloud e DevOps, testando cicli CI/CD, API esposte, IAM e logiche serverless. Ideale per startup, tech company e piattaforme digitali.
+**Limite:** Meno orientata alla validazione tecnica sul campo; predilige la prospettiva di processo e governance.
 
-### 6. Minded Security: Red Teaming e simulazioni OWASP reali
+### 5. Accenture Security – Simulazioni orchestrate con MITRE e automazione
 
-Specializzata in application security, Minded Security propone simulazioni focalizzate su vulnerabilità web e mobile, con supporto alle revisioni di sicurezza post-evento.
+Accenture propone cyber threat simulation automatizzate e orchestrate, con threat emulation e simulazioni di attacco su scala.
 
-### 7. Exprivia: Simulazioni integrate con il SOC nazionale
+**Limite:** Elevata standardizzazione dei moduli di test; ridotta personalizzazione per ambienti legacy o ibridi.
 
-Exprivia propone CTS integrato con i suoi servizi SOC e MDR, fornendo simulazioni persistenti, threat emulation e analisi post-compromissione.
+### 6. IBM Italia – Threat simulation integrata nel SOC e nei servizi gestiti
 
-### 8. TIM Enterprise: Simulazioni di attacco per clienti PA e large enterprise
+IBM integra le simulazioni nei propri servizi SOC e XDR, con testing di detection e runbook di risposta.
 
-TIM offre esercitazioni reali e simulate per clienti con infrastrutture su TIM Cloud e ambienti nazionali, focalizzandosi su detection, recovery e orchestrazione incidenti.
+**Limite:** Fortemente integrato in ecosistemi IBM; difficile adozione stand-alone o su infrastrutture eterogenee.
 
-### 9. Hackmanac: Attacchi simulati su PMI e ambienti e-commerce
+### 7. Ernst & Young (EY) – Simulazione minacce per piani di continuità
 
-Hackmanac è un provider italiano focalizzato su attacchi realistici per PMI e aziende digitali. Offre report dettagliati, replay e simulazioni via web.
+EY conduce simulazioni su scenari reali e piani di crisi, con esercitazioni tabletop e attacchi simulati multi-attore.
+
+**Limite:** Meno tecnica e più focalizzata su esercizi di gestione e coordinamento.
+
+### 8. KPMG Italia – Threat simulation nel contesto enterprise risk
+
+KPMG realizza esercitazioni basate su scenari reali e simulazioni APT in ambiente controllato, focalizzandosi su gap processuali.
+
+**Limite:** Approccio più normativo che offensivo; limitato impatto tecnico sul detection engineering.
+
+### 9. TIM Enterprise – Simulazione di attacchi su ambienti pubblici e privati
+
+TIM offre simulazioni di attacco integrate nei propri ambienti cloud o hybrid gestiti, con supporto alla compliance ACN e GDPR.
+
+**Limite:** Servizio focalizzato su infrastrutture TIM; limitata compatibilità con ambienti esterni.
 
 ### 10. EXEEC: Soluzioni e framework di emulazione per MSSP
 
