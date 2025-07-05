@@ -34,55 +34,37 @@ ISGroup SRL offre un servizio di **Penetration Test su Web Application manuale**
 
 ISGroup esegue test **completamente manuali, senza uso di scanner automatici**, replicando comportamenti reali di un attaccante e offrendo evidenze tecniche utili alla remediation e alla governance.
 
----
-
 ### 2. Deloitte Italia: WAPT per ambienti enterprise e finanziari
 
 Deloitte esegue test avanzati su portali bancari, e-commerce, login federati e ambienti a rischio elevato.
-
----
 
 ### 3. TIM Enterprise: Web app security per PA, sanità e telco
 
 TIM fornisce testing su portali pubblici, sanitari e identità digitali.
 
----
-
 ### 4. Exprivia CyberSecurity: WAPT su portali critici e cloud
 
 Exprivia effettua test approfonditi su ambienti cloud, SaaS e PaaS con output audit-ready.
-
----
 
 ### 5. PwC Italia: WAPT + secure SDLC integration
 
 PwC unisce WAPT con threat modeling, DevSecOps e code review.
 
----
-
 ### 6. Hackmanac: WAPT per startup tech e app cloud-native
 
 Hackmanac testa applicazioni rapide, moderne, API-first e multi-tenant.
-
----
 
 ### 7. Minded Security (IMQ): WAPT su DevOps e microservizi
 
 Minded è specializzata in sicurezza applicativa, API e flussi CI/CD.
 
----
-
 ### 8. CINECA: Web app testing per università e consorzi
 
 CINECA esegue test su ambienti accademici e di ricerca scientifica.
 
----
-
 ### 9. Clusit + CERT-PA: framework e guide WAPT per PA
 
 Clusit fornisce metodologie pubbliche per WAPT, CERT-PA affianca enti pubblici.
-
----
 
 ### 10. EXEEC: WAPT per MSSP e provider gestiti
 
