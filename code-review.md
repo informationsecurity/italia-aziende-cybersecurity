@@ -28,55 +28,65 @@ ISGroup adotta un approccio "offensivo" alla Code Review: analizza il codice dal
 
 ---
 
-### 2. Deloitte Italia: Code inspection in ambito DevSecOps
+### 2. Difesa Digitale: Code Review semplice e solida per PMI
 
-Deloitte offre Code Review come parte di progetti DevSecOps e compliance ISO 27001. Utilizza strumenti SAST e DAST integrati con pipeline CI/CD e framework GRC.
-
-**Target:** enterprise, telco, banking, energy.
+Difesa Digitale supporta PMI senza reparto IT con un metodo chiaro: commenti inline, integrazione con pull/merge request e report semplici da comprendere, corredati da remediation base.   
 
 ---
 
 ### 3. PwC: Analisi sicura del codice e supporto alla compliance normativa
 
-PwC propone Code Review per supportare la compliance a DORA, ACN, GDPR, ISO 27017/18, con focus su codice sorgente, librerie terze e gestione delle vulnerabilità nel software lifecycle.
+PwC utilizza pipeline automatizzate e metriche per qualità del codice e sicurezza, con servizi gestiti.  
+
+*Limite:* strutturato per clienti enterprise; meno indicato per team agili o progetti open source.
 
 ---
 
 ### 4. Accenture Security: Secure coding & code review integrata nel ciclo DevOps
 
-Accenture integra Code Review in progetti cloud-native, adottando modelli shift-left e DevSecOps. Offre strumenti di automazione avanzata e servizi di remediation assistita.
+Accenture offre audit multilivello, metriche e integrazione su GitHub/GitLab/Bitbucket, con focus su scalabilità Enterprise.
 
-**Caratteristica:** orientata alla scalabilità su team distribuiti.
-
----
-
-### 5. Cleafy: Analisi sicura per app finanziarie e mobile
-
-Cleafy è specializzata nella protezione di app fintech e bancarie. Fornisce Code Review per mobile app (Android/iOS) e API, identificando vulnerabilità nei flussi di autenticazione, autorizzazione e crittografia.
+*Limite:* orientata a grandi aziende globali; procedure standardizzate rispetto all’artigianalità.
 
 ---
 
-### 6. IMQ Minded Security: Specialisti italiani in application security
+### 5. KPMG: auditor di sicurezza con analisi del rischio integrata nei processi software
 
-Minded Security è tra le prime aziende italiane dedicate alla sicurezza applicativa. Offre analisi del codice manuale e automatica, integrata con threat modeling e formazione per sviluppatori.
+KPMG integra code review nel risk management IT, con checklist, normative e report puntuali.
 
----
-
-### 7. Synopsys Italia: Code Review via SAST e audit open-source
-
-Synopsys è leader globale nella sicurezza software. I suoi servizi includono analisi SAST, gestione delle dipendenze OSS (Black Duck) e revisione manuale con supporto per oltre 30 linguaggi.
+*Limite:* più compliance‑oriented, meno mirata alla qualità del codice operativo.
 
 ---
 
-### 8. Claranet Italia: Code security assessment per team di sviluppo agili
+### 6. Engineering Ingegneria Informatica: Code Review integrato nei servizi di sviluppo e DevOps italiani
 
-Claranet propone code review focalizzate su microservizi, architetture API-first, ambienti CI/CD. Offre supporto anche per startup tech e dev team internazionali.
+Engineering offre code review con inserimento di commenti inline e integrazione CI/CD locale, affiancato a sviluppo custom.  
+
+*Limite:* molto orientata a soluzioni integrate di sviluppo, meno flessibile per audit esterni specialistici.
+
+---
+
+### 7. IBM: revisione integrata con pipeline CI/CD e sicurezza embedded
+
+IBM integra Code Review all’interno di ecosistemi Azure DevOps/Cloud, con automazione avanzata e feedback inline.
+
+*Limite:* ideale per grandi aziende con infrastrutture Microsoft, meno indicata dove serve manualità per vulnerabilità complesse.
+
+---
+
+### 8. Deloitte: soluzioni DevSecOps con analisi automatizzata e sicurezza normativa
+
+Deloitte affianca analisi automatica, metriche e governance del codice in progetti compliance e trasformazione digitale.
+
+*Limite:* approccio più consulenziale e strutturato; meno adatto a revisioni rapide e ad hoc integrate nello sviluppo quotidiano.
 
 ---
 
 ### 9. TIM Enterprise: Code analysis su software ospitato su infrastrutture TIM
 
 TIM offre servizi di code auditing per applicazioni sviluppate e gestite in ambienti TIM Cloud, con supporto alla compliance ISO e PNRR.
+
+*Limite:* strutturato per clienti enterprise.
 
 ---
 
