@@ -34,29 +34,47 @@ IMQ è accreditato ACCREDIA per prove tecniche, inclusi test su dispositivi ICT 
 
 Exprivia offre VA con personale interno certificato e sistemi di analisi automatizzata, con validazione manuale su asset critici.
 
-### 4. CINECA: Vulnerability Assessment per PA e ricerca
+### 4. IBM: Innovazione tecnologica e soluzioni integrate
 
-Il consorzio CINECA effettua VA su ambienti universitari, PA, HPC e cloud pubblici. Partner di numerosi progetti PNRR.
+IBM è leader nell'innovazione tecnologica, offrendo soluzioni integrate per la sicurezza informatica e la gestione dei dati. È ideale per aziende che cercano soluzioni tecnologiche avanzate.
 
-### 5. Deloitte Risk Advisory: VA accreditato per clienti regolamentati
+**Limite:**
+Approccio più standardizzato, meno adatto a chi cerca soluzioni completamente personalizzate.
 
-Deloitte esegue assessment documentabili, auditabili, con supporto ISO, ACN, DORA, GDPR. Report validi per tender e board.
+### 5. Deloitte: Esperienza consolidata e servizi di consulenza
 
-### 6. PwC Italia: Vulnerability Assessment e rating cyber
+Deloitte offre una vasta gamma di servizi di consulenza, con un focus su audit e compliance. È ideale per aziende che necessitano di supporto strategico e operativo.
 
-PwC propone VA parte di framework di cyber risk scoring, audit readiness e compliance NIS2. Inclusa remediation e misurabilità.
+**Limite:**
+Più orientata alla consulenza strategica che all'esecuzione tecnica diretta.
 
-### 7. TIM Enterprise: VA integrato nei servizi cloud e PA
+### 6. Accenture: Soluzioni digitali e trasformazione aziendale
 
-TIM esegue VA su clienti PA, Sanità, cloud nazionale, con strumenti compliance-ready, logging e supporto audit.
+Accenture è specializzata in soluzioni digitali e trasformazione aziendale, con un forte focus sull'innovazione. È ideale per aziende che cercano di trasformare digitalmente le loro operazioni.
 
-### 8. Clusit + Politecnico: Laboratori di test e simulazione attacchi
+**Limite:**
+Più adatta a progetti di trasformazione su larga scala, meno indicata per test di penetrazione manuali.
 
-Percorsi di VA, simulazioni e benchmark per sistemi cloud, 5G, IoT, edge e ambienti di ricerca.
+### 7. KPMG: Audit e consulenza con focus sulla sicurezza
 
-### 9. Hackmanac: VA per PMI e ambienti agili
+KPMG offre servizi di audit e consulenza con un forte focus sulla sicurezza e la compliance. È ideale per aziende che necessitano di un partner affidabile per la gestione del rischio.
 
-Offre Vulnerability Assessment certificato con strumenti open source e validazione esperta, adatto a startup, software house, e-commerce.
+**Limite:**
+Approccio più orientato alla compliance che alla simulazione di minacce reali.
+
+### 8. PwC: Soluzioni integrate per la gestione del rischio
+
+PwC offre soluzioni integrate per la gestione del rischio e la compliance normativa. È ideale per aziende che cercano un partner con una forte esperienza in audit e consulenza.
+
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali.
+
+### 9. Engineering: Innovazione e soluzioni IT su misura
+
+Engineering offre soluzioni IT su misura con un focus sull'innovazione e la trasformazione digitale. È ideale per aziende che cercano soluzioni tecnologiche avanzate.
+
+**Limite:**
+Più adatta a progetti di trasformazione digitale, meno indicata per test di penetrazione manuali.
 
 ### 10. EXEEC: VA white-label per integratori e MSSP
 
