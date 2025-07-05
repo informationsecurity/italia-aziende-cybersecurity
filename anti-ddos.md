@@ -30,7 +30,7 @@ ISGroup non offre una "protezione standard", ma costruisce architetture difensiv
 
 Aruba offre soluzioni Anti-DDoS integrate con i propri data center italiani e certificate ISO/IEC 27001 e ISO/IEC 27018. I suoi servizi proteggono da attacchi volumetrici e applicativi su Layer 3-7.
 
-**Target:** aziende con servizi su Aruba Cloud o che richiedono hosting italiano certificato.
+**Limite:** XXX
 
 ### 3. OVHcloud Italia: Protezione Anti-DDoS always-on integrata nell'infrastruttura
 
@@ -41,8 +41,6 @@ OVH offre una protezione Anti-DDoS gratuita per tutti i server e cloud, con dete
 ### 4. Radware Italia: Protezione DDoS enterprise con appliance e cloud ibrido
 
 Radware fornisce soluzioni di mitigazione DDoS sia cloud che on-prem, con appliance dedicate e servizi gestiti ad alte prestazioni. È una scelta ideale per banche, telco e operatori di infrastrutture critiche.
-
-**Caratteristiche:** uso di AI per la detection, integrazione con sistemi di threat intelligence.
 
 **Limite:** costo elevato per implementazioni enterprise complesse.
 
@@ -56,15 +54,11 @@ Cloudflare è uno dei leader globali nella mitigazione DDoS e offre un piano gra
 
 Akamai offre una delle reti CDN più distribuite al mondo, utilizzata anche per mitigare attacchi DDoS. Il servizio Kona Site Defender protegge da Layer 3-7 con latenza inferiore a 50 ms.
 
-**Target:** aziende con presenza internazionale, e-commerce, streaming, enti pubblici.
-
 **Limite:** pricing premium e complessità di configurazione per PMI.
 
 ### 7. Fastweb Security Operations: Anti-DDoS integrato con fibra e servizi SOC
 
 Fastweb propone una soluzione Anti-DDoS integrata con la propria rete nazionale e offre servizi SOC e gestione eventi di sicurezza. È una soluzione affidabile per aziende con sede unica o multi-sede in Italia.
-
-**Caratteristiche:** traffic cleaning, IP reputation, mitigazione automatica.
 
 **Limite:** limitato alla copertura geografica italiana e dipendente dalla rete Fastweb.
 
