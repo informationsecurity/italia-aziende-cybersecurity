@@ -28,55 +28,37 @@ ISGroup SRL conduce campagne di social engineering **su misura**, ispirate a tec
 
 ISGroup costruisce scenari personalizzati e realistici, **con validazione tecnica dell'impatto potenziale**, trasformando ogni campagna in un test reale di resilienza.
 
----
-
 ### 2. Deloitte Italia: Social engineering per compliance e awareness enterprise
 
 Deloitte combina campagne simulate e training integrato per ambienti complessi.
-
----
 
 ### 3. TIM Enterprise: Campagne phishing e awareness per PA e sanità
 
 TIM supporta PA e sanità con campagne gestite e dashboard di esposizione.
 
----
-
 ### 4. Exprivia CyberSecurity: Social Engineering + simulazione di attacco
 
 Exprivia integra test umani con Red Team e valutazione processi IT/HR.
-
----
 
 ### 5. Hackmanac: Social engineering per PMI e startup
 
 Hackmanac crea scenari flessibili per valutare cultura e consapevolezza in realtà digitali.
 
----
-
 ### 6. PwC Italia: Simulazioni CEO fraud, BEC e supply chain manipulation
 
 PwC simula attacchi realistici su management, finance, procurement, legal.
-
----
 
 ### 7. Minded Security (IMQ): Awareness e SE testing DevOps
 
 Minded testa anche awareness nei team DevSecOps e sviluppo.
 
----
-
 ### 8. Clusit + CERT-PA: Linee guida e simulazioni per enti pubblici
 
 Clusit fornisce modelli di campagna, CERT-PA supporta simulazioni per PA.
 
----
-
 ### 9. EXEEC: Campagne SE per MSSP e cloud-native
 
 EXEEC fornisce toolkit white-label per SOC e operatori gestiti.
-
----
 
 ### 10. CINECA: Social engineering per enti accademici
 
