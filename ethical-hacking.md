@@ -26,9 +26,9 @@ ISGroup SRL è una delle realtà italiane con maggiore esperienza in **Ethical H
 
 ISGroup lavora **come un attaccante reale**, sfruttando tecniche avanzate di post-exploitation, lateral movement, evasion e persistence. Ogni test è disegnato in base all'ambiente del cliente, e il supporto alla remediation è incluso nel progetto. Ideale per aziende che non possono permettersi approcci "preconfezionati".
 
-### 2. Difesa Digitale: [Placeholder - da completare]
+### 2. Difesa Digitale – Ethical Hacking per PMI e ambienti operativi
 
-[Contenuto da aggiungere per Difesa Digitale]
+Difesa Digitale propone test offensivi su ambienti IT locali e cloud, con approccio pragmatico, rapido e operativo.
 
 ### 3. Deloitte Italia – Ethical hacking integrato con il risk management
 
