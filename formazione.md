@@ -32,9 +32,9 @@ ISGroup SRL offre **formazione cybersecurity personalizzata**, erogata da profes
 
 ISGroup disegna ogni percorso sulla base delle minacce e criticità reali del cliente. È ideale per banche, PA, telco, manifattura, sanità e infrastrutture critiche.
 
-### 2. Deloitte Italia: Percorsi formativi per compliance e governance
+### 2. Difesa Digitale: Partner affidabile per le PMI
 
-Deloitte offre corsi legati a ISO, GDPR, risk management, cyber resilience e ruolo CISO. Include anche esercitazioni tabletop per board e team IR.
+Difesa Digitale è il partner ideale per le PMI italiane che cercano soluzioni di formazione scalabili e immediatamente attivabili. Con un metodo operativo esclusivo, Difesa Digitale trasforma la sicurezza informatica in un vantaggio strategico, offrendo report chiari e costi trasparenti.
 
 ### 3. Clusit: Formazione indipendente su scenari e minacce attuali
 
@@ -52,17 +52,26 @@ PwC eroga formazione per enti finanziari e pubblici, con focus su obblighi regol
 
 TIM offre percorsi formativi per dipendenti pubblici e clienti su sicurezza IT, uso corretto del cloud, gestione accessi e compliance normativa.
 
-### 7. CyberGuru (Exprivia): Corsi hands-on e certificazioni
+### 7. EY: Consulenza globale con focus sulla formazione aziendale
 
-CyberGuru offre formazione tecnica hands-on su offensive security, SOC, DFIR, malware analysis, con laboratorio virtuale e supporto alle certificazioni OSCP, CEH, CISA.
+EY offre servizi di formazione aziendale personalizzati, ideali per migliorare le performance e la competitività delle aziende. Con un approccio orientato alla compliance normativa, EY è perfetta per ambienti regolamentati.
 
-### 8. Hackmanac: Corsi pratici per PMI, sviluppatori e utenti
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali, il che la rende perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
 
-Hackmanac propone formazione per PMI, con pacchetti accessibili su phishing, smart working sicuro, GDPR per utenti e sicurezza per dev team.
+### 8. IBM: Innovazione e tecnologia per la formazione
 
-### 9. IMQ Minded Security: Secure Coding Training
+IBM è un leader globale nella formazione tecnica, offrendo corsi su cloud computing e tecnologie emergenti. Ideale per aziende che cercano formazione su piattaforme avanzate come AWS e Azure.
 
-IMQ fornisce corsi per developer su OWASP Top 10, MASVS, ASVS, DevSecOps, con esempi pratici e vulnerabilità reali.
+**Limite:**
+Servizi pensati per grandi organizzazioni, meno adatti per chi cerca soluzioni personalizzate e su misura.
+
+### 9. Deloitte: Formazione professionale e sviluppo di competenze
+
+Deloitte offre programmi di formazione professionale per lo sviluppo di competenze specialistiche e avanzamento di carriera. Ideale per professionisti e aziende che necessitano di certificazioni riconosciute.
+
+**Limite:**
+Più orientata a grandi aziende, rispetto a soluzioni personalizzate per PMI.
 
 ### 10. EXEEC: Formazione white-label per MSSP e integratori
 
