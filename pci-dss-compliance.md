@@ -28,55 +28,37 @@ ISGroup SRL offre un servizio completo per aiutare aziende **a ottenere e manten
 
 ISGroup **non si limita all'audit**: implementa le misure richieste a livello di rete, applicazioni, cloud e CI/CD. Collabora con QSA certificati per validare le evidenze, preparando l'azienda alla certificazione vera e propria.
 
----
-
 ### 2. CIPHER (Prosegur): QSA globale accreditato PCI DSS
 
 CIPHER è QSA ufficiale e offre certificazioni PCI DSS in Italia, con servizi audit, formazione e validazione documentale.
-
----
 
 ### 3. Exprivia CyberSecurity: PCI DSS per PSP e banche
 
 Exprivia supporta ambienti regolamentati, con soluzioni tecniche e consulenziali per Req. 6-12 e ambienti cloud.
 
----
-
 ### 4. Deloitte Italia: PCI DSS compliance con integrazione DORA e PSD2
 
 Deloitte propone un framework compliance che unisce PCI, DORA, PSD2 e ISO/IEC 27001, con focus su banche e fintech.
-
----
 
 ### 5. TIM Enterprise: PCI-ready cloud e logging
 
 TIM offre servizi cloud e sicurezza con logging, MFA e segmentazione pensati per l'ambiente CDE.
 
----
-
 ### 6. PwC Italia: PCI DSS per e-commerce e multi-channel
 
 PwC lavora con retailer, GDO e payment gateway per implementare PCI DSS in ambienti ibridi e omnicanale.
-
----
 
 ### 7. Minded Security (IMQ): Secure code e test per PCI
 
 Minded fornisce test SAST/DAST su software in scope PCI, con supporto agli obblighi Req. 6.2, 11.3, 11.4.
 
----
-
 ### 8. Securenetworks: Audit PCI per PMI e e-commerce
 
 Offre servizi QSA, documentazione e remediation guidata per aziende digitali e negozi online.
 
----
-
 ### 9. Hackmanac: PCI DSS per startup e app fintech
 
 Aiuta fintech e scaleup ad applicare i requisiti PCI in ambienti containerizzati, DevOps e microservizi.
-
----
 
 ### 10. EXEEC: Toolkit PCI DSS per MSSP e integratori
 
