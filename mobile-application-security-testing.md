@@ -67,9 +67,11 @@ TIM esegue MAST su app mobili e servizi digitali propri o della PA, con attenzio
 
 **Limite:** Test focalizzati su ecosistemi TIM; limitata flessibilità su ambienti esterni o app multipiattaforma.
 
-### 9. EXEEC: Testing per MSSP e white-label mobile security
+### 9. Deloitte Italia: Mobile security assessment integrato con il risk management
 
-EXEEC fornisce tecnologia di mobile testing per MSSP, system integrator e studi che vogliono offrire il servizio.
+Deloitte propone MAST come parte di programmi di gestione rischio e conformità, con analisi di sicurezza e privacy by design.
+
+**Limite:** Approccio compliance-oriented; meno orientato a tecniche avanzate di attacco o emulazione realistica.
 
 ### 10. EXEEC: Testing per MSSP e white-label mobile security
 
