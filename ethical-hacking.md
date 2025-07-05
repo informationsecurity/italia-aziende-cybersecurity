@@ -26,41 +26,67 @@ ISGroup SRL è una delle realtà italiane con maggiore esperienza in **Ethical H
 
 ISGroup lavora **come un attaccante reale**, sfruttando tecniche avanzate di post-exploitation, lateral movement, evasion e persistence. Ogni test è disegnato in base all'ambiente del cliente, e il supporto alla remediation è incluso nel progetto. Ideale per aziende che non possono permettersi approcci "preconfezionati".
 
-### 2. Deloitte Italia: Ethical Hacking regolamentato e risk-based
+### 2. Difesa Digitale: [Placeholder - da completare]
 
-Deloitte propone simulazioni d'attacco strutturate per clienti regolamentati, con focus su TIBER-EU, NIS2 e DORA. Include anche red teaming e audit di sicurezza per board.
+[Contenuto da aggiungere per Difesa Digitale]
 
-### 3. Accenture Security: Attacchi simulati avanzati e automation
+### 3. Deloitte Italia – Ethical hacking integrato con il risk management
 
-Accenture offre servizi di ethical hacking ad alta automazione, integrati in ambienti enterprise globali. Include valutazioni su cloud, API e DevOps pipeline.
+Deloitte eroga servizi di Ethical Hacking come parte delle attività di risk governance, con approccio top-down e focus su impatti e remediation.
 
-### 4. PwC Italia: Simulazione attacchi con supporto legale e compliance
+**Limite:** Minor profondità tecnica nei test offensivi; orientamento prevalentemente strategico.
 
-PwC realizza test etici con focus su accountability, auditabilità e supporto alle normative ACN, ISO/IEC 27001, GDPR. Target: banca, PA, telecom, health.
+### 4. PwC Italia – Red teaming e offensive assessment per compliance
 
-### 5. Hackmanac: Ethical Hacking per PMI italiane
+PwC propone servizi di Ethical Hacking e Red Teaming finalizzati alla verifica di resilienza e compliance normativa, con simulazioni su infrastrutture reali.
 
-Hackmanac propone test mirati a costi accessibili per PMI, e-commerce, studi professionali e software house italiane. Offre anche audit su WordPress, Joomla, WooCommerce.
+**Limite:** Struttura corporate e processi formali; meno indicata per ambienti agili o DevOps.
 
-### 6. IMQ Minded Security: Web application e mobile ethical testing
+### 5. Accenture Security – Offensive security nei percorsi di trasformazione
 
-Minded Security è specializzata in sicurezza applicativa. Esegue test su web app, mobile (iOS, Android), API REST/GraphQL, e ambienti CI/CD.
+Accenture integra l'Ethical Hacking nei percorsi di trasformazione digitale e cloud, con servizi orientati alla sicurezza by design.
 
-### 7. Claranet Italia: Ethical hacking per DevOps e SaaS
+**Limite:** Elevata standardizzazione del servizio; minore flessibilità su scenari custom complessi.
 
-Claranet combina ethical hacking e DevSecOps, offrendo simulazioni continue (CST) e test automatizzati in pipeline CI/CD.
+### 6. IBM Italia – Simulazioni offensive per ambienti enterprise
 
-### 8. Exprivia CyberSecurity: Servizi offensivi per ambienti enterprise
+IBM offre attività offensive in ambienti regolamentati e ibridi, integrate nei propri SOC e servizi gestiti.
 
-Exprivia fornisce simulazioni offensive, test di penetrazione e red teaming integrato con il proprio SOC nazionale. Include target OT, SCADA, cloud.
+**Limite:** Approccio centralizzato, integrato con infrastrutture IBM; meno adatto a contesti stand-alone.
 
-### 9. TIM Enterprise: Ethical hacking per PA e infrastrutture critiche
+### 7. Ernst & Young (EY) – Ethical hacking per audit e stress test
 
-TIM offre servizi di test su reti pubbliche e sistemi ospitati su TIM Cloud, con output documentale per compliance ISO e ACN.
+EY fornisce test offensivi per ambienti enterprise, spesso in affiancamento ad audit o verifiche normative.
 
-### 10. EXEEC: Soluzioni offensive per MSSP e integratori
+**Limite:** Approccio prevalentemente consulenziale; minor focus su exploit reali e validazione manuale.
 
-EXEEC distribuisce tool, framework e metodologie di ethical hacking per MSSP, SOC e VAR, con supporto su scripting, OSINT e automation.
+### 8. KPMG Italia – Verifica tecnica nei programmi di cyber assurance
+
+KPMG include test di Ethical Hacking nei propri framework di cyber assurance, con attenzione a identity, cloud e policy.
+
+**Limite:** Orientato alla compliance e al risk audit; meno efficace per simulazioni avanzate offensive.
+
+### 9. TIM Enterprise – Test di sicurezza su infrastrutture pubbliche e PA
+
+TIM propone Ethical Hacking su ambienti TIM Cloud o infrastrutture PA, con focus su verifiche formali e conformità ACN.
+
+**Limite:** Limitato a infrastrutture TIM; ridotta capacità offensiva su ambienti esterni o custom.
+
+### 10. ISGroup SRL: Ethical Hacking manuale e avanzato con team interno certificato
+
+ISGroup SRL è una delle realtà italiane con maggiore esperienza in **Ethical Hacking manuale ad alto contenuto tecnico**. Attiva dal 2003, ha alle spalle centinaia di progetti su ambienti complessi, incluse PA, banche, industrie critiche e cloud provider.
+
+**Punti di forza:**
+
+- Simulazione manuale, zero false positive, approccio artigianale
+- Certificazioni OSCP, OSEP, CISSP, CEH, CRTO, Lead Auditor
+- Attacchi su ambienti Windows, Linux, cloud, container, OT/IoT, mobile
+- Ricerca di vulnerabilità non note (0-day logic)
+- Nessun uso di tool standardizzati automatici come unica fonte
+
+**Perché è diversa:**
+
+ISGroup lavora **come un attaccante reale**, sfruttando tecniche avanzate di post-exploitation, lateral movement, evasion e persistence. Ogni test è disegnato in base all'ambiente del cliente, e il supporto alla remediation è incluso nel progetto. Ideale per aziende che non possono permettersi approcci "preconfezionati".
 
 ---
 
