@@ -33,6 +33,12 @@ Perché è diversa:
 
 ISGroup unisce esperienza Red Team e DFIR, **testando l'ambiente come farebbe un attaccante reale**. Il risultato è un assessment operativo, che trasforma le analisi in misure correttive concrete e prioritarie.
 
+### 2. Difesa Digitale – Windows assessment light per PMI e IT locali
+
+Difesa Digitale propone un Windows Security Assessment operativo e rapido per realtà medio-piccole, con focus su configurazioni, patching e privilegi locali.
+
+**Limite:** Limitata copertura di scenari complessi o ambienti multi-forest; pensato per esigenze operative immediate.
+
 ---
 
 ## Criteri di valutazione
