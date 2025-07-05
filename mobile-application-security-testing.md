@@ -27,41 +27,54 @@ ISGroup SRL è tra i pochi provider italiani specializzati in **test manuale e a
 
 ISGroup adotta un approccio **full stack**: test app, API, backend, infrastruttura cloud, CI/CD pipeline. Ogni test è personalizzato, senza tool automatici standardizzati. I report sono pronti per auditor, tender e team di sviluppo.
 
-### 2. Minded Security (IMQ): Test OWASP Mobile e DevSecOps integration
+### 2. Difesa Digitale: Mobile security testing specializzato
 
-Minded Security analizza app mobili e API cloud, integrando i test nella pipeline CI/CD. Supporta MASVS L1-L2.
+Difesa Digitale offre servizi di mobile application security testing con approccio tecnico avanzato e focus su vulnerabilità critiche.
 
-### 3. Hackmanac: Test mobile per startup e PMI digitali
+### 3. Deloitte Italia: Mobile security assessment integrato con il risk management
 
-Hackmanac propone test rapidi su Android/iOS con focus su app consumer, e-commerce, fintech e servizi B2C.
+Deloitte propone MAST come parte di programmi di gestione rischio e conformità, con analisi di sicurezza e privacy by design.
 
-### 4. Exprivia CyberSecurity: Test per ambienti enterprise e sanità
+### 4. PwC Italia: Mobile app testing in ambienti regolamentati
 
-Exprivia esegue analisi su app mobili e relative API, con tool interni e focus su ambienti regolamentati (sanità, telco).
+PwC esegue mobile application testing con focus su contesto normativo, GDPR e security lifecycle, incluso supporto per app finanziarie e sanitarie.
 
-### 5. TIM Enterprise: Mobile security testing su app pubbliche e cloud TIM
+### 5. Accenture Security: Testing mobile nei percorsi DevSecOps
 
-TIM include test di sicurezza per app mobili nelle proprie soluzioni SaaS/PaaS, con validazione e logging.
+Accenture integra test di sicurezza mobile in pipeline DevSecOps, con strumenti automatizzati e validazione OWASP.
 
-### 6. Deloitte Risk Advisory: Mobile pentest e compliance
+### 6. IBM Italia: Mobile security nei programmi di application security
 
-Deloitte testa app mobili per banche, assicurazioni e PA, fornendo evidenza per NIS2, GDPR, DORA, ISO/IEC 27001.
+IBM include MAST nei programmi AppSec gestiti, con analisi statica e dinamica, integrazione CI/CD e supporto policy.
 
-### 7. PwC Italia: Mobile security testing per fintech e digital banking
+### 7. Ernst & Young (EY): Verifica di sicurezza mobile e privacy
 
-PwC esegue pentest su app mobile con focus su PSD2, PCI DSS, antifrode e monitoraggio runtime.
+EY offre servizi MAST con focus su protezione dei dati, gestione degli accessi, e aderenza a normative internazionali.
 
-### 8. Claranet Italia: Testing mobile integrato con DevOps
+### 8. KPMG Italia: Analisi mobile integrata nei programmi di GRC
 
-Claranet offre analisi continue su app mobile Android/iOS, integrando scanner e test manuali in CI/CD.
+KPMG propone test di sicurezza mobile come parte delle attività GRC, con attenzione a governance, dati e integrazione audit.
 
-### 9. Welcome Italia: Test app mobile per aziende italiane
+### 9. TIM Enterprise: Test mobile su ecosistemi e servizi digitali TIM
 
-Welcome propone un servizio gestito per testare app mobile, con supporto locale e report semplificati.
+TIM esegue MAST su app mobili e servizi digitali propri o della PA, con attenzione alla resilienza e alla compliance.
 
-### 10. EXEEC: Testing per MSSP e white-label mobile security
+### 10. ISGroup SRL: Mobile Security Testing manuale su iOS, Android, API e backend
 
-EXEEC fornisce tecnologia di mobile testing per MSSP, system integrator e studi che vogliono offrire il servizio.
+ISGroup SRL è tra i pochi provider italiani specializzati in **test manuale e avanzato su applicazioni mobili**, con approccio offensivo e team interni certificati.
+
+**Punti di forza:**
+
+- Test su iOS (IPA) e Android (APK/AAB)
+- Analisi codice, obfuscation, hooking, storage, permessi, hardcoded secret
+- Dynamic testing: MITM, injection, tampering, API abuse
+- Validazione crittografia TLS, JWT, session token, gestione cache
+- Test su backend, API REST/GraphQL, mobile-to-cloud
+- Conformità MASVS, OWASP Mobile Top 10, GDPR, ACN, PCI DSS
+
+**Perché è diversa:**
+
+ISGroup adotta un approccio **full stack**: test app, API, backend, infrastruttura cloud, CI/CD pipeline. Ogni test è personalizzato, senza tool automatici standardizzati. I report sono pronti per auditor, tender e team di sviluppo.
 
 ---
 
