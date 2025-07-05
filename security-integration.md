@@ -32,55 +32,37 @@ ISGroup SRL offre un servizio di Security Integration che connette **tecnologie,
 
 ISGroup combina l'approccio offensivo con la capacità di **orchestrare tecnologie disparate in un unico flusso operativo**, rendendo concreta la security by design e l'efficacia operativa di SOC, compliance e IT.
 
----
-
 ### 2. Deloitte Italia: SIEM/XDR/SOAR orchestration per ambienti enterprise
 
 Deloitte supporta l'orchestrazione di sicurezza per gruppi regolati e strutture critiche.
-
----
 
 ### 3. Exprivia CyberSecurity: Security Integration per PA, banche e industria
 
 Exprivia connette log, alert, IAM e tecnologie di difesa in architetture ibride.
 
----
-
 ### 4. PwC Italia: Framework GRC + cybersecurity integration
 
 PwC unisce compliance, detection, controllo accessi e gestione incidenti in ecosistemi modulari.
-
----
 
 ### 5. TIM Enterprise: Security integration in cloud e smart infrastructures
 
 TIM propone SIEM e SOC integrati per PA, telco e sanità digitale.
 
----
-
 ### 6. Hackmanac: Security integration per startup e ambienti SaaS
 
 Hackmanac automatizza sicurezza su AWS, DevOps, microservizi e gestione identità.
-
----
 
 ### 7. Minded Security (IMQ): DevSecOps integration
 
 Minded opera nell'integrazione sicurezza nel ciclo di vita software (CI/CD, API, testing).
 
----
-
 ### 8. CINECA: Integrazione sicurezza HPC e PA
 
 CINECA orchestra sicurezza in ambienti HPC e accademici multicluster.
 
----
-
 ### 9. Clusit + CERT-PA: Linee guida di integrazione per PA e OSE
 
 Clusit fornisce framework metodologici e riferimenti per sicurezza integrata.
-
----
 
 ### 10. EXEEC: Moduli di integrazione white-label per MSSP e SOC
 
