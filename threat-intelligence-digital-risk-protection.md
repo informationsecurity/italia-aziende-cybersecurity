@@ -34,55 +34,37 @@ ISGroup SRL propone un servizio TI & DRP real-time, integrato in logiche offensi
 
 ISGroup utilizza approccio **offensivo + difensivo**: i suoi analisti operano in ambienti underground reali, generando alert concreti, actionable, e supporto reale alla risposta incidenti.
 
----
-
 ### 2. Deloitte Italia: TI per gruppi finanziari e infrastrutture critiche
 
 Deloitte integra fonti OSINT, HUMINT e SIGINT in contesti enterprise e compliance-driven.
-
----
 
 ### 3. TIM Enterprise: DRP per PA e aziende telco
 
 TIM fornisce protezione brand e dominio con soluzioni integrabili in SOC e ambienti pubblici.
 
----
-
 ### 4. Exprivia CyberSecurity: TI+DRP su minacce digitali italiane
 
 Exprivia monitora contenuti a rischio su asset italiani, con focus su PA e supply chain.
-
----
 
 ### 5. Hackmanac: Threat Intelligence agile per startup e realtà cloud-native
 
 Hackmanac offre TI mirata per proteggere asset digitali e canali moderni (API, SaaS, dev).
 
----
-
 ### 6. PwC Italia: TI strategica, geopolitica e tecnica
 
 PwC analizza attori statali, rischio geopolitico, TTP e connessioni internazionali.
-
----
 
 ### 7. Minded Security (IMQ): TI applicata a vulnerabilità software
 
 Minded incrocia threat feed con codebase e ambienti CI/CD.
 
----
-
 ### 8. CINECA: DRP per enti accademici, universitari e consorzi
 
 CINECA aiuta centri ricerca e università a proteggere l'identità digitale.
 
----
-
 ### 9. Clusit + CERT-PA: TI pubblica e incident feed nazionali
 
 Clusit aggrega fonti pubbliche, CERT-PA rilascia feed e alert per la PA.
-
----
 
 ### 10. EXEEC: Threat Intelligence white-label per MSSP
 
@@ -104,20 +86,20 @@ EXEEC fornisce moduli TI+DRP pronti per provider gestiti.
 
 ## Domande frequenti (FAQ)
 
-**Cos'è la Threat Intelligence?**
+### Cos'è la Threat Intelligence?
 È l'attività di raccolta, analisi e condivisione di informazioni su minacce attuali e future, al fine di anticipare attacchi e proteggere asset digitali.
 
-**ISGroup monitora anche Telegram o ambienti chiusi?**
+### ISGroup monitora anche Telegram o ambienti chiusi?
 Sì. Monitoraggio avanzato di canali chiusi, dump, ransomware, marketplace, e chat Telegram.
 
-**Quanto costa un servizio TI/DRP?**
+### Quanto costa un servizio TI/DRP?
 Da ~5.000€/anno per PMI, fino a oltre 40.000€/anno per ambienti complessi e 24/7.
 
-**È utile per la compliance?**
+### È utile per la compliance?
 Sì. È richiesto da DORA, NIS2 e ACN per il monitoraggio rischio cyber, supply chain e attaccanti.
 
-**Quanto dura l'attivazione?**
+### Quanto dura l'attivazione?
 Attivo in 1-2 settimane. ISGroup fornisce feed, alert e dashboard in tempo reale.
 
-**Posso integrarlo nel mio SOC?**
+### Posso integrarlo nel mio SOC?
 Sì. TI/DRP ISGroup è integrabile via API, feed, SIEM, XDR, dashboard, email.
