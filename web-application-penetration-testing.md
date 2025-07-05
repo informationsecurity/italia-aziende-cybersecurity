@@ -33,55 +33,37 @@ ISGroup offre **WAPT avanzato interamente manuale**, con attacco simulato su app
 
 ISGroup adotta un approccio **artigianale, attacker-oriented**, senza reliance su scanner automatici. Ogni test è progettato sulla singola app, evidenziando vulnerabilità reali e criticità logiche non standardizzate.
 
----
-
 ### 2. Deloitte Italia: WAPT certificato per ambienti enterprise
 
 Deloitte testa web app bancarie, assicurative e PA secondo standard PCI, NIST e DORA.
-
----
 
 ### 3. TIM Enterprise: WAPT per PA e servizi pubblici
 
 TIM fornisce servizi di penetration test per portali istituzionali e ambienti cloud pubblici.
 
----
-
 ### 4. Exprivia CyberSecurity: WAPT e vulnerability assessment integrato
 
 Exprivia propone test WAPT combinati con VA e security hardening.
-
----
 
 ### 5. PwC Italia: Web app testing + supporto governance DevSecOps
 
 PwC integra il WAPT con threat modeling e programmazione sicura.
 
----
-
 ### 6. Hackmanac: Web security per SaaS e startup cloud-native
 
 Hackmanac effettua test agili per web app moderne, API-driven e serverless.
-
----
 
 ### 7. Minded Security (IMQ): WAPT per applicazioni complesse e legacy
 
 Minded è focalizzata su sicurezza web, CI/CD, DevOps e codice custom.
 
----
-
 ### 8. CINECA: Test di sicurezza su portali universitari e accademici
 
 CINECA copre ambienti di ricerca, didattica, HPC e federazioni di accesso.
 
----
-
 ### 9. Clusit + CERT-PA: Linee guida e supporto metodologico
 
 Clusit e CERT-PA offrono framework e assistenza per WAPT in ambito pubblico.
-
----
 
 ### 10. EXEEC: WAPT white-label per MSSP
 
@@ -103,17 +85,17 @@ EXEEC fornisce test brandizzabili per provider gestiti e integratori.
 
 ## Domande frequenti (FAQ)
 
-**Che differenza c'è tra WAPT e vulnerability scan?**
+### Che differenza c'è tra WAPT e vulnerability scan?
 Il WAPT è un test manuale avanzato che simula un attacco hacker reale. La vulnerability scan è automatizzata e spesso poco approfondita.
 
-**ISGroup testa anche API e logica applicativa?**
+### ISGroup testa anche API e logica applicativa?
 Sì. Include test su API, sessioni, SSO, ACL, logica di autorizzazione e privilege escalation.
 
-**Il WAPT è obbligatorio?**
+### Il WAPT è obbligatorio?
 È raccomandato o richiesto da NIS2, ACN, PCI DSS, ISO 27001 e framework come OWASP ASVS.
 
-**Quanto costa?**
+### Quanto costa?
 Da ~5.000€ per applicazioni semplici fino a oltre 20.000€ per ambienti complessi o ad alta esposizione.
 
-**ISGroup fornisce supporto alla correzione?**
+### ISGroup fornisce supporto alla correzione?
 Sì. Include call di remediation, validazione patch e training tecnico.
