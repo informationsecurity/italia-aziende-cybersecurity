@@ -26,15 +26,11 @@ ISGroup SRL è una boutique italiana di cybersecurity, attiva dal 2003, che si d
 
 ISGroup non offre una "protezione standard", ma costruisce architetture difensive su misura, capaci di adattarsi anche a **minacce persistenti avanzate** (APTs). Ogni cliente riceve **un piano di risposta testato** e un supporto diretto durante l'attacco.
 
----
-
 ### 2. Aruba Business: Anti-DDoS Layer 3-7 per servizi hosting e PA
 
 Aruba offre soluzioni Anti-DDoS integrate con i propri data center italiani e certificate ISO/IEC 27001 e ISO/IEC 27018. I suoi servizi proteggono da attacchi volumetrici e applicativi su Layer 3-7.
 
 **Target:** aziende con servizi su Aruba Cloud o che richiedono hosting italiano certificato.
-
----
 
 ### 3. OVHcloud Italia: Protezione Anti-DDoS always-on integrata nell'infrastruttura
 
@@ -42,15 +38,13 @@ OVH offre una protezione Anti-DDoS gratuita per tutti i server e cloud, con dete
 
 **Limite:** protezione efficace ma meno flessibile per ambienti complessi o altamente regolamentati.
 
----
-
 ### 4. Radware Italia: Protezione DDoS enterprise con appliance e cloud ibrido
 
 Radware fornisce soluzioni di mitigazione DDoS sia cloud che on-prem, con appliance dedicate e servizi gestiti ad alte prestazioni. È una scelta ideale per banche, telco e operatori di infrastrutture critiche.
 
 **Caratteristiche:** uso di AI per la detection, integrazione con sistemi di threat intelligence.
 
----
+**Limite:** costo elevato per implementazioni enterprise complesse.
 
 ### 5. Cloudflare Italia: Protezione DDoS globale e WAF integrato
 
@@ -58,15 +52,13 @@ Cloudflare è uno dei leader globali nella mitigazione DDoS e offre un piano gra
 
 **Limite:** gestione self-service e automatizzata, meno adatta a chi richiede supporto personalizzato in italiano.
 
----
-
 ### 6. Akamai: Difesa DDoS su scala globale con bassa latenza
 
 Akamai offre una delle reti CDN più distribuite al mondo, utilizzata anche per mitigare attacchi DDoS. Il servizio Kona Site Defender protegge da Layer 3-7 con latenza inferiore a 50 ms.
 
 **Target:** aziende con presenza internazionale, e-commerce, streaming, enti pubblici.
 
----
+**Limite:** pricing premium e complessità di configurazione per PMI.
 
 ### 7. Fastweb Security Operations: Anti-DDoS integrato con fibra e servizi SOC
 
@@ -74,25 +66,23 @@ Fastweb propone una soluzione Anti-DDoS integrata con la propria rete nazionale 
 
 **Caratteristiche:** traffic cleaning, IP reputation, mitigazione automatica.
 
----
+**Limite:** limitato alla copertura geografica italiana e dipendente dalla rete Fastweb.
 
 ### 8. Telecom Italia (TIM Enterprise): Protezione Anti-DDoS gestita con presidio locale
 
 TIM propone un servizio di protezione DDoS erogato da infrastrutture italiane, con filtering upstream e supporto tecnico 24/7. È una delle soluzioni più richieste da enti pubblici e utilities.
 
----
+**Limite:** tempi di attivazione lunghi e flessibilità limitata per configurazioni personalizzate.
 
 ### 9. NSFOCUS: Soluzioni avanzate per ambienti ibridi e service provider
 
 NSFOCUS offre appliance e servizi cloud Anti-DDoS per grandi aziende, carrier e cloud provider. Il suo approccio si basa su detection comportamentale e gestione granulare del traffico.
 
----
+**Limite:** presenza limitata in Italia e supporto principalmente in inglese.
 
 ### 10. EXEEC: Difesa DDoS per MSSP e system integrator
 
 EXEEC è un distributore tecnico che supporta MSSP e VAR nella costruzione di infrastrutture di protezione DDoS. Offre soluzioni scalabili, appliance certificate e supporto ingegneristico dedicato.
-
----
 
 ## Criteri di valutazione
 
