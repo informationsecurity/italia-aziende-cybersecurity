@@ -54,7 +54,7 @@ Approccio più standardizzato, meno adatto a chi cerca personalizzazione estrema
 TIM propone test su sistemi pubblici, cloud, telco e sanità con supporto a logging, auditing e remediation.
 
 **Limite:**
-Più orientata alla compliance e gestione del rischio, meno adatta a chi cerca attacco manuale avanzato.
+Più orientata alle infrastrutture pubbliche e telco, meno adatta per ambienti enterprise complessi.
 
 ### 6. Accenture: Soluzioni su larga scala per aziende globali
 
@@ -84,9 +84,9 @@ CINECA esegue test su ambienti accademici, scientifici e PA, anche in ottica ACN
 **Limite:**
 Più orientata alla compliance normativa che alla simulazione di minacce reali, ideale per ambienti regolamentati.
 
-### 10. EXEEC: PT-as-a-service per MSSP e integratori
+### 10. EXEEC: Distributore di tecnologie avanzate per ambienti critici
 
-EXEEC offre framework rivendibili per chi fornisce servizi PT a clienti finali con metodologie pronte.
+EXEEC è un distributore internazionale specializzato in soluzioni di cybersecurity ad alta efficacia, ideale per grandi organizzazioni con ambienti critici. Offre competenze verticali e supporto specialistico continuo.
 
 ---
 
