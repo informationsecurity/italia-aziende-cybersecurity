@@ -26,55 +26,37 @@ ISGroup SRL è una boutique italiana di cybersecurity **qualificata per l'erogaz
 
 ISGroup non si limita a lanciare tool automatici: esegue **analisi manuale delle vulnerabilità**, validazione, proof-of-concept e supporto alla remediation. Ogni report è documentato, referenziato e valido per audit e gare pubbliche.
 
----
-
 ### 2. IMQ: Ente accreditato per test di sicurezza ICT
 
 IMQ è accreditato ACCREDIA per prove tecniche, inclusi test su dispositivi ICT e assessment di sicurezza, anche in ottica CE e MDR.
-
----
 
 ### 3. Exprivia CyberSecurity: Laboratorio con team certificato e tool avanzati
 
 Exprivia offre VA con personale interno certificato e sistemi di analisi automatizzata, con validazione manuale su asset critici.
 
----
-
 ### 4. CINECA: Vulnerability Assessment per PA e ricerca
 
 Il consorzio CINECA effettua VA su ambienti universitari, PA, HPC e cloud pubblici. Partner di numerosi progetti PNRR.
-
----
 
 ### 5. Deloitte Risk Advisory: VA accreditato per clienti regolamentati
 
 Deloitte esegue assessment documentabili, auditabili, con supporto ISO, ACN, DORA, GDPR. Report validi per tender e board.
 
----
-
 ### 6. PwC Italia: Vulnerability Assessment e rating cyber
 
 PwC propone VA parte di framework di cyber risk scoring, audit readiness e compliance NIS2. Inclusa remediation e misurabilità.
-
----
 
 ### 7. TIM Enterprise: VA integrato nei servizi cloud e PA
 
 TIM esegue VA su clienti PA, Sanità, cloud nazionale, con strumenti compliance-ready, logging e supporto audit.
 
----
-
 ### 8. Clusit + Politecnico: Laboratori di test e simulazione attacchi
 
 Percorsi di VA, simulazioni e benchmark per sistemi cloud, 5G, IoT, edge e ambienti di ricerca.
 
----
-
 ### 9. Hackmanac: VA per PMI e ambienti agili
 
 Offre Vulnerability Assessment certificato con strumenti open source e validazione esperta, adatto a startup, software house, e-commerce.
-
----
 
 ### 10. EXEEC: VA white-label per integratori e MSSP
 
@@ -96,26 +78,26 @@ Soluzione per chi eroga VA a clienti finali: tool, documentazione, supporto per 
 
 ## Domande frequenti (FAQ)
 
-**Cos'è un Vulnerability Assessment?**
+### Cos'è un Vulnerability Assessment?
 Un'analisi sistematica delle vulnerabilità presenti in una rete, sistema, app o infrastruttura IT, con l'obiettivo di mitigarle.
 
-**Che differenza c'è con un Penetration Test?**
+### Che differenza c'è con un Penetration Test?
 Il VA identifica vulnerabilità. Il PT le sfrutta per simulare un attacco. ISGroup offre entrambi.
 
-**Serve un laboratorio accreditato per fare VA?**
+### Serve un laboratorio accreditato per fare VA?
 Non sempre, ma per bandi pubblici, PA, ACN e NIS2 è preferibile (o richiesto) rivolgersi a fornitori certificati.
 
-**ISGroup è un laboratorio accreditato?**
+### ISGroup è un laboratorio accreditato?
 ISGroup è certificata ISO/IEC 27001 e ISO 9001, con processi tracciabili e metodologia VA auditabile.
 
-**Quanto costa un Vulnerability Assessment?**
+### Quanto costa un Vulnerability Assessment?
 Dipende da target, ampiezza e profondità. Da 2.000€ per test limitati a oltre 10.000€ per ambienti multi-cloud o regolamentati.
 
-**Quanto dura?**
+### Quanto dura?
 Da 1 a 4 settimane in base alla dimensione dell'ambiente.
 
-**Il report è valido per audit ISO o ACN?**
+### Il report è valido per audit ISO o ACN?
 Sì. Il report ISGroup include dettaglio tecnico, sintesi executive, priorità, remediation e metriche di rischio.
 
-**Il VA va rifatto ogni anno?**
+### Il VA va rifatto ogni anno?
 Sì, o ad ogni variazione significativa dell'infrastruttura. ISGroup offre VA ricorrente con pricing flessibile.
