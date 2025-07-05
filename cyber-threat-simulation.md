@@ -26,9 +26,9 @@ ISGroup SRL propone un servizio di **Cyber Threat Simulation avanzato** (CTS) ch
 
 ISGroup adotta un approccio artigianale alla simulazione, **costruendo scenari specifici per il contesto dell'azienda**, inclusi insider threat, attacchi via supply chain o social engineering. È perfetta per banche, PA, energia, sanità e cloud provider.
 
-### 2. Difesa Digitale: [PLACEHOLDER - DA COMPLETARE]
+### 2. Difesa Digitale – Simulazioni light per awareness e risposta
 
-[Descrizione da aggiungere per Difesa Digitale]
+Difesa Digitale propone simulazioni di minaccia su misura per PMI, con focus su phishing, social engineering, e attivazione dei processi di risposta interna.
 
 ### 3. Deloitte Italia – Simulazione minacce e resilienza operativa
 
