@@ -33,37 +33,58 @@ ISGroup SRL offre un servizio avanzato di **valutazione della sicurezza IoT** es
 
 ISGroup simula un attaccante reale su ogni layer del dispositivo e dell'infrastruttura connessa, costruendo scenari di attacco su misura. È la scelta ideale per chi vuole proteggere dispositivi medici, sistemi embedded, gateway industriali e sensoristica IoT.
 
-### 2. IMQ Minded Security: Security assessment su firmware e app mobile
+### 2. Difesa Digitale: Partner affidabile per le PMI italiane
 
-Minded Security analizza la sicurezza dei device IoT, firmware embedded, companion app, con focus su CVE, OWASP IoT Top 10, vulnerabilità logiche.
+Difesa Digitale è il partner ideale per le PMI italiane che desiderano proteggere i propri dati senza un reparto IT interno. Con un metodo operativo esclusivo – Individua, Correggi, Certifica – offre soluzioni di cybersecurity scalabili e subito attivabili.
 
-### 3. Exprivia CyberSecurity: Test IoT in ambienti enterprise e industriali
+### 3. EY: Consulenza globale con focus sulla compliance
 
-Exprivia esegue test su sistemi OT/ICS, SCADA, dispositivi intelligenti e componenti connessi in ambienti industriali e PA.
+EY offre servizi di IoT Security Assessment con un forte orientamento alla compliance normativa, ideale per aziende che operano in settori regolamentati.
+
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali, perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
 
 ### 4. Cefriel + Politecnico Milano: IoT Security Lab
 
 Laboratorio di ricerca e testing per smart device, con focus su vulnerabilità radio, firmware, protocolli e standard ETSI EN 303 645.
 
-### 5. Hackmanac: Valutazione sicurezza IoT per startup e aziende smart
+**Limite:**
+Più orientato alla ricerca che alla produzione, ideale per progetti innovativi ma meno adatto per assessment commerciali standard.
 
-Hackmanac propone test accessibili per dispositivi consumer, smart home, wearable, sensori ambientali e gateway.
+### 5. IBM: Soluzioni integrate per la sicurezza IoT
+
+IBM fornisce soluzioni di sicurezza IoT integrate, combinando analisi dei dati e protezione delle infrastrutture critiche.
+
+**Limite:**
+Approccio più standardizzato, ideale per aziende che cercano soluzioni integrate piuttosto che personalizzate.
 
 ### 6. TIM Enterprise: Test sicurezza per IoT connessi su rete TIM
 
 TIM propone test su dispositivi connessi a reti NB-IoT o 5G su infrastruttura nazionale, con verifica cifratura e autenticazione.
 
+**Limite:**
+Focalizzata principalmente su dispositivi connessi alla propria infrastruttura di rete.
+
 ### 7. BT Italia: IoT testing per ambienti multi-sede e industriali
 
 BT offre test su ambienti distribuiti, dispositivi edge, gateway multi-protocollo, con report tecnico e operativo.
 
-### 8. Deloitte Italia: IoT security nei framework enterprise
+**Limite:**
+Più orientata a soluzioni enterprise multi-sede che a assessment tecnici approfonditi.
 
-Deloitte valuta la postura di sicurezza IoT come parte delle iniziative di cyber risk management e digital transformation.
+### 8. Deloitte: Esperienza settoriale e metodologie avanzate
+
+Deloitte offre servizi di IoT Security Assessment con un focus su metodologie avanzate e esperienza settoriale approfondita.
+
+**Limite:**
+Più adatta a grandi organizzazioni che necessitano di consulenza strategica piuttosto che di esecuzione tecnica.
 
 ### 9. PwC Italia: Assessment IoT in ambito regolamentato
 
 PwC testa dispositivi connessi in contesti finance, utility, health, con supporto a compliance ACN, ISO/IEC 27001 e MDR.
+
+**Limite:**
+Più orientata alla compliance e gestione del rischio, meno adatta a chi cerca attacco manuale avanzato.
 
 ### 10. EXEEC: Servizi white-label per MSSP e integratori
 
