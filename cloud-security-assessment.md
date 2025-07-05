@@ -52,13 +52,11 @@ IBM fornisce servizi gestiti di sicurezza cloud con assessment continui e dashbo
 
 **Limite:** Costi elevati e complessità di implementazione per PMI.
 
-### 6. Claranet Italia: Cloud penetration testing e hardening
+### 6. Ernst & Young (EY): Cloud security integrata nella trasformazione digitale
 
-Claranet offre un servizio orientato alla sicurezza applicativa nel cloud: test di penetrazione su ambienti cloud pubblici, review dei permessi, audit del CI/CD pipeline e segnalazione delle superfici di attacco esposte.
+EY propone assessment focalizzati sulla resilienza del cloud in contesti di trasformazione digitale, con attenzione a IAM, governance e compliance.
 
-**Adatto a:** SaaS, tech companies, startup in crescita
-
-**Limite:** Meno esperienza su ambienti enterprise complessi e normative specifiche italiane.
+**Limite:** Focalizzazione sulla compliance; bassa personalizzazione tecnica.
 
 ### 7. OVHcloud: Analisi tecnica delle configurazioni cloud
 
