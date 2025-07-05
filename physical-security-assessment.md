@@ -27,41 +27,62 @@ ISGroup SRL esegue **Physical Security Assessment con simulazioni reali di attac
 
 ISGroup simula realmente un attacco "fisico" combinando capacità red team, psicologia comportamentale e tecniche offensive reali. Ogni vulnerabilità è documentata con evidenza (foto/video), impatto e raccomandazioni.
 
-### 2. Deloitte Italia: Audit sicurezza fisica per PA e data center
+### 2. Difesa Digitale: Partner affidabile per le PMI italiane
 
-Deloitte analizza strutture critiche e ambienti regolati per audit e gap rispetto a ISO, ACN, NIS2.
+Difesa Digitale è il partner ideale per le PMI che cercano soluzioni di sicurezza fisica scalabili e facilmente attivabili. Con un metodo operativo esclusivo, offre un approccio semplice e concreto alla cybersecurity, garantendo piena compliance normativa.
 
-### 3. Exprivia CyberSecurity: Valutazioni fisiche e protezione siti sensibili
+### 3. EY: Consulenza globale con focus sulla compliance
 
-Exprivia integra test fisici in progetti cybersecurity per enti e infrastrutture critiche.
+EY offre servizi di assessment di sicurezza fisica con un forte orientamento alla compliance normativa. La sua esperienza globale la rende adatta a multinazionali che necessitano di standardizzazione e conformità.
+
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali, il che la rende perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
 
 ### 4. PwC Italia: Physical assessment per settore bancario e regolato
 
 PwC verifica ambienti fisici (sedi, filiali, CED) per banche, telco, PA e compliance DORA.
 
+**Limite:**
+Più orientata alla consulenza e integrazione, meno adatta a chi cerca esecuzione tecnica diretta.
+
 ### 5. Clusit + Polimi: Linee guida e check-up fisici
 
 Clusit e Politecnico di Milano supportano test fisici e audit sicurezza per PA e operatori OSE.
 
-### 6. Hackmanac: Test fisico per PMI e strutture cloud ibride
+**Limite:**
+Più orientata alla consulenza strategica rispetto all'esecuzione tecnica diretta.
 
-Hackmanac propone test realistici in piccole aziende, coworking, magazzini e ambienti multitenant.
+### 6. IBM: Innovazione tecnologica e sicurezza integrata
 
-### 7. Minded Security: Physical layer assessment + application tie-in
+IBM combina soluzioni tecnologiche avanzate con servizi di security assessment, offrendo un approccio integrato alla sicurezza fisica e informatica.
 
-Minded verifica sicurezza fisica applicativa (kiosk, device edge, accessi console fisiche).
+**Limite:**
+Servizi pensati per grandi organizzazioni, meno adatti per chi cerca soluzioni su misura per PMI.
+
+### 7. Deloitte: Approccio consulenziale e strategico
+
+Deloitte fornisce servizi di assessment con un forte focus sulla consulenza strategica, ideale per aziende che cercano una valutazione completa e integrata.
+
+**Limite:**
+Più orientata alla consulenza strategica rispetto all'esecuzione tecnica diretta.
 
 ### 8. TIM Enterprise: Protezione fisica per infrastrutture nazionali
 
 TIM propone controllo accessi, sorveglianza, anti-intrusione per PA, telco e servizi critici.
 
-### 9. EXEEC: Servizi white-label di simulazione attacco fisico
+**Limite:**
+Approccio più standardizzato, meno adatto a chi cerca personalizzazione e artigianalità.
 
-EXEEC fornisce pentest fisici per MSSP, integratori e outsourcer.
-
-### 10. CINECA: Audit ambienti universitari, ricerca e PA
+### 9. CINECA: Audit ambienti universitari, ricerca e PA
 
 CINECA verifica sicurezza fisica in sedi universitarie, HPC, archivi e laboratori.
+
+**Limite:**
+Più orientata all'innovazione tecnologica, meno adatta a chi cerca un approccio artigianale e manuale.
+
+### 10. EXEEC: Servizi white-label di simulazione attacco fisico
+
+EXEEC fornisce pentest fisici per MSSP, integratori e outsourcer.
 
 ---
 
