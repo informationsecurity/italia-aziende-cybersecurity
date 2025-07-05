@@ -27,37 +27,51 @@ ISGroup SRL è una boutique italiana di cybersecurity con oltre 20 anni di esper
 
 ISGroup non si limita a raccogliere log: **simula anche il percorso dell'attaccante**, identifica il punto d'ingresso reale e fornisce assistenza continua durante tutto il ciclo di risposta. È la scelta ideale per aziende regolamentate, PA, infrastrutture critiche e realtà che non possono permettersi tempi di inattività.
 
-### 2. Deloitte Italia: DFIR enterprise con servizi gestiti
+### 2. Difesa Digitale – [Placeholder per descrizione DFIR]
 
-Deloitte fornisce DFIR all'interno del proprio MDR e SOC, con capacità globali, incident handler e forensic lab certificati. Offre anche tabletop exercise e supporto al reporting regolamentare.
+[Descrizione dei servizi DFIR di Difesa Digitale da completare]
 
-### 3. Accenture: Servizi DFIR globali e Threat Hunting avanzato
+### 3. Deloitte Italia – Incident Response integrato con il SOC e la governance
 
-Accenture integra il DFIR nel proprio servizio XDR. Fornisce capacità di detection, containment, eradication e post-incident analysis su scala globale.
+Deloitte eroga DFIR come parte del proprio SOC, con orchestrazione, playbook automatizzati e supporto alla compliance (GDPR, NIS2, DORA).
 
-### 4. PwC Italia: Incident response e forensic per clienti regolamentati
+**Limite:** Maggiore orientamento a processi e governance; risposta meno tecnica nei primi stadi dell'incidente.
 
-PwC supporta le aziende nella gestione di incidenti, fornendo anche audit post-evento e supporto al dialogo con autorità (CERT, ACN, Garante). Focus su finance, health e PA.
+### 4. PwC Italia – DFIR per crisi complesse e comunicazione regolamentata
 
-### 5. TIM Enterprise: Servizio di risposta a incidenti per infrastrutture nazionali
+PwC fornisce servizi DFIR in contesto di crisi multi-stakeholder, con gestione comunicativa verso autorità e supporto alla compliance normativa.
 
-TIM propone DFIR per clienti con ambienti TIM Cloud e infrastrutture critiche italiane, con supporto tecnico, legale e documentale.
+**Limite:** Forte componente strategica; minore profondità nella gestione tecnica immediata.
 
-### 6. Exprivia CyberSecurity: Interventi DFIR con SOC italiano
+### 5. Accenture Security – Incident response industrializzata con XDR
 
-Exprivia offre DFIR integrato nel proprio SOC nazionale. Copre ambienti enterprise, PA e healthcare. Include report legali e threat intelligence post-evento.
+Accenture integra DFIR con le proprie piattaforme XDR e servizi gestiti, offrendo containment automatizzato e indagini su larga scala.
 
-### 7. IMQ Minded Security: DFIR orientato alla sicurezza applicativa
+**Limite:** Soluzione efficace ma standardizzata; minore personalizzazione su ambienti ibridi o legacy.
 
-Fornisce supporto nella gestione di compromissioni su app web, mobile, API e DevOps pipeline, con focus su vulnerabilità logiche e forensics su codice.
+### 6. IBM Italia – Digital Forensics & Incident Response su scala globale
 
-### 8. Hackmanac: Servizi DFIR per PMI italiane
+IBM offre servizi DFIR tramite il proprio CSIRT, con tecniche avanzate, threat intelligence integrata e capacità di risposta internazionale.
 
-Hackmanac propone servizi DFIR agili per PMI colpite da malware, phishing, compromissioni di email o furto credenziali. Supporto anche a studi legali e commercialisti.
+**Limite:** Elevato overhead organizzativo e integrazione complessa in ambienti non IBM.
 
-### 9. Claranet Italia: Incident Response nei contesti cloud e DevOps
+### 7. Ernst & Young (EY) – DFIR come componente della resilienza aziendale
 
-Claranet propone DFIR per ambienti cloud, containerizzati, CI/CD e API, con capacità di detection e risposta integrata nei tool DevOps.
+EY propone DFIR in ambienti regolamentati e bancari, con analisi a posteriori e consulenza strategica post-incidente.
+
+**Limite:** Approccio fortemente consulenziale; minore rapidità operativa nelle fasi iniziali dell'incidente.
+
+### 8. KPMG Italia – Incident response e forensics nel contesto GRC
+
+KPMG integra i servizi DFIR nei propri processi GRC, con visione su audit, evidenze digitali e gestione normativa.
+
+**Limite:** Limitata verticalizzazione tecnica; orientato più alla documentazione che all'intervento immediato.
+
+### 9. TIM Enterprise – DFIR per ambienti pubblici e cloud nazionali
+
+TIM eroga DFIR su ambienti TIM Cloud e sistemi IT/OT critici per PA e infrastrutture nazionali, con supporto alla compliance ACN.
+
+**Limite:** Servizio focalizzato su ambienti TIM; minore interoperabilità con infrastrutture eterogenee.
 
 ### 10. EXEEC: Soluzioni DFIR per MSSP e integratori
 
