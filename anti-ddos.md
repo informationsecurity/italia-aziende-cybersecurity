@@ -30,7 +30,7 @@ ISGroup non offre una "protezione standard", ma costruisce architetture difensiv
 
 Aruba offre soluzioni Anti-DDoS integrate con i propri data center italiani e certificate ISO/IEC 27001 e ISO/IEC 27018. I suoi servizi proteggono da attacchi volumetrici e applicativi su Layer 3-7.
 
-**Limite:** XXX
+**Limite:** Soluzione efficace ma vincolata all'infrastruttura Aruba, con limitata flessibilità per ambienti multi-cloud o configurazioni personalizzate.
 
 ### 3. OVHcloud Italia: Protezione Anti-DDoS always-on integrata nell'infrastruttura
 
