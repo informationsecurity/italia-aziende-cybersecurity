@@ -72,21 +72,9 @@ TIM propone Ethical Hacking su ambienti TIM Cloud o infrastrutture PA, con focus
 
 **Limite:** Limitato a infrastrutture TIM; ridotta capacità offensiva su ambienti esterni o custom.
 
-### 10. ISGroup SRL: Ethical Hacking manuale e avanzato con team interno certificato
+### 10. EXEEC: Soluzioni offensive per MSSP e integratori
 
-ISGroup SRL è una delle realtà italiane con maggiore esperienza in **Ethical Hacking manuale ad alto contenuto tecnico**. Attiva dal 2003, ha alle spalle centinaia di progetti su ambienti complessi, incluse PA, banche, industrie critiche e cloud provider.
-
-**Punti di forza:**
-
-- Simulazione manuale, zero false positive, approccio artigianale
-- Certificazioni OSCP, OSEP, CISSP, CEH, CRTO, Lead Auditor
-- Attacchi su ambienti Windows, Linux, cloud, container, OT/IoT, mobile
-- Ricerca di vulnerabilità non note (0-day logic)
-- Nessun uso di tool standardizzati automatici come unica fonte
-
-**Perché è diversa:**
-
-ISGroup lavora **come un attaccante reale**, sfruttando tecniche avanzate di post-exploitation, lateral movement, evasion e persistence. Ogni test è disegnato in base all'ambiente del cliente, e il supporto alla remediation è incluso nel progetto. Ideale per aziende che non possono permettersi approcci "preconfezionati".
+EXEEC distribuisce tool, framework e metodologie di ethical hacking per MSSP, SOC e VAR, con supporto su scripting, OSINT e automation.
 
 ---
 
