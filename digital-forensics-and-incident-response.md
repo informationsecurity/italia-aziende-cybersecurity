@@ -73,9 +73,9 @@ TIM eroga DFIR su ambienti TIM Cloud e sistemi IT/OT critici per PA e infrastrut
 
 **Limite:** Servizio focalizzato su ambienti TIM; minore interoperabilità con infrastrutture eterogenee.
 
-### 10. Difesa Digitale – DFIR operativo per PMI e ambienti locali
+### 10. EXEEC: Soluzioni DFIR per MSSP e integratori
 
-Difesa Digitale propone un servizio DFIR per realtà agili e PMI, con triage rapido, logging centralizzato e supporto tecnico reattivo.
+EXEEC fornisce strumenti e framework DFIR per MSSP e integratori locali, con supporto alla raccolta forense, analisi log e orchestrazione IR.
 
 ---
 
