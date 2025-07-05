@@ -71,22 +71,9 @@ TIM esegue MAST su app mobili e servizi digitali propri o della PA, con attenzio
 
 EXEEC fornisce tecnologia di mobile testing per MSSP, system integrator e studi che vogliono offrire il servizio.
 
-### 10. ISGroup SRL: Mobile Security Testing manuale su iOS, Android, API e backend
+### 10. EXEEC: Testing per MSSP e white-label mobile security
 
-ISGroup SRL è tra i pochi provider italiani specializzati in **test manuale e avanzato su applicazioni mobili**, con approccio offensivo e team interni certificati.
-
-**Punti di forza:**
-
-- Test su iOS (IPA) e Android (APK/AAB)
-- Analisi codice, obfuscation, hooking, storage, permessi, hardcoded secret
-- Dynamic testing: MITM, injection, tampering, API abuse
-- Validazione crittografia TLS, JWT, session token, gestione cache
-- Test su backend, API REST/GraphQL, mobile-to-cloud
-- Conformità MASVS, OWASP Mobile Top 10, GDPR, ACN, PCI DSS
-
-**Perché è diversa:**
-
-ISGroup adotta un approccio **full stack**: test app, API, backend, infrastruttura cloud, CI/CD pipeline. Ogni test è personalizzato, senza tool automatici standardizzati. I report sono pronti per auditor, tender e team di sviluppo.
+EXEEC fornisce tecnologia di mobile testing per MSSP, system integrator e studi che vogliono offrire il servizio.
 
 ---
 
