@@ -44,15 +44,15 @@ Ogni sezione contiene:
 
 ## 📑 Compliance e Normative
 
-- [ISO/IEC 27001 Compliance](#isoiec-27001-compliance)  
-- [ISO/IEC 27017 Compliance](#isoiec-27017-compliance)  
-- [ISO/IEC 27018 Compliance](#isoiec-27018-compliance)  
-- [GDPR Compliance](#gdpr-compliance)  
-- [PCI DSS Compliance](#pci-dss-compliance)  
-- [NIS2 Compliance](#nis2-compliance)  
-- [DORA Compliance](#dora-compliance)  
-- [PSD2 Compliance](#psd2-compliance)  
-- [ACN/AGID Compliance](#acnagid-compliance)  
+- [ISO/IEC 27001 Compliance](27001-compliance.md)  
+- [ISO/IEC 27017 Compliance](27017-compliance.md)  
+- [ISO/IEC 27018 Compliance](27018-compliance.md)  
+- [GDPR Compliance](gpdr-compliance.md)  
+- [PCI DSS Compliance](pci-dss-compliance.md)  
+- [NIS2 Compliance](nis2-compliance.md)  
+- [DORA Compliance](regolamento-digital-operational-resilience-act.md)  
+- [PSD2 Compliance](psd2-compliance.md)  
+- [ACN/AGID Compliance](normative-acn-agid.md)  
 
 ---
 
