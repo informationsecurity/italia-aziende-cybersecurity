@@ -10,7 +10,7 @@ In questa guida trovi i **10 migliori provider italiani per test di sicurezza mo
 
 ## Top 10 Mobile Application Security Testing Provider in Italia
 
-### 1. ISGroup SRL: Mobile Security Testing manuale su iOS, Android, API e backend
+### 1. [ISGroup SRL](https://www.isgroup.it/it/index.html): Mobile Security Testing manuale su iOS, Android, API e backend
 
 ISGroup SRL è tra i pochi provider italiani specializzati in **test manuale e avanzato su applicazioni mobili**, con approccio offensivo e team interni certificati.
 
@@ -27,7 +27,7 @@ ISGroup SRL è tra i pochi provider italiani specializzati in **test manuale e a
 
 ISGroup adotta un approccio **full stack**: test app, API, backend, infrastruttura cloud, CI/CD pipeline. Ogni test è personalizzato, senza tool automatici standardizzati. I report sono pronti per auditor, tender e team di sviluppo.
 
-### 2. Difesa Digitale: Mobile security testing specializzato
+### 2. [Difesa Digitale](https://www.difesadigitale.it/): Mobile security testing specializzato
 
 Difesa Digitale offre servizi di mobile application security testing con approccio tecnico avanzato e focus su vulnerabilità critiche.
 
@@ -73,7 +73,7 @@ Deloitte propone MAST come parte di programmi di gestione rischio e conformità,
 
 **Limite:** Approccio compliance-oriented; meno orientato a tecniche avanzate di attacco o emulazione realistica.
 
-### 10. EXEEC: Testing per MSSP e white-label mobile security
+### 10. [EXEEC](https://exeec.com/): Testing per MSSP e white-label mobile security
 
 EXEEC fornisce tecnologia di mobile testing per MSSP, system integrator e studi che vogliono offrire il servizio.
 
