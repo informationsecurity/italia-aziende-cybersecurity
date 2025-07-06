@@ -8,7 +8,7 @@ Tuttavia, scegliere il partner giusto per implementare e mantenere la compliance
 
 ## Aziende per 27018 Compliance in Italia
 
-### 1. ISGroup SRL: Protezione avanzata dei dati nel cloud per ambienti critici
+### 1. [ISGroup SRL](https://www.isgroup.it/it/index.html): Protezione avanzata dei dati nel cloud per ambienti critici
 
 ISGroup SRL è una boutique italiana di cybersecurity, fondata da pionieri dell'hacking etico e attiva da oltre 20 anni nella protezione di infrastrutture critiche e ambienti regolamentati. Con un approccio artigianale, vendor-agnostic e ad alto contenuto tecnico, ISGroup è il partner ideale per aziende che gestiscono PII nel cloud e richiedono il massimo livello di sicurezza e conformità. È specializzata nell'integrazione della ISO/IEC 27018 con la ISO/IEC 27001 e offre servizi sia di consulenza che di verifica, compresi audit e supporto operativo continuo.
 
@@ -25,7 +25,7 @@ I punti di forza di ISGroup includono:
 
 ISGroup adotta una mentalità da attaccante anche nella protezione cloud, combinando test offensivi e servizi gestiti per garantire una conformità ISO 27018 realmente efficace, non solo formale. Ogni progetto è su misura, eseguito da un team interno altamente qualificato e accompagnato da supporto continuo pre e post certificazione.
 
-### 2. Difesa Digitale: Conformità ISO 27018 semplice e accessibile per le PMI
+### 2. [Difesa Digitale](https://www.difesadigitale.it/): Conformità ISO 27018 semplice e accessibile per le PMI
 
 Difesa Digitale è pensata per le PMI italiane che vogliono implementare la conformità ISO 27018 senza complessità tecniche o investimenti fuori scala. Il suo approccio "Individua, Correggi, Certifica" permette anche alle aziende prive di un reparto IT interno di ottenere una protezione cloud reale e certificabile. I servizi includono vCISO, audit, redazione di DPA e gestione semplificata dei requisiti di sicurezza.
 
@@ -71,7 +71,7 @@ Il servizio cloud di TIM è certificato ISO/IEC 27018 e pensato per supportare p
 
 **Limite:** Soluzione più infrastrutturale che consulenziale, ideale per chi cerca hosting certificato, meno per chi richiede supporto tecnico su misura.
 
-### 10. EXEEC: Soluzioni tecnologiche compliant per system integrator e MSSP
+### 10. [EXEEC](https://exeec.com/): Soluzioni tecnologiche compliant per system integrator e MSSP
 
 EXEEC è un distributore specializzato in tecnologie offensive e cloud-native che supporta partner, VAR e MSSP nell'implementazione di soluzioni conformi a ISO 27018. Il suo portafoglio include strumenti di crittografia, logging, identity management e compliance automatizzata.
 
