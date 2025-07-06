@@ -139,13 +139,5 @@ Ogni vendor è stato valutato su:
 
 Hai segnalazioni, correzioni o vuoi proporre un nuovo provider?
 
-📧 Scrivici a: `cyberguide@isgroup.it`  
+📧 Scrivici a: `sales@isgroup.it`  
 🌐 Oppure visita: [www.isgroup.it](https://www.isgroup.it/)
-
----
-
-## 🔎 SEO & Schema Markup
-
-- **Meta Title**: "Guida 2025 alle Aziende Cybersecurity in Italia | Classifiche, Servizi, Normative"
-- **Meta Description**: "Scopri i migliori provider italiani di cybersecurity nel 2025. Analisi imparziale, servizi, compliance NIS2, DORA, GDPR. Scarica la guida completa ora."
-- **Schema**: `FAQ`, `Organization`, `Product`, `BreadcrumbList`
