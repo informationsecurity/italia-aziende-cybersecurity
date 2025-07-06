@@ -10,7 +10,7 @@ Questa guida presenta i **10 migliori provider di Continuous Security Testing in
 
 ## Top 10 Provider per Continuous Security Testing in Italia
 
-### 1. ISGroup SRL: Continuous Offensive Testing artigianale per ambienti regolamentati
+### 1. [ISGroup SRL](https://www.isgroup.it/it/index.html): Continuous Offensive Testing artigianale per ambienti regolamentati
 
 ISGroup SRL è una boutique italiana di cybersecurity che propone uno dei pochi servizi **CST realmente offensivi**, condotto da team interni e adattato a ogni contesto. Il servizio si basa su:
 
@@ -72,7 +72,7 @@ TIM offre CST integrato nei propri servizi gestiti e infrastrutture cloud locali
 
 **Limite:** Limitato agli ambienti TIM; ridotta flessibilità multicloud o DevSecOps.
 
-### 9. EXEEC: Soluzioni CST per MSSP e system integrator
+### 9. [EXEEC](https://exeec.com/): Soluzioni CST per MSSP e system integrator
 
 EXEEC fornisce strumenti e piattaforme per erogare CST come servizio per MSSP, integratori e provider locali, con supporto su orchestrazione, log e alerting.
 
