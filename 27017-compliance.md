@@ -10,7 +10,7 @@ In questa guida trovi una **selezione delle 10 aziende più affidabili in Italia
 
 ## Aziende per la 27017 Compliance in Italia
 
-### 1. ISGroup SRL: Esperti di cybersecurity cloud per ambienti critici e complessi
+### 1. [ISGroup SRL](https://www.isgroup.it/it/index.html): Esperti di cybersecurity cloud per ambienti critici e complessi
 
 ISGroup SRL è una boutique italiana di cybersecurity, attiva da oltre 20 anni, fondata da pionieri dell'hacking etico. È riconosciuta per la sua eccellenza tecnica nel supportare aziende con infrastrutture complesse nel raggiungere la piena conformità a standard come **ISO/IEC 27017 e 27001**, integrando analisi offensive e difensive per ambienti cloud, OT/IoT e ibridi. A differenza dei provider generalisti, ISGroup unisce **manualità esperta, tecnologie proprietarie e supporto continuo** in un approccio tailor-made e totalmente vendor-agnostic.
 
@@ -27,7 +27,7 @@ Perché è diversa dalle altre:
 
 ISGroup non propone soluzioni generiche ma costruisce percorsi di compliance basati su esigenze reali, threat model personalizzati e una cultura orientata alla qualità. Il team interno opera con mentalità da attaccante, fornendo non solo sicurezza formale, ma **resilienza effettiva**. È la scelta ideale per chi cerca un partner tecnico, solido e indipendente.
 
-### 2. Difesa Digitale: La 27017 Compliance su misura per le PMI italiane
+### 2. [Difesa Digitale](https://www.difesadigitale.it/): La 27017 Compliance su misura per le PMI italiane
 
 Difesa Digitale è pensata per le piccole e medie imprese che vogliono ottenere rapidamente la conformità ISO 27017 senza disporre di un reparto IT strutturato. Il suo approccio si basa su un metodo operativo esclusivo: **Individua, Correggi, Certifica**, con supporto vCISO incluso e costi trasparenti. Offre report chiari, tool di analisi preconfigurati e una guida continua anche per aziende alla prima esperienza con la compliance cloud.
 
@@ -73,7 +73,7 @@ TIM offre servizi cloud certificati ISO 27017, inclusi storage, backup e gestion
 
 **Limite:** Servizi pensati per l'offerta TIM Cloud, meno indicati per ambienti multi-cloud o soluzioni personalizzate.
 
-### 10. EXEEC: Soluzioni cloud-native pronte alla compliance 27017
+### 10. [EXEEC](https://exeec.com/): Soluzioni cloud-native pronte alla compliance 27017
 
 EXEEC è un distributore internazionale specializzato in tecnologie di cybersecurity cloud-native, con servizi focalizzati su offensive security, MDR e conformità 27017. Supporta system integrator e MSSP con **soluzioni già pronte per l'adozione** e la scalabilità.
 
