@@ -26,7 +26,7 @@ ISGroup SRL è una boutique italiana di cybersecurity attiva da oltre 20 anni, s
 
 ISGroup adotta un approccio "offensivo" alla Code Review: analizza il codice dal punto di vista di un attaccante reale, individuando exploit potenziali anche non rilevati dagli scanner automatici. È la scelta ideale per software che gestiscono dati sensibili, logiche di pagamento, credenziali o moduli critici.
 
-### 2. Difesa Digitale: Code Review semplice e solida per PMI
+### 2. [Difesa Digitale](https://www.difesadigitale.it/): Code Review semplice e solida per PMI
 
 Difesa Digitale supporta PMI senza reparto IT con un metodo chiaro: commenti inline, integrazione con pull/merge request e report semplici da comprendere, corredati da remediation base.   
 
