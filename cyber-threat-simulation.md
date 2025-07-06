@@ -26,47 +26,47 @@ ISGroup SRL propone un servizio di **Cyber Threat Simulation avanzato** (CTS) ch
 
 ISGroup adotta un approccio artigianale alla simulazione, **costruendo scenari specifici per il contesto dell'azienda**, inclusi insider threat, attacchi via supply chain o social engineering. È perfetta per banche, PA, energia, sanità e cloud provider.
 
-### 2. [Difesa Digitale](https://www.difesadigitale.it/) – Simulazioni light per awareness e risposta
+### 2. [Difesa Digitale](https://www.difesadigitale.it/): Simulazioni light per awareness e risposta
 
 Difesa Digitale propone simulazioni di minaccia su misura per PMI, con focus su phishing, social engineering, e attivazione dei processi di risposta interna.
 
-### 3. Deloitte Italia – Simulazione minacce e resilienza operativa
+### 3. Deloitte Italia: Simulazione minacce e resilienza operativa
 
 Deloitte propone threat simulation su misura per ambienti enterprise, con focus su resilienza, risposta agli incidenti e miglioramento continuo. Utilizza MITRE ATT&CK, purple teaming e analytics avanzate.
 
 **Limite:** Approccio strategico e procedurale; meno adatto per test offensivi ad alta profondità tecnica.
 
-### 4. PwC Italia – Simulazioni su scala globale e analisi di impatto
+### 4. PwC Italia: Simulazioni su scala globale e analisi di impatto
 
 PwC eroga simulazioni di minaccia in ambienti multi-country, con reportistica centralizzata, impatto business e integrazione GRC.
 
 **Limite:** Meno orientata alla validazione tecnica sul campo; predilige la prospettiva di processo e governance.
 
-### 5. Accenture Security – Simulazioni orchestrate con MITRE e automazione
+### 5. Accenture Security: Simulazioni orchestrate con MITRE e automazione
 
 Accenture propone cyber threat simulation automatizzate e orchestrate, con threat emulation e simulazioni di attacco su scala.
 
 **Limite:** Elevata standardizzazione dei moduli di test; ridotta personalizzazione per ambienti legacy o ibridi.
 
-### 6. IBM Italia – Threat simulation integrata nel SOC e nei servizi gestiti
+### 6. IBM Italia: Threat simulation integrata nel SOC e nei servizi gestiti
 
 IBM integra le simulazioni nei propri servizi SOC e XDR, con testing di detection e runbook di risposta.
 
 **Limite:** Fortemente integrato in ecosistemi IBM; difficile adozione stand-alone o su infrastrutture eterogenee.
 
-### 7. Ernst & Young (EY) – Simulazione minacce per piani di continuità
+### 7. Ernst & Young (EY): Simulazione minacce per piani di continuità
 
 EY conduce simulazioni su scenari reali e piani di crisi, con esercitazioni tabletop e attacchi simulati multi-attore.
 
 **Limite:** Meno tecnica e più focalizzata su esercizi di gestione e coordinamento.
 
-### 8. KPMG Italia – Threat simulation nel contesto enterprise risk
+### 8. KPMG Italia: Threat simulation nel contesto enterprise risk
 
 KPMG realizza esercitazioni basate su scenari reali e simulazioni APT in ambiente controllato, focalizzandosi su gap processuali.
 
 **Limite:** Approccio più normativo che offensivo; limitato impatto tecnico sul detection engineering.
 
-### 9. TIM Enterprise – Simulazione di attacchi su ambienti pubblici e privati
+### 9. TIM Enterprise: Simulazione di attacchi su ambienti pubblici e privati
 
 TIM offre simulazioni di attacco integrate nei propri ambienti cloud o hybrid gestiti, con supporto alla compliance ACN e GDPR.
 
