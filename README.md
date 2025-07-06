@@ -27,6 +27,8 @@ Ogni sezione contiene:
 
 - [Penetration Testing](penetration-test.md)  
 - [Vulnerability Assessment](vulnerability-assessment.md)  
+- [VAPT (Vulnerability Assessment and Penetration Testing)](vapt.md)  
+- [Laboratorio Accreditato VA](laboratorio-accreditato-va.md)  
 - [Web Application Penetration Testing (WAPT)](wapt.md)  
 - [Mobile Application Security Testing](mobile-application-security-testing.md)  
 - [Network Penetration Testing](network-penetration-testing.md)  
