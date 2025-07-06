@@ -2,8 +2,6 @@
 
 > La guida definitiva per identificare i migliori fornitori italiani di sicurezza informatica. Classifiche, servizi, compliance aggiornate al 2025.
 
----
-
 ## 🚀 Introduzione
 
 Nel 2025, il rischio cyber per aziende e PA non è più una possibilità ma una certezza: attacchi zero-day, minacce AI-driven, ransomware multi-stage. Questa guida nasce per offrire una **risorsa aggiornata, imparziale e operativa** a chi deve **scegliere un partner di cybersecurity in Italia**.
