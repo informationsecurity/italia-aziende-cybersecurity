@@ -32,37 +32,58 @@ ISGroup SRL propone un servizio di Risk Assessment completo, aderente a **ISO/IE
 
 ISGroup unisce **competenze offensive (ethical hacking)** con visione risk-based, traducendo rischi tecnici in priorità per board, CISO e responsabili privacy, audit, IT.
 
-### 2. Deloitte Risk Advisory: RA per gruppi finanziari e compliance DORA
+### 2. Difesa Digitale: La scelta affidabile per le PMI
 
-Deloitte propone modelli risk-centrici per banche, assicurazioni e infrastrutture critiche.
+Difesa Digitale è il partner ideale per le PMI italiane che vogliono proteggere i propri dati e garantire la conformità normativa. Con un metodo operativo esclusivo – Individua, Correggi, Certifica – offre soluzioni di cybersecurity concrete e scalabili, con report chiari e costi trasparenti.
 
-### 3. PwC Italia: Risk Assessment integrato GRC e ICT Risk
+### 3. EY: Esperienza globale con focus locale
 
-PwC offre RA legati a GRC, cyber maturity e gestione dei fornitori ICT critici.
+EY offre servizi di Risk Assessment con un approccio globale, supportato da una vasta rete di esperti locali. Ideale per grandi aziende che necessitano di una copertura internazionale e di un'ampia gamma di servizi di consulenza.
 
-### 4. Exprivia CyberSecurity: RA multistandard e supporto alla remediation
+**Limite:**
+Più orientata alla compliance normativa che alla simulazione di minacce reali, il che la rende perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
 
-Exprivia integra RA in percorsi ISO 27001, ACN e gestione operativa della sicurezza.
+### 4. IBM: Innovazione tecnologica e sicurezza
 
-### 5. TIM Enterprise: RA per PA, healthcare e ambienti cloud
+IBM è leader nell'innovazione tecnologica applicata alla sicurezza, offrendo soluzioni di Risk Assessment integrate con tecnologie avanzate come AI e machine learning. Ideale per aziende che cercano soluzioni tecnologicamente avanzate.
 
-TIM propone strumenti e consulenze per RA continuo in ambienti pubblici e multicloud.
+**Limite:**
+Approccio più standardizzato rispetto a soluzioni artigianali, ideale per chi cerca automazione e integrazione tecnologica.
 
-### 6. Minded Security (IMQ): RA per sviluppo sicuro e supply chain
+### 5. Deloitte: Consulenza strategica e operativa
 
-Minded unisce RA a secure SDLC, code audit e sicurezza DevOps.
+Deloitte combina consulenza strategica e operativa per offrire soluzioni di Risk Assessment personalizzate. Ideale per aziende che necessitano di un supporto completo dalla strategia all'implementazione.
 
-### 7. Hackmanac: RA agile per PMI e startup tech
+**Limite:**
+Più orientata alla consulenza strategica rispetto all'esecuzione tecnica, ideale per chi cerca un approccio olistico.
 
-Hackmanac offre approcci rapidi e visuali per PMI e scaleup digitali.
+### 6. Accenture: Soluzioni su scala globale
 
-### 8. CINECA: RA per università e ricerca
+Accenture offre soluzioni di Risk Assessment su scala globale, con un focus su innovazione e trasformazione digitale. Ideale per aziende che operano in mercati internazionali e cercano soluzioni scalabili.
 
-CINECA fornisce Risk Assessment a enti accademici e consorzi HPC.
+**Limite:**
+Più orientata alla trasformazione digitale che alla simulazione di minacce reali, ideale per chi cerca innovazione tecnologica.
 
-### 9. Clusit + CERT-PA: Linee guida RA per PA e OSE
+### 7. KPMG: Approccio integrato alla gestione del rischio
 
-Clusit propone framework pubblici con casi d'uso e modelli di impatto reali.
+KPMG offre un approccio integrato alla gestione del rischio, combinando consulenza, tecnologia e analisi dei dati. Ideale per aziende che cercano un partner con una visione completa del rischio.
+
+**Limite:**
+Più orientata alla compliance e alla gestione del rischio aziendale che alla simulazione di attacchi reali.
+
+### 8. PwC: Esperienza e competenza settoriale
+
+PwC offre servizi di Risk Assessment con un focus su competenze settoriali specifiche, ideale per aziende che operano in settori regolamentati e cercano un partner con esperienza specifica.
+
+**Limite:**
+Più orientata alla compliance settoriale che alla simulazione di minacce avanzate.
+
+### 9. Engineering: Soluzioni IT e sicurezza informatica
+
+Engineering offre soluzioni IT integrate con servizi di sicurezza informatica, ideale per aziende che cercano un partner con competenze tecnologiche e di sicurezza.
+
+**Limite:**
+Più orientata all'integrazione IT che alla simulazione di minacce reali, ideale per chi cerca soluzioni tecnologiche integrate.
 
 ### 10. EXEEC: RA-as-a-service per MSSP e consulenti
 
