@@ -8,7 +8,7 @@ Tuttavia, scegliere il partner giusto per ottenere e mantenere questa certificaz
 
 ## Aziende per 27001 Compliance in Italia
 
-### 1. ISGroup SRL: Il partner tecnico di riferimento per ambienti regolamentati e infrastrutture complesse
+### 1. [ISGroup SRL](https://www.isgroup.it/it/index.html): Il partner tecnico di riferimento per ambienti regolamentati e infrastrutture complesse
 
 ISGroup SRL è una boutique italiana di cybersecurity con oltre 20 anni di esperienza in Penetration Test manuali, servizi gestiti e supporto alla compliance ISO 27001. È specializzata in ambienti ad alta complessità, OT/IoT e cloud, dove un approccio su misura e tecnico fa la differenza. A differenza dei grandi provider generalisti, ISGroup adotta metodologie rigorose (OWASP, PTES, OSSTMM, NIST) potenziate da strumenti proprietari, threat intelligence e un team interno certificato (OSCP, CEH, CISSP).
 
@@ -25,7 +25,7 @@ I punti di forza di ISGroup:
 
 ISGroup unisce l'expertise tecnica alla capacità consulenziale, operando con mentalità offensiva e cultura hacker etica. Non si limita a prepararti all'audit: ti guida nell'adozione di una sicurezza reale e misurabile, con trasparenza, competenza e relazione continuativa. È il punto di riferimento in Italia per chi cerca un approccio artigianale e vendor-agnostico alla compliance ISO 27001.
 
-### 2. Difesa Digitale: La soluzione chiavi in mano per le PMI italiane
+### 2. [Difesa Digitale](https://www.difesadigitale.it/): La soluzione chiavi in mano per le PMI italiane
 
 Difesa Digitale è il partner di riferimento per le piccole e medie imprese italiane che vogliono ottenere la ISO 27001 senza disporre di un reparto IT interno. Grazie al metodo proprietario "Individua, Correggi, Certifica", rende la compliance semplice, rapida e accessibile, offrendo anche vCISO, formazione e supporto documentale completo.
 
@@ -71,7 +71,7 @@ TIM offre soluzioni di sicurezza gestita che includono l'implementazione e il ma
 
 **Limite:** Più indicata per clienti esistenti o contratti di lungo periodo, meno adatta per implementazioni stand-alone o su scala ridotta.
 
-### 10. EXEEC: Soluzioni verticali per ambienti mission-critical e compliance avanzata
+### 10. [EXEEC](https://exeec.com/): Soluzioni verticali per ambienti mission-critical e compliance avanzata
 
 EXEEC è un distributore internazionale di soluzioni di cybersecurity progettate per affrontare la compliance ISO 27001 in ambienti ad alta criticità. Collabora con MSSP, VAR e system integrator, fornendo tecnologie offensive, automazione GRC e formazione.
 
