@@ -32,37 +32,65 @@ ISGroup SRL è tra i partner più qualificati per la **compliance tecnica a DORA
 
 ISGroup integra competenze offensive e defensive in un processo strutturato, replicabile, orientato alla verifica concreta delle capacità di resilienza, come richiesto dagli articoli chiave del Regolamento DORA.
 
-### 2. Deloitte Risk Advisory: Framework completo DORA per gruppi finanziari
+### 2. Difesa Digitale: Partner affidabile per le PMI italiane
 
-Deloitte propone soluzioni strategiche, documentali e tecniche per l'adeguamento end-to-end a DORA.
+Difesa Digitale è il partner ideale per le PMI italiane che desiderano proteggere i propri dati e garantire la continuità operativa senza un reparto IT interno. Con un metodo operativo esclusivo, offre soluzioni di cybersecurity scalabili e subito attivabili.
 
 ### 3. PwC Italia: Compliance DORA con focus su governance, risk e fornitori ICT
 
 PwC guida l'adeguamento di banche, TPP e fintech con percorsi compliance DORA, NIS2, PSD2.
 
-### 4. Exprivia CyberSecurity: Test di resilienza e reporting incidenti
+Limite:
 
-Exprivia supporta l'implementazione dei controlli e dei flussi ICT incident response richiesti dal Regolamento DORA.
+Perfetta per chi cerca una copertura normativa completa, meno adatta per chi necessita di simulazioni di attacco avanzate.
+
+### 4. IBM: Soluzioni tecnologiche avanzate per la resilienza
+
+IBM fornisce soluzioni tecnologiche avanzate per l'automazione e l'ottimizzazione della conformità DORA, inclusi strumenti di reporting e dashboard personalizzati.
+
+Limite:
+
+Perfetta per chi cerca soluzioni tecnologiche integrate, meno adatta a chi necessita di un approccio manuale e personalizzato.
 
 ### 5. TIM Enterprise: Monitoraggio continuo e log retention per ambienti regolati
 
 TIM fornisce servizi gestiti per log, SOC, alerting e supporto ai flussi richiesti da DORA.
 
-### 6. Minded Security (IMQ): Testing applicativo e DevSecOps compliance
+Limite:
 
-Minded valuta la sicurezza del software, degli ambienti CI/CD e delle pipeline DevOps in ottica DORA.
+Ideale per chi cerca soluzioni IT integrate, meno adatta per chi necessita di un approccio manuale e personalizzato.
 
-### 7. Hackmanac: Compliance agile DORA per fintech e challenger bank
+### 6. Accenture: Innovazione e integrazione tecnologica
 
-Hackmanac affianca realtà digitali emergenti nella gestione rischi ICT e testing avanzato.
+Accenture supporta le aziende nell'integrazione del DORA nella strategia aziendale complessiva, allineando la resilienza operativa agli obiettivi di business.
 
-### 8. CINECA: Compliance DORA per enti universitari e PSP accademici
+Limite:
 
-CINECA fornisce supporto alla resilienza operativa digitale per ambienti educativi e di ricerca.
+Ideale per aziende che cercano innovazione tecnologica, meno adatta per chi cerca un approccio artigianale.
 
-### 9. Clusit: Linee guida e benchmarking DORA
+### 7. KPMG: Approccio consulenziale e soluzioni su misura
 
-Clusit fornisce strumenti per l'autovalutazione e la preparazione ad audit DORA con esempi e framework.
+KPMG offre un approccio consulenziale orientato alla comprensione delle esigenze specifiche del cliente e alla fornitura di soluzioni su misura per la conformità DORA.
+
+Limite:
+
+Più orientata alla consulenza strategica, meno adatta per esecuzioni tecniche avanzate.
+
+### 8. Deloitte Risk Advisory: Framework completo DORA per gruppi finanziari
+
+Deloitte propone soluzioni strategiche, documentali e tecniche per l'adeguamento end-to-end a DORA.
+
+Limite:
+
+Più adatta per istituzioni finanziarie di grandi dimensioni, meno indicata per PMI.
+
+### 9. Engineering: Soluzioni IT per la resilienza operativa
+
+Engineering fornisce soluzioni IT per la gestione dei rischi informatici integrata con le esigenze di resilienza operativa dettate dal DORA.
+
+Limite:
+
+Ideale per chi cerca soluzioni IT integrate, meno adatta per chi necessita di un approccio manuale e personalizzato.
 
 ### 10. EXEEC: Toolkit compliance DORA per integratori, MSSP e cloud provider
 
