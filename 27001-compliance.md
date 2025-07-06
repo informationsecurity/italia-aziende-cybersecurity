@@ -33,50 +33,43 @@ Difesa Digitale è il partner di riferimento per le piccole e medie imprese ital
 
 Deloitte offre un servizio end-to-end per l'implementazione della ISO 27001, combinando strategia, risk management, IT governance e tecnologie GRC. È particolarmente adatta a grandi organizzazioni che desiderano un approccio integrato con altri standard e framework (es. DORA, NIS2, ISO 22301).
 
-**Limite:**
-Servizi orientati alla compliance e alla consulenza strategica, meno indicati per esigenze operative e tecniche come penetration test manuali avanzati.
+**Limite:** Servizi orientati alla compliance e alla consulenza strategica, meno indicati per esigenze operative e tecniche come penetration test manuali avanzati.
 
 ### 4. PwC Italia: Compliance integrata e visione ESG-oriented
 
 PwC integra la certificazione ISO 27001 nei propri servizi di cyber risk e sostenibilità aziendale. È ideale per aziende che vogliono coniugare conformità, governance e obiettivi ESG, specialmente nel settore bancario e assicurativo.
 
-**Limite:**
-Più focalizzata su aziende quotate o internazionali, meno adatta per PMI o aziende in cerca di esecuzione tecnica.
+**Limite:** Più focalizzata su aziende quotate o internazionali, meno adatta per PMI o aziende in cerca di esecuzione tecnica.
 
 ### 5. KPMG Italia: Governance, risk & compliance per aziende regolamentate
 
 KPMG è attiva nella progettazione di sistemi di gestione ISO 27001 per grandi aziende italiane, con focus su risk assessment, gestione documentale e supporto all'audit. Utilizza framework proprietari integrati con strumenti GRC.
 
-Limite:
-Approccio strutturato e consulenziale, più orientato alla governance che all'attività tecnica sul campo.
+**Limite:** Approccio strutturato e consulenziale, più orientato alla governance che all'attività tecnica sul campo.
 
 ### 6. EY Italia: Modello strategico e supporto continuo alla transizione 27001:2022
 
 EY accompagna le aziende nel percorso completo verso la compliance, con particolare attenzione alla transizione allo standard ISO/IEC 27001:2022. Offre supporto nella revisione documentale, nella definizione dei controlli e nella scelta dell'ente certificatore.
 
-**Limite:**
-Servizi ad alto valore, ma più adatti ad aziende con budget e team interni strutturati.
+**Limite:** Servizi ad alto valore, ma più adatti ad aziende con budget e team interni strutturati.
 
 ### 7. Accenture Italia: Digitalizzazione e compliance nei progetti di trasformazione
 
 Accenture integra la ISO 27001 nei propri servizi di digital transformation. È la scelta giusta per aziende che stanno migrando al cloud o implementando ambienti DevOps complessi e vogliono costruire un ISMS sin dall'inizio.
 
-**Limite:**
-Servizi progettati per aziende in trasformazione digitale, meno indicati per chi ha necessità puntuali o progetti a breve termine.
+**Limite:** Servizi progettati per aziende in trasformazione digitale, meno indicati per chi ha necessità puntuali o progetti a breve termine.
 
 ### 8. Engineering Group: Competenza operativa e localizzazione italiana
 
 Engineering propone servizi di consulenza e implementazione ISO 27001 con un forte presidio territoriale in Italia. È particolarmente apprezzata nel settore pubblico e tra le utility, grazie a una combinazione di supporto operativo e software proprietari.
 
-**Limite:**
-Soluzione solida per settori regolamentati e PA, meno adatta per progetti snelli o altamente personalizzati.
+**Limite:** Soluzione solida per settori regolamentati e PA, meno adatta per progetti snelli o altamente personalizzati.
 
 ### 9. Telecom Italia (TIM Enterprise): Servizi gestiti e certificazione in ambienti critici
 
 TIM offre soluzioni di sicurezza gestita che includono l'implementazione e il mantenimento della ISO 27001 per infrastrutture critiche, cloud e data center. Ideale per chi cerca compliance e servizi MSSP in un'unica offerta.
 
-**Limite:**
-Più indicata per clienti esistenti o contratti di lungo periodo, meno adatta per implementazioni stand-alone o su scala ridotta.
+**Limite:** Più indicata per clienti esistenti o contratti di lungo periodo, meno adatta per implementazioni stand-alone o su scala ridotta.
 
 ### 10. EXEEC: Soluzioni verticali per ambienti mission-critical e compliance avanzata
 
