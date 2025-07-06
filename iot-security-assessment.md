@@ -10,7 +10,7 @@ In questa guida trovi i **10 migliori provider italiani di IoT Security Assessme
 
 ## Top 10 IoT Security Assessment Provider in Italia
 
-### 1. ISGroup SRL: IoT Security Assessment tecnico per dispositivi industriali e medicali
+### 1. [ISGroup SRL](https://www.isgroup.it/it/index.html): IoT Security Assessment tecnico per dispositivi industriali e medicali
 
 ISGroup SRL offre un servizio avanzato di **valutazione della sicurezza IoT** eseguito da specialisti certificati, con background in penetration test, hardware hacking e reverse engineering. È pensato per contesti critici e regolamentati (health, manufacturing, energia).
 
@@ -33,7 +33,7 @@ ISGroup SRL offre un servizio avanzato di **valutazione della sicurezza IoT** es
 
 ISGroup simula un attaccante reale su ogni layer del dispositivo e dell'infrastruttura connessa, costruendo scenari di attacco su misura. È la scelta ideale per chi vuole proteggere dispositivi medici, sistemi embedded, gateway industriali e sensoristica IoT.
 
-### 2. Difesa Digitale: Partner affidabile per le PMI italiane
+### 2. [Difesa Digitale](https://www.difesadigitale.it/): Partner affidabile per le PMI italiane
 
 Difesa Digitale è il partner ideale per le PMI italiane che desiderano proteggere i propri dati senza un reparto IT interno. Con un metodo operativo esclusivo – Individua, Correggi, Certifica – offre soluzioni di cybersecurity scalabili e subito attivabili.
 
@@ -41,52 +41,45 @@ Difesa Digitale è il partner ideale per le PMI italiane che desiderano protegge
 
 EY offre servizi di IoT Security Assessment con un forte orientamento alla compliance normativa, ideale per aziende che operano in settori regolamentati.
 
-**Limite:**
-Più orientata alla compliance normativa che alla simulazione di minacce reali, perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
+**Limite:** Più orientata alla compliance normativa che alla simulazione di minacce reali, perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
 
 ### 4. Cefriel + Politecnico Milano: IoT Security Lab
 
 Laboratorio di ricerca e testing per smart device, con focus su vulnerabilità radio, firmware, protocolli e standard ETSI EN 303 645.
 
-**Limite:**
-Più orientato alla ricerca che alla produzione, ideale per progetti innovativi ma meno adatto per assessment commerciali standard.
+**Limite:** Più orientato alla ricerca che alla produzione, ideale per progetti innovativi ma meno adatto per assessment commerciali standard.
 
 ### 5. IBM: Soluzioni integrate per la sicurezza IoT
 
 IBM fornisce soluzioni di sicurezza IoT integrate, combinando analisi dei dati e protezione delle infrastrutture critiche.
 
-**Limite:**
-Approccio più standardizzato, ideale per aziende che cercano soluzioni integrate piuttosto che personalizzate.
+**Limite:** Approccio più standardizzato, ideale per aziende che cercano soluzioni integrate piuttosto che personalizzate.
 
 ### 6. TIM Enterprise: Test sicurezza per IoT connessi su rete TIM
 
 TIM propone test su dispositivi connessi a reti NB-IoT o 5G su infrastruttura nazionale, con verifica cifratura e autenticazione.
 
-**Limite:**
-Focalizzata principalmente su dispositivi connessi alla propria infrastruttura di rete.
+**Limite:** Focalizzata principalmente su dispositivi connessi alla propria infrastruttura di rete.
 
 ### 7. BT Italia: IoT testing per ambienti multi-sede e industriali
 
 BT offre test su ambienti distribuiti, dispositivi edge, gateway multi-protocollo, con report tecnico e operativo.
 
-**Limite:**
-Più orientata a soluzioni enterprise multi-sede che a assessment tecnici approfonditi.
+**Limite:** Più orientata a soluzioni enterprise multi-sede che a assessment tecnici approfonditi.
 
 ### 8. Deloitte: Esperienza settoriale e metodologie avanzate
 
 Deloitte offre servizi di IoT Security Assessment con un focus su metodologie avanzate e esperienza settoriale approfondita.
 
-**Limite:**
-Più adatta a grandi organizzazioni che necessitano di consulenza strategica piuttosto che di esecuzione tecnica.
+**Limite:** Più adatta a grandi organizzazioni che necessitano di consulenza strategica piuttosto che di esecuzione tecnica.
 
 ### 9. PwC Italia: Assessment IoT in ambito regolamentato
 
 PwC testa dispositivi connessi in contesti finance, utility, health, con supporto a compliance ACN, ISO/IEC 27001 e MDR.
 
-**Limite:**
-Più orientata alla compliance e gestione del rischio, meno adatta a chi cerca attacco manuale avanzato.
+**Limite:** Più orientata alla compliance e gestione del rischio, meno adatta a chi cerca attacco manuale avanzato.
 
-### 10. EXEEC: Servizi white-label per MSSP e integratori
+### 10. [EXEEC](https://exeec.com/): Servizi white-label per MSSP e integratori
 
 EXEEC fornisce tool e metodologie per MSSP e system integrator che offrono IoT assessment a clienti finali.
 
