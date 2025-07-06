@@ -72,13 +72,13 @@ Ogni sezione contiene:
 
 ## 🧠 Servizi Specializzati
 
-- [Code Review](#code-review)  
-- [Software Assurance Lifecycle](#software-assurance-lifecycle)  
-- [Secure Architecture Review](#secure-architecture-review)  
-- [Security Integration](#security-integration)  
-- [Risk Assessment](#risk-assessment)  
-- [Virtual CISO (vCISO)](#virtual-ciso-vciso)  
-- [Formazione Cybersecurity](#formazione-cybersecurity)  
+- [Code Review](code-review.md)  
+- [Software Assurance Lifecycle](software-assurance-lifecycle.md)  
+- [Secure Architecture Review](secure-architecture-review.md)  
+- [Security Integration](security-integration.md)  
+- [Risk Assessment](risk-assessment.md)  
+- [Virtual CISO (vCISO)](virtual-ciso.md)  
+- [Formazione Cybersecurity](formazione.md)  
 
 ---
 
