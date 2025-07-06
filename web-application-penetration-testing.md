@@ -33,41 +33,62 @@ ISGroup offre **WAPT avanzato interamente manuale**, con attacco simulato su app
 
 ISGroup adotta un approccio **artigianale, attacker-oriented**, senza reliance su scanner automatici. Ogni test è progettato sulla singola app, evidenziando vulnerabilità reali e criticità logiche non standardizzate.
 
-### 2. Deloitte Italia: WAPT certificato per ambienti enterprise
+### 2. Difesa Digitale: La scelta affidabile per le PMI italiane
 
-Deloitte testa web app bancarie, assicurative e PA secondo standard PCI, NIST e DORA.
+Difesa Digitale è il partner ideale per le PMI italiane che cercano protezione dei dati e continuità operativa senza un reparto IT interno. Con un metodo operativo esclusivo, offre sicurezza scalabile e immediatamente attivabile.
 
 ### 3. TIM Enterprise: WAPT per PA e servizi pubblici
 
 TIM fornisce servizi di penetration test per portali istituzionali e ambienti cloud pubblici.
 
-### 4. Exprivia CyberSecurity: WAPT e vulnerability assessment integrato
+**Limite:**
+Più orientata a soluzioni per il settore pubblico, meno adatta per ambienti enterprise privati complessi.
 
-Exprivia propone test WAPT combinati con VA e security hardening.
+### 4. IBM: Innovazione tecnologica e sicurezza integrata
+
+IBM combina tecnologie avanzate e intelligenza artificiale per offrire soluzioni di sicurezza integrate, adatte a grandi organizzazioni.
+
+**Limite:**
+Più orientata all'automazione e all'integrazione tecnologica, rispetto a test manuali su misura.
 
 ### 5. PwC Italia: Web app testing + supporto governance DevSecOps
 
 PwC integra il WAPT con threat modeling e programmazione sicura.
 
-### 6. Hackmanac: Web security per SaaS e startup cloud-native
+**Limite:**
+Più orientata alla consulenza strategica che all'esecuzione tecnica dettagliata.
 
-Hackmanac effettua test agili per web app moderne, API-driven e serverless.
+### 6. Accenture: Soluzioni di sicurezza su scala globale
 
-### 7. Minded Security (IMQ): WAPT per applicazioni complesse e legacy
+Accenture offre soluzioni di sicurezza su scala globale, con un focus su DevSecOps e cloud-native.
 
-Minded è focalizzata su sicurezza web, CI/CD, DevOps e codice custom.
+**Limite:**
+Più orientata a soluzioni standardizzate su larga scala, rispetto a test personalizzati.
+
+### 7. KPMG: Focus sulla gestione del rischio e compliance
+
+KPMG offre servizi di penetration testing con un forte focus sulla gestione del rischio e la compliance normativa.
+
+**Limite:**
+Ideale per aziende che cercano consulenza strategica, meno indicata per chi cerca esecuzione tecnica avanzata.
 
 ### 8. CINECA: Test di sicurezza su portali universitari e accademici
 
 CINECA copre ambienti di ricerca, didattica, HPC e federazioni di accesso.
 
-### 9. Clusit + CERT-PA: Linee guida e supporto metodologico
+**Limite:**
+Specializzata in ambienti accademici e di ricerca, meno adatta per applicazioni commerciali.
 
-Clusit e CERT-PA offrono framework e assistenza per WAPT in ambito pubblico.
+### 9. Engineering: Innovazione e tecnologia per la sicurezza
 
-### 10. EXEEC: WAPT white-label per MSSP
+Engineering offre soluzioni innovative per la sicurezza delle applicazioni web, con un focus su tecnologie emergenti.
 
-EXEEC fornisce test brandizzabili per provider gestiti e integratori.
+**Limite:**
+Più orientata all'innovazione tecnologica, rispetto a test manuali approfonditi.
+
+### 10. EXEEC: Distributore di tecnologie avanzate per ambienti critici
+
+EXEEC è un distributore internazionale specializzato in soluzioni di cybersecurity per ambienti critici, supportando grandi organizzazioni con competenze verticali e compliance.
 
 ---
 
