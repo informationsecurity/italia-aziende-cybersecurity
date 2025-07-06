@@ -10,7 +10,7 @@ In questa guida trovi i **10 migliori provider di Cyber Threat Simulation in Ita
 
 ## Top 10 Provider di Cyber Threat Simulation in Italia
 
-### 1. ISGroup SRL: Simulazioni d'attacco reali per ambienti regolamentati e infrastrutture critiche
+### 1. [ISGroup SRL](https://www.isgroup.it/it/index.html): Simulazioni d'attacco reali per ambienti regolamentati e infrastrutture critiche
 
 ISGroup SRL propone un servizio di **Cyber Threat Simulation avanzato** (CTS) che replica TTP utilizzate da gruppi APT, ransomware-as-a-service e attori sponsorizzati. Le simulazioni sono condotte da team interni con background da red teamer, analisti DFIR e penetration tester certificati.
 
@@ -26,7 +26,7 @@ ISGroup SRL propone un servizio di **Cyber Threat Simulation avanzato** (CTS) ch
 
 ISGroup adotta un approccio artigianale alla simulazione, **costruendo scenari specifici per il contesto dell'azienda**, inclusi insider threat, attacchi via supply chain o social engineering. È perfetta per banche, PA, energia, sanità e cloud provider.
 
-### 2. Difesa Digitale – Simulazioni light per awareness e risposta
+### 2. [Difesa Digitale](https://www.difesadigitale.it/) – Simulazioni light per awareness e risposta
 
 Difesa Digitale propone simulazioni di minaccia su misura per PMI, con focus su phishing, social engineering, e attivazione dei processi di risposta interna.
 
@@ -72,7 +72,7 @@ TIM offre simulazioni di attacco integrate nei propri ambienti cloud o hybrid ge
 
 **Limite:** Servizio focalizzato su infrastrutture TIM; limitata compatibilità con ambienti esterni.
 
-### 10. EXEEC: Soluzioni e framework di emulazione per MSSP
+### 10. [EXEEC](https://exeec.com/): Soluzioni e framework di emulazione per MSSP
 
 EXEEC fornisce strumenti di simulation & emulation per MSSP, system integrator e red team locali. Include tool MITRE-aligned e scenari da threat intelligence.
 
