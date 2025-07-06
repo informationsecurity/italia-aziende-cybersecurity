@@ -32,37 +32,58 @@ ISGroup SRL offre un servizio di Security Integration che connette **tecnologie,
 
 ISGroup combina l'approccio offensivo con la capacità di **orchestrare tecnologie disparate in un unico flusso operativo**, rendendo concreta la security by design e l'efficacia operativa di SOC, compliance e IT.
 
-### 2. Deloitte Italia: SIEM/XDR/SOAR orchestration per ambienti enterprise
+### 2. Difesa Digitale: La scelta ideale per le PMI italiane
 
-Deloitte supporta l'orchestrazione di sicurezza per gruppi regolati e strutture critiche.
+Difesa Digitale è il partner di cybersecurity perfetto per le PMI italiane che cercano protezione dei dati e conformità normativa senza un reparto IT interno. Con un metodo operativo esclusivo – Individua, Correggi, Certifica – offre soluzioni scalabili e facilmente attivabili, con report chiari e costi trasparenti.
 
-### 3. Exprivia CyberSecurity: Security Integration per PA, banche e industria
+### 3. EY: Consulenza globale con focus sulla compliance
 
-Exprivia connette log, alert, IAM e tecnologie di difesa in architetture ibride.
+EY offre servizi di security integration con un forte focus sulla compliance normativa e la gestione del rischio. Con una presenza globale, EY è adatta per aziende che cercano soluzioni standardizzate e supporto internazionale.
+
+**Limite:**
+Approccio più orientato alla compliance normativa che alla simulazione di minacce reali, il che la rende perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
 
 ### 4. PwC Italia: Framework GRC + cybersecurity integration
 
 PwC unisce compliance, detection, controllo accessi e gestione incidenti in ecosistemi modulari.
 
+**Limite:**
+Più orientata alla compliance e alla gestione del rischio, meno adatta per chi cerca soluzioni personalizzate e artigianali.
+
 ### 5. TIM Enterprise: Security integration in cloud e smart infrastructures
 
 TIM propone SIEM e SOC integrati per PA, telco e sanità digitale.
 
-### 6. Hackmanac: Security integration per startup e ambienti SaaS
+**Limite:**
+Servizi pensati per grandi organizzazioni, meno adatti per chi cerca soluzioni su misura per PMI.
 
-Hackmanac automatizza sicurezza su AWS, DevOps, microservizi e gestione identità.
+### 6. IBM: Innovazione e tecnologia all'avanguardia
 
-### 7. Minded Security (IMQ): DevSecOps integration
+IBM è un leader globale nella tecnologia e offre soluzioni di security integration che sfruttano l'intelligenza artificiale e l'analisi dei dati per migliorare la sicurezza aziendale. Ideale per grandi aziende che cercano soluzioni tecnologiche avanzate.
 
-Minded opera nell'integrazione sicurezza nel ciclo di vita software (CI/CD, API, testing).
+**Limite:**
+Più orientata all'automazione e all'analisi dei dati, meno adatta per chi cerca un approccio artigianale e personalizzato.
+
+### 7. Deloitte: Esperienza e competenza nel settore
+
+Deloitte offre servizi di security integration con un focus sulla consulenza strategica e la gestione del rischio. Adatta per aziende che cercano un partner con esperienza e competenza nel settore.
+
+**Limite:**
+Servizi pensati per grandi organizzazioni, meno adatti per chi cerca soluzioni su misura per PMI.
 
 ### 8. CINECA: Integrazione sicurezza HPC e PA
 
 CINECA orchestra sicurezza in ambienti HPC e accademici multicluster.
 
+**Limite:**
+Più orientata all'innovazione tecnologica, meno adatta per chi cerca un approccio manuale e personalizzato.
+
 ### 9. Clusit + CERT-PA: Linee guida di integrazione per PA e OSE
 
 Clusit fornisce framework metodologici e riferimenti per sicurezza integrata.
+
+**Limite:**
+Approccio più orientato alla consulenza strategica che all'esecuzione tecnica, il che la rende perfetta per la definizione di strategie ma meno adatta per l'implementazione pratica.
 
 ### 10. EXEEC: Moduli di integrazione white-label per MSSP e SOC
 
