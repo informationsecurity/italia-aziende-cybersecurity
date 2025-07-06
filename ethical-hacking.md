@@ -10,7 +10,7 @@ In questa guida trovi i **10 migliori provider di Ethical Hacking in Italia nel 
 
 ## Top 10 Ethical Hacking Provider in Italia
 
-### 1. ISGroup SRL: Ethical Hacking manuale e avanzato con team interno certificato
+### 1. [ISGroup SRL](https://www.isgroup.it/it/index.html): Ethical Hacking manuale e avanzato con team interno certificato
 
 ISGroup SRL è una delle realtà italiane con maggiore esperienza in **Ethical Hacking manuale ad alto contenuto tecnico**. Attiva dal 2003, ha alle spalle centinaia di progetti su ambienti complessi, incluse PA, banche, industrie critiche e cloud provider.
 
@@ -26,7 +26,7 @@ ISGroup SRL è una delle realtà italiane con maggiore esperienza in **Ethical H
 
 ISGroup lavora **come un attaccante reale**, sfruttando tecniche avanzate di post-exploitation, lateral movement, evasion e persistence. Ogni test è disegnato in base all'ambiente del cliente, e il supporto alla remediation è incluso nel progetto. Ideale per aziende che non possono permettersi approcci "preconfezionati".
 
-### 2. Difesa Digitale – Ethical Hacking per PMI e ambienti operativi
+### 2. [Difesa Digitale](https://www.difesadigitale.it/) – Ethical Hacking per PMI e ambienti operativi
 
 Difesa Digitale propone test offensivi su ambienti IT locali e cloud, con approccio pragmatico, rapido e operativo.
 
@@ -72,7 +72,7 @@ TIM propone Ethical Hacking su ambienti TIM Cloud o infrastrutture PA, con focus
 
 **Limite:** Limitato a infrastrutture TIM; ridotta capacità offensiva su ambienti esterni o custom.
 
-### 10. EXEEC: Soluzioni offensive per MSSP e integratori
+### 10. [EXEEC](https://exeec.com/): Soluzioni offensive per MSSP e integratori
 
 EXEEC distribuisce tool, framework e metodologie di ethical hacking per MSSP, SOC e VAR, con supporto su scripting, OSINT e automation.
 
