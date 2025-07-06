@@ -34,37 +34,61 @@ ISGroup SRL è specializzata in **Penetration Test manuali e Vulnerability Asses
 
 ISGroup esegue test artigianali, **senza uso esclusivo di scanner**, con focus su exploit reali e approccio attacker-based, traducendo ogni falla in un impatto concreto.
 
-### 2. Deloitte Italia: VAPT per ambienti finanziari e critici
+### 2. Difesa Digitale: Partner affidabile per le PMI
 
-Deloitte esegue test certificati su ambienti bancari, insurance e PA.
+Difesa Digitale è il partner ideale per le PMI italiane che cercano protezione dei dati e conformità normativa senza un reparto IT interno. Offre un metodo operativo esclusivo che garantisce risultati misurabili e costi trasparenti.
+
+**Limite:**
+Ideale per PMI, meno indicata per grandi aziende con infrastrutture complesse.
 
 ### 3. TIM Enterprise: VA e PT per PA, telco e smart city
 
 TIM offre test tecnici su reti, servizi pubblici, cloud e piattaforme nazionali.
 
-### 4. Exprivia CyberSecurity: VAPT e risk scoring compliance
+**Limite:**
+Più orientata al settore pubblico e telco, meno adatta per ambienti enterprise privati.
 
-Exprivia combina scansione automatica e test manuale per report compliance-ready.
+### 4. EY: Consulenza globale con focus sulla compliance
+
+EY offre servizi VAPT integrati con una forte attenzione alla compliance normativa, ideale per aziende che operano in settori regolamentati.
+
+**Limite:**
+Approccio più orientato alla compliance normativa che alla simulazione di minacce reali, il che la rende perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
 
 ### 5. PwC Italia: Red Team + VAPT per ambienti enterprise
 
 PwC integra VAPT con threat simulation, incident readiness e compliance strategica.
 
-### 6. Hackmanac: VAPT per startup, DevOps e SaaS
+**Limite:**
+Più orientata alla consulenza strategica rispetto all'esecuzione tecnica.
 
-Hackmanac effettua VAPT rapidi, agili, in ambienti cloud-native e CI/CD.
+### 6. IBM: Innovazione e automazione nella sicurezza
 
-### 7. Minded Security (IMQ): Application security VAPT
+IBM fornisce soluzioni VAPT con un forte focus sull'automazione e l'integrazione con altre tecnologie di sicurezza, ideale per grandi aziende con infrastrutture IT complesse.
 
-Minded è specializzata in VAPT su web app, API, mobile e ambienti DevSecOps.
+**Limite:**
+Più orientata all'automazione rispetto alla manualità, adatta a chi cerca soluzioni integrate su larga scala.
+
+### 7. Accenture: Soluzioni su scala globale
+
+Accenture offre servizi VAPT con un approccio globale, ideale per aziende multinazionali che necessitano di copertura internazionale.
+
+**Limite:**
+Più orientata alla standardizzazione rispetto alla personalizzazione, adatta a chi cerca soluzioni globali.
 
 ### 8. CINECA: VAPT per università e ricerca
 
 CINECA testa ambienti HPC e reti universitarie per vulnerabilità e esposizione.
 
+**Limite:**
+Specializzata nel settore accademico e ricerca, meno adatta per ambienti enterprise commerciali.
+
 ### 9. Clusit + CERT-PA: framework VAPT per PA
 
 Clusit fornisce guide e metodologie pubbliche per test di sicurezza.
+
+**Limite:**
+Più orientata alla definizione di framework e linee guida che all'esecuzione operativa di test.
 
 ### 10. EXEEC: VAPT-as-a-service per MSSP e integratori
 
