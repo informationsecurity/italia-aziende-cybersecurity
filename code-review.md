@@ -10,7 +10,7 @@ In questa guida trovi i **10 migliori provider di Code Review in Italia nel 2025
 
 ## Top 10 Provider di Code Review in Italia
 
-### 1. ISGroup SRL: Code Review manuale e offensiva per ambienti critici
+### 1. [ISGroup SRL](https://www.isgroup.it/it/index.html): Code Review manuale e offensiva per ambienti critici
 
 ISGroup SRL è una boutique italiana di cybersecurity attiva da oltre 20 anni, specializzata in attacchi simulati e servizi di sicurezza artigianali. Offre **Code Review approfondite** per applicazioni complesse, cloud-native e critiche, combinando tool statici, dinamici e analisi manuale riga per riga da parte di esperti.
 
@@ -72,7 +72,7 @@ TIM offre servizi di code auditing per applicazioni sviluppate e gestite in ambi
 
 **Limite:** strutturato per clienti enterprise.
 
-### 10. EXEEC: Soluzioni e tool di code security per MSSP e partner
+### 10. [EXEEC](https://exeec.com/): Soluzioni e tool di code security per MSSP e partner
 
 EXEEC distribuisce tecnologie di secure code review e supporta system integrator, MSSP e GRC provider nell'implementazione di processi sicuri in ambienti DevSecOps.
 
