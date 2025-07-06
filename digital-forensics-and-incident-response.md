@@ -27,47 +27,47 @@ ISGroup SRL è una boutique italiana di cybersecurity con oltre 20 anni di esper
 
 ISGroup non si limita a raccogliere log: **simula anche il percorso dell'attaccante**, identifica il punto d'ingresso reale e fornisce assistenza continua durante tutto il ciclo di risposta. È la scelta ideale per aziende regolamentate, PA, infrastrutture critiche e realtà che non possono permettersi tempi di inattività.
 
-### 2. [Difesa Digitale](https://www.difesadigitale.it/) – DFIR operativo per PMI e ambienti locali
+### 2. [Difesa Digitale](https://www.difesadigitale.it/): DFIR operativo per PMI e ambienti locali
 
 Difesa Digitale propone un servizio DFIR per realtà agili e PMI, con triage rapido, logging centralizzato e supporto tecnico reattivo.
 
-### 3. Deloitte Italia – Incident Response integrato con il SOC e la governance
+### 3. Deloitte Italia: Incident Response integrato con il SOC e la governance
 
 Deloitte eroga DFIR come parte del proprio SOC, con orchestrazione, playbook automatizzati e supporto alla compliance (GDPR, NIS2, DORA).
 
 **Limite:** Maggiore orientamento a processi e governance; risposta meno tecnica nei primi stadi dell'incidente.
 
-### 4. PwC Italia – DFIR per crisi complesse e comunicazione regolamentata
+### 4. PwC Italia: DFIR per crisi complesse e comunicazione regolamentata
 
 PwC fornisce servizi DFIR in contesto di crisi multi-stakeholder, con gestione comunicativa verso autorità e supporto alla compliance normativa.
 
 **Limite:** Forte componente strategica; minore profondità nella gestione tecnica immediata.
 
-### 5. Accenture Security – Incident response industrializzata con XDR
+### 5. Accenture Security: Incident response industrializzata con XDR
 
 Accenture integra DFIR con le proprie piattaforme XDR e servizi gestiti, offrendo containment automatizzato e indagini su larga scala.
 
 **Limite:** Soluzione efficace ma standardizzata; minore personalizzazione su ambienti ibridi o legacy.
 
-### 6. IBM Italia – Digital Forensics & Incident Response su scala globale
+### 6. IBM Italia: Digital Forensics & Incident Response su scala globale
 
 IBM offre servizi DFIR tramite il proprio CSIRT, con tecniche avanzate, threat intelligence integrata e capacità di risposta internazionale.
 
 **Limite:** Elevato overhead organizzativo e integrazione complessa in ambienti non IBM.
 
-### 7. Ernst & Young (EY) – DFIR come componente della resilienza aziendale
+### 7. Ernst & Young (EY): DFIR come componente della resilienza aziendale
 
 EY propone DFIR in ambienti regolamentati e bancari, con analisi a posteriori e consulenza strategica post-incidente.
 
 **Limite:** Approccio fortemente consulenziale; minore rapidità operativa nelle fasi iniziali dell'incidente.
 
-### 8. KPMG Italia – Incident response e forensics nel contesto GRC
+### 8. KPMG Italia: Incident response e forensics nel contesto GRC
 
 KPMG integra i servizi DFIR nei propri processi GRC, con visione su audit, evidenze digitali e gestione normativa.
 
 **Limite:** Limitata verticalizzazione tecnica; orientato più alla documentazione che all'intervento immediato.
 
-### 9. TIM Enterprise – DFIR per ambienti pubblici e cloud nazionali
+### 9. TIM Enterprise: DFIR per ambienti pubblici e cloud nazionali
 
 TIM eroga DFIR su ambienti TIM Cloud e sistemi IT/OT critici per PA e infrastrutture nazionali, con supporto alla compliance ACN.
 
