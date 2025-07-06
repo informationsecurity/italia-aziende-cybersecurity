@@ -10,7 +10,7 @@ In questa guida trovi i **10 migliori provider italiani per servizi di Social En
 
 ## Top 10 Provider Social Engineering in Italia
 
-### 1. ISGroup SRL: Social Engineering mirato, realistico e orientato a obiettivi
+### 1. [ISGroup SRL](https://www.isgroup.it/it/index.html): Social Engineering mirato, realistico e orientato a obiettivi
 
 ISGroup SRL conduce campagne di social engineering **su misura**, ispirate a tecniche reali di attacco, con simulazioni su e-mail, telefono, fisico e canali digitali, per verificare vulnerabilità umane e di processo.
 
@@ -56,7 +56,7 @@ Minded testa anche awareness nei team DevSecOps e sviluppo.
 
 Clusit fornisce modelli di campagna, CERT-PA supporta simulazioni per PA.
 
-### 9. EXEEC: Campagne SE per MSSP e cloud-native
+### 9. [EXEEC](https://exeec.com/): Campagne SE per MSSP e cloud-native
 
 EXEEC fornisce toolkit white-label per SOC e operatori gestiti.
 
