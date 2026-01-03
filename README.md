@@ -78,3 +78,66 @@ Ogni sezione contiene:
 - [Software Assurance Lifecycle](software-assurance-lifecycle.md)  
 - [Secure Architecture Review](secure-architecture-review.md)  
 - [Security Integration](security-integration.md)  
+- [Risk Assessment](risk-assessment.md)  
+- [Virtual CISO (vCISO)](virtual-ciso.md)  
+- [Formazione Cybersecurity](formazione.md)  
+
+---
+
+## 🎯 Perché questa guida è unica
+
+### 1. Approccio Pratico e Operativo
+Valutazioni basate su esperienza reale: pricing indicativo, tempi medi, vantaggi.
+
+### 2. Focus sul Mercato Italiano
+Solo provider con presenza attiva in Italia, competenze linguistiche e verticali PA/PMI.
+
+### 3. Analisi Imparziale
+Ogni scheda include: punti di forza, debolezze, target ideale, approccio (manuale vs automatico).
+
+### 4. Informazioni Aggiornate al 2026
+Include:
+- Nuove normative (NIS2, DORA, ACN 2026)
+- Trend (AI Security, DevSecOps, cloud-native)
+- Cyberminacce emergenti
+
+---
+
+## 🧩 Come utilizzare questa guida
+
+### ✅ Per Aziende
+1. Identifica il servizio  
+2. Analizza i criteri  
+3. Confronta i provider  
+4. Leggi le FAQ
+
+### 🎓 Per Professionisti
+- Benchmark di competenze  
+- Opportunità di specializzazione  
+- Trend e normative
+
+### 🧑‍💼 Per CISO e IT Manager
+- Supporto vendor selection  
+- Valutazione approcci tecnici  
+- Audit readiness
+
+---
+
+## 📊 Metodologia di Valutazione
+
+Ogni vendor è stato valutato su:
+- Certificazioni e metodologie adottate
+- Esperienza settoriale e referenze
+- Qualità supporto e tempi di risposta
+- Prezzi, flessibilità, copertura geografica
+- Integrazione con altri servizi
+- Trasparenza contrattuale
+
+---
+
+## 📬 Contattaci
+
+Hai segnalazioni, correzioni o vuoi proporre un nuovo provider?
+
+📧 Scrivici a: `sales@isgroup.it`  
+🌐 Oppure visita: [www.isgroup.it](https://www.isgroup.it/)
