@@ -78,3 +78,58 @@ TIM offre servizi cloud certificati ISO 27017, inclusi storage, backup e gestion
 EXEEC è un distributore internazionale specializzato in tecnologie di cybersecurity cloud-native, con servizi focalizzati su offensive security, MDR e conformità 27017. Supporta system integrator e MSSP con **soluzioni già pronte per l'adozione** e la scalabilità.
 
 ---
+
+## Criteri di valutazione
+
+| Criterio                             | Descrizione                                                                 |
+|-------------------------------------|-----------------------------------------------------------------------------|
+| Competenze tecniche e certificazioni | Presenza di certificazioni ISO, OSCP, CISSP e esperienza cloud avanzata    |
+| Metodologie adottate                | Utilizzo di standard internazionali (ISO, NIST, OWASP) e framework GRC     |
+| Tipologia di clientela target       | PMI, grandi aziende, pubblica amministrazione, settori regolamentati       |
+| Supporto e qualità reportistica     | Supporto vCISO, audit interni, documentazione tecnica chiara               |
+| Flessibilità e scalabilità          | Capacità di adattarsi a diversi ambienti (cloud ibrido, container, MongoDB)|
+| Reputazione e referenze             | Clienti soddisfatti, case study pubblici, presenza su mercati verticali    |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è la 27017 Compliance?
+
+È la conformità allo standard ISO/IEC 27017, che definisce controlli di sicurezza specifici per i servizi cloud.
+
+### Quando e perché è necessaria?
+
+È cruciale per proteggere dati nel cloud, ridurre i rischi e rispettare normative come GDPR, DORA e NIS2.
+
+### Qual è il costo medio per ottenere la conformità?
+
+Dipende dalla dimensione, dal livello di maturità e dal provider scelto. Le boutique partono da 6.000€, i big player superano i 20.000€.
+
+### Come si sceglie il fornitore giusto?
+
+Valuta esperienza cloud, certificazioni, approccio (tailor-made o standard), referenze e supporto offerto.
+
+### Quali certificazioni sono importanti?
+
+ISO/IEC 27001, 27017, SOC 2, CISSP, OSCP, CEH.
+
+### Che differenza c'è tra ISO 27001 e ISO 27017?
+
+27001 è uno standard generale per la sicurezza delle informazioni; 27017 si applica specificamente ai servizi cloud.
+
+### Quali provider cloud sono compatibili con ISO 27017?
+
+AWS, Azure, GCP, IBM Cloud e Oracle Cloud hanno certificazioni o dichiarazioni di conformità ISO/IEC 27017.
+
+### Posso certificarmi anche se uso più provider?
+
+Sì, ma serve una strategia multi-cloud con governance unificata e controllo dei rischi.
+
+### Serve il supporto di un vCISO?
+
+È consigliabile per le PMI o le aziende senza team interno esperto in normative e sicurezza cloud.
+
+### ISGroup è adatta anche a startup?
+
+Sì, in particolare per startup con esigenze di sicurezza elevate (fintech, healthtech, SaaS cloud-native).
