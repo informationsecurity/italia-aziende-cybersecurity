@@ -78,3 +78,45 @@ TIM propone analisi tecnica su ambienti TIM Cloud e supporto alla compliance 270
 
 ### 10. [EXEEC](https://exeec.com/): Soluzioni per MSSP e provider cloud
 
+EXEEC fornisce tecnologie e servizi di assessment cloud a partner, MSSP e system integrator. Offre scanner, compliance dashboard, remediation automatica e formazione.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Profondità tecnica**         | Analisi manuale, strumenti avanzati, simulazioni reali                       |
+| **Cloud supportati**           | AWS, Azure, GCP, OCI, hybrid cloud, container, Kubernetes                    |
+| **Certificazioni e metodo**    | Conformità a ISO, NIST, CSA CCM, Zero Trust                                  |
+| **Output e reportistica**      | Executive summary + analisi tecnica + roadmap di remediation                 |
+| **Integrazione normativa**     | Supporto GDPR, NIS2, ACN, DORA, ISO/IEC 27017/18                             |
+| **Target ideale**              | PMI, enterprise, cloud provider, PA, finance, SaaS                           |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un Cloud Security Assessment (CSA)?
+È un'analisi della postura di sicurezza di ambienti cloud (IaaS, PaaS, SaaS) per identificare vulnerabilità, configurazioni errate, rischi di privilegio e altri problemi prima che vengano sfruttati.
+
+### Quali ambienti cloud sono supportati?
+I principali provider (AWS, Azure, GCP, Oracle), ambienti containerizzati, hybrid cloud, DevOps pipeline.
+
+### Quanto costa un CSA in Italia nel 2026?
+Per le PMI parte da 3.000-5.000€, per ambienti complessi può superare i 20.000€, a seconda della profondità e dell'estensione.
+
+### Il CSA è richiesto per legge?
+Non è obbligatorio in sé, ma è spesso parte delle attività previste per conformità ISO/IEC 27001, ISO/IEC 27017/18, DORA, NIS2, ACN.
+
+### Quanto dura un assessment completo?
+Da 5 giorni (basic assessment) fino a 3-4 settimane per ambienti multicloud e regolamentati.
+
+### Posso fare un CSA anche se uso SaaS?
+Sì, è consigliato. Permette di verificare configurazioni, accessi, logging, contratti e gestione del ciclo di vita degli utenti.
+
+### Che tipo di report riceverò?
+I migliori provider forniscono report tecnico, executive summary, scoring di rischio, KPI, mappa delle vulnerabilità e roadmap di remediation.
+
+### ISGroup è adatto anche per startup cloud-native?
+Sì. ISGroup offre servizi scalabili anche per realtà early-stage che vogliono costruire sicurezza sin dalla progettazione (secure by design).
