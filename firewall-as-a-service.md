@@ -78,3 +78,47 @@ PwC offre soluzioni FWaaS integrate, con un focus sulla compliance e la gestione
 
 **Limite:** Ideale per aziende in fase di trasformazione digitale, meno indicata per chi cerca soluzioni standardizzate e immediate.
 
+### 10. [EXEEC](https://exeec.com/): Soluzioni FWaaS per MSSP e integratori
+
+EXEEC fornisce tecnologia FWaaS per MSSP e system integrator, con opzioni white label, integrazione SIEM e gestione multitenant.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Gestione e supporto**        | Managed service, tuning policy, alert e log                                 |
+| **Tecnologia**                 | Filtering L7, TLS inspection, identity-aware firewall                        |
+| **Integrazione**               | SOC, SIEM, XDR, SD-WAN, Zero Trust                                           |
+| **Compliance supportata**      | ISO/IEC 27001, ACN, GDPR, NIS2, DORA                                         |
+| **Facilità d'uso**             | Portale, API, assistenza, supporto clienti                                  |
+| **Performance e scalabilità**  | Multi-tenant, traffico cifrato, bassa latenza                                |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un Firewall-as-a-Service (FWaaS)?
+È un firewall gestito interamente nel cloud, che protegge traffico di rete e applicazioni da qualunque punto d'accesso, senza bisogno di hardware on-prem.
+
+### Quali sono i vantaggi rispetto a un firewall tradizionale?
+Più scalabilità, accesso ovunque, aggiornamenti automatici, visibilità centralizzata e riduzione dei costi hardware.
+
+### Il FWaaS è adatto anche per smart working e sedi remote?
+Sì. Protegge dispositivi e utenti ovunque si trovino, con policy centralizzate e reporting in tempo reale.
+
+### ISGroup fornisce supporto anche alla configurazione iniziale?
+Sì. Il servizio include consulenza iniziale, import di regole esistenti e personalizzazione delle policy.
+
+### È possibile integrare il FWaaS con il mio SIEM o SOC?
+Sì. ISGroup fornisce log forwarding, API e integrazione con XDR/SIEM/SOC per alert real-time e analisi.
+
+### Quanto costa un servizio FWaaS?
+Dipende dal numero di utenti, sedi, traffico e funzionalità. Le soluzioni partono da circa 200€/mese per PMI, fino a 2.000€/mese per ambienti enterprise.
+
+### Il servizio è certificato secondo ISO o ACN?
+ISGroup è certificata ISO/IEC 27001 e 9001. Il servizio FWaaS è conforme alle linee guida ACN per sistemi critici.
+
+### Il firewall blocca anche attacchi in HTTPS?
+Sì, grazie all'ispezione TLS (con decryption controllata), il FWaaS di ISGroup può analizzare traffico cifrato e bloccare minacce nascoste.
