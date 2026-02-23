@@ -78,3 +78,47 @@ Deloitte offre programmi di formazione professionale per lo sviluppo di competen
 
 **Limite:** Più orientata a grandi aziende, rispetto a soluzioni personalizzate per PMI.
 
+### 10. [EXEEC](https://exeec.com/): Formazione white-label per MSSP e integratori
+
+EXEEC distribuisce contenuti formativi, slide, quiz e toolkit per MSSP che desiderano rivendere corsi cybersecurity ai propri clienti.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Target**                     | CISO, developer, IT, utenti, board, PA, PMI                                 |
+| **Contenuto**                  | Awareness, tecnica, normativa, compliance, offensive, DFIR                  |
+| **Modalità delivery**          | Aula, on-site, online, blended                                               |
+| **Validità per audit**         | Attestato, registro partecipanti, esiti test                                |
+| **Lingua**                     | Italiano, inglese                                                            |
+| **Certificazioni supportate**  | OSCP, CISSP, CEH, ISO, DPO, CISA                                             |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Perché è importante la formazione cybersecurity nel 2026?
+Perché le minacce crescono e cambiano ogni mese. Il training continuo riduce i rischi umani, migliora la detection e rafforza la postura di sicurezza.
+
+### ISGroup rilascia attestati?
+Sì. Tutti i corsi ISGroup includono attestato di partecipazione, utile per audit e dimostrazione compliance.
+
+### È possibile fare formazione su misura?
+Assolutamente. ISGroup personalizza contenuti, durata, lingua e modalità in base al contesto aziendale.
+
+### Ci sono corsi tecnici hands-on?
+Sì. ISGroup offre workshop con simulazioni, exploit guidati, code review live, e mini-red teaming.
+
+### Il training è valido ai fini della compliance?
+Sì. Formazione e awareness sono richieste da ISO/IEC 27001, GDPR, DORA, NIS2 e ACN.
+
+### Quanto costa un corso?
+Dipende da numero partecipanti, durata e contenuti. Si parte da circa 1.000€ per moduli base, fino a progetti formativi completi da 5.000€ in su.
+
+### Ci sono corsi per utenti non tecnici?
+Sì. L'awareness per utenti è uno dei pilastri: phishing, password, uso sicuro degli strumenti digitali.
+
+### ISGroup offre corsi anche in remoto?
+Sì. Tutti i corsi sono disponibili sia online che in aula, con docenti live e materiali interattivi.
