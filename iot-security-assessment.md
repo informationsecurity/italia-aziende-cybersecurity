@@ -78,3 +78,44 @@ Deloitte offre servizi di IoT Security Assessment con un focus su metodologie av
 PwC testa dispositivi connessi in contesti finance, utility, health, con supporto a compliance ACN, ISO/IEC 27001 e MDR.
 
 **Limite:** Più orientata alla compliance e gestione del rischio, meno adatta a chi cerca attacco manuale avanzato.
+
+### 10. [EXEEC](https://exeec.com/): Servizi white-label per MSSP e integratori
+
+EXEEC fornisce tool e metodologie per MSSP e system integrator che offrono IoT assessment a clienti finali.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Ambiti coperti**             | Embedded, firmware, radio, API, cloud, mobile, edge                          |
+| **Tecniche usate**             | Reverse engineering, fuzzing, hardware hacking, sniffing                     |
+| **Certificazioni**             | OSCP, OSEE, OSEP, CRTO, CEH                                                  |
+| **Compliance supportata**      | NIS2, MDR, ISO/IEC 27001, ETSI, OWASP IoT Top 10                             |
+| **Report e remediation**       | Exploit chain, CVSS, raccomandazioni tecniche, priorità                      |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un IoT Security Assessment?
+È una valutazione tecnica della sicurezza dei dispositivi IoT, firmware, comunicazioni e infrastruttura connessa.
+
+### Chi dovrebbe farlo?
+Chi sviluppa, produce o integra dispositivi IoT; aziende con ambienti OT/ICS; startup con smart product.
+
+### ISGroup effettua test anche su dispositivi medici?
+Sì. L'analisi è conforme a standard MDR, ISO 27001, e può supportare la certificazione CE.
+
+### Quanto dura un assessment?
+Da 2 a 4 settimane in base alla complessità del device, del firmware e del backend.
+
+### È obbligatorio per legge?
+Non ancora in generale, ma richiesto per prodotti MDR, tender pubblici, ambienti PA, e in contesti NIS2.
+
+### Quanto costa?
+Tra 4.000€ e 25.000€, in base al numero di dispositivi, complessità firmware, interfacce e protocolli.
+
+### ISGroup include anche app mobile?
+Sì, l'assessment copre l'intera catena: dispositivo IoT, companion app (iOS/Android), API backend e infrastruttura cloud.
