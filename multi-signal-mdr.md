@@ -78,3 +78,45 @@ Accenture combina innovazione e trasformazione digitale con soluzioni di sicurez
 
 Engineering offre soluzioni di sicurezza innovative, con un focus su tecnologia e innovazione per proteggere le infrastrutture critiche.
 
+**Limite:** Più orientata all'innovazione tecnologica, meno adatta per chi cerca soluzioni standardizzate e immediate.
+
+### 10. [EXEEC](https://exeec.com/): MDR white-label per MSSP e system integrator
+
+EXEEC fornisce MDR rivendibile per MSSP, con piattaforma log centralizzata, playbook e threat sharing.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Segnali coperti**            | EDR, rete, identity, cloud, OT, email                                       |
+| **Risposta attiva**            | Playbook, containment, escalation, forensic snapshot                        |
+| **Detection**                  | IOC, behavioral, anomaly, threat hunting                                    |
+| **Compliance supportata**      | ISO/IEC 27001, ACN, GDPR, DORA, NIS2                                        |
+| **Delivery**                   | Full-managed, co-managed, white-label                                       |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un servizio MDR Multi-Signal?
+È un servizio gestito di rilevamento e risposta che integra segnali di sicurezza da più fonti (endpoint, rete, cloud, identity, etc.) per rilevare e rispondere a minacce avanzate.
+
+### ISGroup offre MDR anche per ambienti cloud e OT?
+Sì. Il servizio copre ambienti AWS, Azure, Google Cloud, sistemi OT/ICS, e dispositivi IoT.
+
+### Il servizio è disponibile H24?
+Sì. ISGroup opera con SOC interno attivo 24/7.
+
+### Quanto costa un MDR Multi-Signal?
+Dipende da utenti, segnali, asset e servizi richiesti. Soluzioni PMI da ~800€/mese, enterprise da 3.000€/mese.
+
+### Posso usare il MDR per la compliance?
+Sì. ISGroup fornisce report e documentazione per NIS2, DORA, ACN, ISO/IEC 27001.
+
+### Serve avere già EDR o SIEM?
+No. ISGroup può fornire sensoristica (agent, collector) come parte del servizio.
+
+### Sono inclusi threat hunting e playbook?
+Sì. ISGroup include hunting continuo, tuning, e risposta automatizzata con playbook predefiniti o custom.
