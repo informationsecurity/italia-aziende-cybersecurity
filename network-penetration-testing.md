@@ -78,3 +78,47 @@ KPMG si distingue per l'adozione di metodologie rigorose e standardizzate, perfe
 CINECA esegue test per enti accademici, PA, ricerca, infrastrutture critiche e supercalcolo.
 
 **Limite:** Più orientata al mercato locale, meno indicata per chi cerca un partner con esperienza globale.
+
+### 10. [EXEEC](https://exeec.com/): Penetration Testing white-label per MSSP
+
+EXEEC fornisce framework di pentest rivendibili, tool e metodologie per system integrator e MSSP.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Ambito**                     | Interno, esterno, DMZ, cloud, hybrid, AD, OT                                |
+| **Metodo**                     | Manuale, exploitation reale, no false positive                              |
+| **Tecniche**                   | MITRE ATT&CK, red team, privilege escalation, AD attacks                    |
+| **Certificazioni**             | OSCP, CRTO, CISSP, CISA, CEH                                                |
+| **Compliance supportata**      | ISO/IEC 27001, ACN, NIS2, DORA, GDPR                                        |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un Network Penetration Test?
+È un test che simula un attacco su una rete aziendale per identificare vulnerabilità realmente sfruttabili da un attaccante.
+
+### ISGroup fa test anche su Active Directory?
+Sì. Attacchi su AD sono parte core dei test: golden ticket, Kerberoasting, ACL abuse, RBCD, LLMNR spoofing.
+
+### Il PT è fatto a mano o con tool automatici?
+Manuale. I tool servono solo a supporto. L'exploitation e la strategia sono condotte da esperti ISGroup.
+
+### Quanto costa un Penetration Test?
+Dipende da dimensione e scope. Da ~4.000€ per reti semplici, oltre 12.000€ per ambienti complessi.
+
+### Il report è adatto per auditor o board?
+Sì. ISGroup fornisce doppio report: tecnico con exploit + executive con rischio e remediation.
+
+### Il test può causare disservizi?
+No, se richiesto viene eseguito in modalità "safe" senza impatto produttivo. Possibilità di finestra di test.
+
+### Il test copre anche cloud e VPN?
+Sì. ISGroup esegue anche PT su VPN, cloud, hybrid, SD-WAN, Zero Trust Network.
+
+### Il PT è utile per la compliance?
+Assolutamente sì. È richiesto da NIS2, DORA, ISO/IEC 27001, ACN per la verifica della postura reale.
