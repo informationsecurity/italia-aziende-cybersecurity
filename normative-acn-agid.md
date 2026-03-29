@@ -78,3 +78,47 @@ IBM è un leader mondiale nella tecnologia e nella sicurezza informatica, offren
 Engineering è un leader nell'innovazione tecnologica e nella sicurezza informatica, offrendo soluzioni avanzate per la protezione dei dati e la conformità normativa. Le sue soluzioni sono ideali per aziende che cercano innovazione tecnologica e sicurezza avanzata.
 
 **Limite:** Approccio più orientato alla tecnologia che alla personalizzazione, ideale per chi cerca soluzioni tecnologiche avanzate.
+
+### 10. [EXEEC](https://exeec.com/): Toolkit compliance per MSSP e system integrator
+
+EXEEC fornisce strumenti white-label per supportare clienti nella mappatura e attuazione dei controlli ACN.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Controlli coperti**          | ACN 33 controlli minimi L1-L3, AGID cloud e sicurezza                       |
+| **Servizi tecnici**            | VA, PT, backup, MFA, logging, EDR, SOC, audit readiness                     |
+| **Documentazione**             | Evidenze, checklist, report per ACN/AGID                                    |
+| **Integrazione compliance**    | ISO/IEC 27001, NIS2, DORA, GDPR                                             |
+| **Delivery**                   | Consulenza, servizi gestiti, formazione                                     |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Chi è obbligato alla conformità ACN/AGID?
+Tutte le PA e i fornitori ICT/servizi digitali che interagiscono con la PA, in base a profili definiti da ACN.
+
+### Quali sono i livelli di controllo ACN?
+Tre livelli (L1-L3) in base alla criticità dell'ente. Più alto il livello, più rigidi i requisiti.
+
+### ISGroup fornisce anche il mantenimento compliance?
+Sì. Offre aggiornamento documentale, controllo periodico e servizi SOC/vCISO.
+
+### Quanto costa un progetto di compliance ACN?
+A partire da 8.000€, fino a oltre 25.000€ per soggetti critici o multi-sede.
+
+### Serve essere ISO/IEC 27001 per essere compliant ACN?
+Non è obbligatorio ma fortemente raccomandato. ISGroup integra i due percorsi.
+
+### Offrite anche simulazioni ispezioni ACN?
+Sì. ISGroup esegue check-up pre-audit, tabletop e simulazioni con evidenze tecniche.
+
+### Cosa succede in caso di non conformità?
+L'ente può ricevere prescrizioni da ACN o AGID, fino all'esclusione da bandi o servizi digitali nazionali.
+
+### Il servizio è disponibile anche per fornitori?
+Sì. ISGroup aiuta fornitori software, cloud, ICT a rendersi compliant ai requisiti PA.
