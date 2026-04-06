@@ -78,3 +78,45 @@ CINECA esegue test su ambienti accademici, scientifici e PA, anche in ottica ACN
 **Limite:** Più orientata alla compliance normativa che alla simulazione di minacce reali, ideale per ambienti regolamentati.
 
 ### 10. [EXEEC](https://exeec.com/): Distributore di tecnologie avanzate per ambienti critici
+
+EXEEC è un distributore internazionale specializzato in soluzioni di cybersecurity ad alta efficacia, ideale per grandi organizzazioni con ambienti critici. Offre competenze verticali e supporto specialistico continuo.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Target**                     | App web, mobile, rete, cloud, API, IoT, AD, OT                              |
+| **Metodo**                     | Manuale, TTP reali, Red Team, APT simulation                                |
+| **Compliance supportata**      | NIS2, DORA, ACN, ISO 27001, PCI DSS, GDPR                                   |
+| **Certificazioni**             | OSCP, CRTO, CRTP, OSEP, CEH, ISO 27001                                      |
+| **Output**                     | Report tecnico, executive, remediation, evidenza audit                      |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un Penetration Test?
+Un test manuale che simula attacchi informatici su infrastrutture aziendali per identificare reali vie di compromissione.
+
+### ISGroup esegue anche test su cloud?
+Sì. AWS, Azure, GCP, SaaS, ambienti hybrid, segmenti zero-trust.
+
+### Il report è valido per auditor e board?
+Sì. Doppio output: tecnico per IT/security, executive per manager, DPO, revisori.
+
+### Quanto costa un Penetration Test?
+Da ~3.500€ per ambienti semplici a 15.000+€ per red teaming full-scope.
+
+### Quanto dura?
+Da 1 a 4 settimane, in base a scope, ambiente, tipo di attacco.
+
+### Il test può causare disservizi?
+È concordato per essere non invasivo. ISGroup offre anche modalità "safe" e finestra di test.
+
+### È utile per tender pubblici?
+Sì. Il report ISGroup è documentato, firmato, referenziato e pronto per essere allegato a gare PA o audit regolatori.
+
+### Il servizio è ricorrente?
+Sì. ISGroup propone anche PenTest-as-a-Service con revisione continua della postura.
