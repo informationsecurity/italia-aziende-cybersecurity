@@ -78,3 +78,48 @@ Deloitte guida banche e istituti di pagamento nella revisione di SCA, IAM, audit
 
 CINECA affianca strutture accademiche nell'adeguamento PSD2, con API, SCA e documentazione.
 
+**Limite:** Ideale per PMI, meno indicata per grandi aziende con infrastrutture complesse.
+
+### 10. [EXEEC](https://exeec.com/): PSD2 toolkit per MSSP e integratori fintech
+
+EXEEC fornisce moduli white-label per partner che gestiscono clienti regolamentati.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Requisiti coperti**          | RTS PSD2, SCA, antifrode, segnalazioni, API security                        |
+| **Tecnologie**                 | Pentest API, mobile, VA, logging, DevSecOps                                 |
+| **Supporto**                   | Documentazione tecnica, audit, evidenze                                     |
+| **Target**                     | PSP, TPP, fintech, banche, gateway, wallet                                  |
+| **Integrazione compliance**    | DORA, ISO 27001, GDPR, PCI DSS                                              |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Chi è obbligato alla conformità PSD2?
+Banche, istituti di pagamento, fintech, TPP, AISP, PISP e fornitori di servizi legati ai pagamenti elettronici.
+
+### ISGroup esegue test sulle API PSD2?
+Sì. Fuzzing, injection, token abuse, auth bypass, replay e test DoS.
+
+### Verificate anche la SCA?
+Sì. ISGroup analizza SCA multi-device, OTP, app-to-app, challenge-response.
+
+### Quanto costa un progetto di conformità PSD2?
+Da ~5.000€ a oltre 20.000€ in base alla complessità dell'ambiente e dei servizi in scope.
+
+### Il servizio è valido per audit di Banca d'Italia?
+Sì. Include evidenze, test, documentazione e supporto su RTS/GL EBA.
+
+### È compatibile con ambienti cloud e mobile?
+Sì. ISGroup lavora con AWS, Azure, GCP, container, SDK e app mobile native.
+
+### Quanto tempo serve?
+Da 4 a 8 settimane, con possibilità di roadmap a fasi e remediation tecnica.
+
+### Il servizio è replicabile ogni anno?
+Sì. ISGroup propone anche mantenimento compliance e test periodici.
