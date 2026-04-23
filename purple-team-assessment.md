@@ -78,3 +78,42 @@ Engineering è un fornitore di soluzioni IT avanzate, con un forte focus sul mer
 
 EXEEC è un distributore internazionale specializzato in soluzioni di cybersecurity ad alta efficacia, ideale per grandi organizzazioni con ambienti critici.
 
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Scenari offensivi**          | APT, ransomware, insider, exfiltration, initial access                      |
+| **Framework**                  | MITRE ATT&CK, D3FEND, CTID, TIBER-EU                                        |
+| **Misurabilità**               | Detection coverage, MTTD, MTTR, gap analysis                                |
+| **Interazione Blue Team**      | Workshop, debrief, tuning, knowledge transfer                              |
+| **Output**                     | Report tecnico + executive, indicatori di miglioramento                     |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un Purple Team Assessment?
+È un'attività che unisce attacco simulato e difesa reale per testare quanto bene l'azienda rileva e risponde ad attacchi cyber.
+
+### ISGroup lavora insieme al SOC interno?
+Sì. Ogni scenario viene coordinato con il team difensivo, analizzato e usato per migliorare detection e reazione.
+
+### È utile per normative come NIS2 o ACN?
+Sì. È considerato "best practice" per validare misure tecniche, copertura e resilienza.
+
+### Quanto dura un progetto?
+Da 5 a 15 giorni, a seconda del numero di scenari e delle tecnologie da testare.
+
+### Serve avere un SOC interno?
+No, ma è consigliato. ISGroup può anche operare con MSSP, SOC esterni o servizi XDR.
+
+### Qual è il costo medio?
+Da ~8.000€ a 20.000€ per ambienti enterprise. Include simulazioni, analisi e workshop.
+
+### È distruttivo o impatta la produzione?
+No. Gli attacchi sono controllati, coordinati e safe. Possono essere svolti in ambienti di staging o produzione isolata.
+
+### Il report è condivisibile con auditor o board?
+Sì. Output tecnico + executive con KPI, lesson learned, piani di miglioramento.
