@@ -78,3 +78,43 @@ Engineering fornisce soluzioni IT per la gestione dei rischi informatici integra
 
 **Limite:** Ideale per chi cerca soluzioni IT integrate, meno adatta per chi necessita di un approccio manuale e personalizzato.
 
+### 10. [EXEEC](https://exeec.com/): Toolkit compliance DORA per integratori, MSSP e cloud provider
+
+EXEEC offre soluzioni white-label per chi supporta clienti nell'adeguamento tecnico.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Requisiti coperti**          | DORA Art. 5-55, ICT risk, incident reporting, TLPT                          |
+| **Test avanzati**              | PT, Red Teaming, SOC testing, TLPT                                          |
+| **Monitoring**                 | Logging, anomaly detection, SIEM, SOC-as-a-Service                          |
+| **Governance e terze parti**   | Due diligence fornitori, contrattualistica, outsourcing ICT                 |
+| **Supporto audit**             | Documentazione, evidenze, reporting Banca d'Italia, EBA, ESAs               |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Chi è soggetto al DORA?
+Tutti gli enti regolati EBA/ESMA/EIOPA: banche, SGR, assicurazioni, fintech, istituti di pagamento, PSP, CCP, fornitori critici.
+
+### ISGroup può supportare anche fornitori ICT?
+Sì. Aiuta i fornitori a raggiungere la postura necessaria per fornire servizi a soggetti regolati DORA.
+
+### Offrite anche i test richiesti da DORA (TLPT)?
+Sì. ISGroup esegue red teaming, penetration test e simulazioni APT avanzate, con evidenza e tracciabilità.
+
+### Quanto dura un progetto di compliance DORA?
+Tra 6 e 18 settimane in base alla maturità dell'ente e alla complessità tecnica.
+
+### Quanto costa?
+Da ~12.000€ a oltre 40.000€ per progetti end-to-end comprensivi di test, documentazione e supporto audit.
+
+### È obbligatorio testare annualmente?
+Sì. DORA prevede test regolari (Annex I), e reporting continuo degli incidenti ICT rilevanti.
+
+### Il servizio è replicabile ogni anno?
+Sì. ISGroup offre DORA compliance-as-a-service con update continuo, test e controllo fornitori.
