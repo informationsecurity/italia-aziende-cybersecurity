@@ -78,3 +78,43 @@ Engineering offre soluzioni IT integrate con servizi di sicurezza informatica, i
 
 **Limite:** Più orientata all'integrazione IT che alla simulazione di minacce reali, ideale per chi cerca soluzioni tecnologiche integrate.
 
+### 10. [EXEEC](https://exeec.com/): RA-as-a-service per MSSP e consulenti
+
+EXEEC fornisce modelli white-label per fornitori di servizi gestiti o di compliance.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Metodologia**                | ISO/IEC 27005, NIST RMF, DORA Art. 6-10, ACN                               |
+| **Asset coperti**              | IT, OT, cloud, DevOps, SAAS, supply chain                                   |
+| **Output**                     | RA report, risk register, piani trattamento, evidenze audit                 |
+| **Integrazione compliance**    | NIS2, ISO 27001:2022, ACN, DORA, GDPR                                       |
+| **Approccio**                  | Strategico + tecnico, threat-oriented, misurabile                           |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un Cyber Risk Assessment?
+È un processo per identificare e valutare i rischi informatici legati a tecnologie, dati e processi aziendali.
+
+### ISGroup fornisce anche supporto alla mitigazione dei rischi?
+Sì. Oltre al RA, propone roadmap, misure tecniche, test e soluzioni correttive.
+
+### Quanto dura un progetto di RA?
+Da 3 a 6 settimane, a seconda della complessità degli asset e della maturità aziendale.
+
+### Quanto costa?
+A partire da ~6.000€ per PMI, fino a oltre 25.000€ per ambienti complessi o regolati.
+
+### Il report è valido per audit ISO 27001 o ACN?
+Sì. Include evidenze, tabelle, priorità e documenti pronti per auditor interni o esterni.
+
+### Il RA è obbligatorio secondo NIS2 o DORA?
+Sì. Entrambe le normative richiedono gestione e valutazione periodica dei rischi ICT.
+
+### È replicabile annualmente?
+Sì. ISGroup propone anche RA ciclico o risk monitoring continuo.
