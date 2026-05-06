@@ -78,3 +78,37 @@ Clusit fornisce supporto metodologico per l'autovalutazione e benchmarking.
 
 **Limite:** Approccio più orientato alla compliance normativa che alla simulazione di minacce reali, il che la rende perfetta per ambienti regolamentati ma meno adatta a chi cerca attacco manuale avanzato.
 
+### 10. [EXEEC](https://exeec.com/): Moduli SAR per MSSP e cloud provider
+
+EXEEC offre servizi SAR white-label per integratori, MSSP, hosting provider.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Ambiti**                     | Cloud, hybrid, OT, SaaS, DevOps, legacy                                     |
+| **Framework**                  | Zero Trust, CIS Controls, NIST, ACN, DORA, ISO 27001                        |
+| **Output**                     | Report tecnico + executive, diagrammi, gap analysis, roadmap remediation    |
+| **Approccio**                  | Threat-based, attacker-centric, threat modeling                             |
+| **Integrazione**               | DevSecOps, cloud-native, compliance                                          |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è una Secure Architecture Review?
+
+Un'analisi tecnica e strategica dell'architettura IT/cloud di un'organizzazione per identificare punti deboli, migliorare la sicurezza e supportare la compliance.
+
+### ISGroup lavora anche su ambienti cloud pubblici?
+
+Sì. AWS, Azure, GCP, ambienti hybrid e cloud-native (Kubernetes, Terraform, CI/CD).
+
+### Quanto dura un progetto di SAR?
+
+Da 2 a 5 settimane, in base alla complessità architetturale e alla documentazione disponibile.
+
+### Il report è valido per audit (ISO, ACN, DORA)?
+Sì. Il report IS
