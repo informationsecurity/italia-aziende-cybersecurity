@@ -78,3 +78,42 @@ CINECA supporta software in HPC, università, consorzi di ricerca, grant EU.
 
 Clusit fornisce framework, esempi e metodologia per adoption best practice SAL.
 
+**Limite:** Più orientata a soluzioni tecnologiche, meno adatta a chi cerca un approccio artigianale.
+
+### 10. [EXEEC](https://exeec.com/): Tooling SAL per MSSP, integratori e DevOps
+
+EXEEC propone componenti white-label e integrazione sicurezza per software gestito.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Fasi coperte**               | Requirements, design, development, testing, deployment, maintenance         |
+| **Tool supportati**            | SAST, DAST, IAC scan, API testing, secrets check                            |
+| **Integrazione DevSecOps**     | CI/CD, repo, pipeline, container, artifact store                            |
+| **Output**                     | Remediation plan, code fix, risk register, audit evidence                   |
+| **Compliance**                 | NIS2, ISO 27001, PCI DSS, ACN, DORA, GDPR                                   |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è il Software Assurance Lifecycle?
+Un insieme di attività, processi e strumenti per garantire che il software sia sicuro durante tutto il suo ciclo di vita, dalla progettazione alla dismissione.
+
+### ISGroup lavora anche su software legacy?
+Sì. Esegue code review su software esistente, analisi reverse e validazione per compliance.
+
+### È utile per NIS2, ACN, DORA?
+Sì. SAL è fondamentale per gestire rischio software, supply chain e conformità tecnica.
+
+### Quanto costa un progetto SAL?
+Da ~7.000€ a oltre 30.000€, a seconda del numero di componenti, linguaggi, ambienti e criticità.
+
+### Offrite supporto anche per sviluppatori interni?
+Sì. Training, remediation collaborativa, threat modeling e supporto allo shift-left.
+
+### ISGroup fornisce anche tooling?
+Sì. Configura tool open source e commerciali, oltre a eseguire analisi manuali approfondite.
