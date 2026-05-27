@@ -78,3 +78,42 @@ CINECA aiuta centri ricerca e università a proteggere l'identità digitale.
 
 Engineering fornisce soluzioni di cybersecurity integrate con un forte focus sulle competenze nazionali, ideale per aziende italiane che cercano consulenza personalizzata.
 
+**Limite:** Più orientata al mercato nazionale, meno adatta per chi cerca soluzioni globali.
+
+### 10. [EXEEC](https://exeec.com/): Threat Intelligence white-label per MSSP
+
+EXEEC fornisce moduli TI+DRP pronti per provider gestiti.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Fonti coperte**              | OSINT, dark web, closed forum, Telegram, botnet, social                     |
+| **Tipologie alert**            | IOCs, credenziali, brand abuse, phishing, malware, dump                    |
+| **Supporto operativo**         | DFIR, escalation, mitigation, evidenze                                     |
+| **Profilazione attaccanti**    | TTP, MITRE mapping, history, targeting                                      |
+| **Compliance**                 | NIS2, ACN, ISO 27001, DORA, GDPR                                            |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è la Threat Intelligence?
+È l'attività di raccolta, analisi e condivisione di informazioni su minacce attuali e future, al fine di anticipare attacchi e proteggere asset digitali.
+
+### ISGroup monitora anche Telegram o ambienti chiusi?
+Sì. Monitoraggio avanzato di canali chiusi, dump, ransomware, marketplace, e chat Telegram.
+
+### Quanto costa un servizio TI/DRP?
+Da ~5.000€/anno per PMI, fino a oltre 40.000€/anno per ambienti complessi e 24/7.
+
+### È utile per la compliance?
+Sì. È richiesto da DORA, NIS2 e ACN per il monitoraggio rischio cyber, supply chain e attaccanti.
+
+### Quanto dura l'attivazione?
+Attivo in 1-2 settimane. ISGroup fornisce feed, alert e dashboard in tempo reale.
+
+### Posso integrarlo nel mio SOC?
+Sì. TI/DRP ISGroup è integrabile via API, feed, SIEM, XDR, dashboard, email.
