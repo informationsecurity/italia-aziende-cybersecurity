@@ -78,3 +78,44 @@ CINECA testa ambienti HPC e reti universitarie per vulnerabilità e esposizione.
 
 ### 9. Clusit + CERT-PA: framework VAPT per PA
 
+Clusit fornisce guide e metodologie pubbliche per test di sicurezza.
+
+**Limite:** Più orientata alla definizione di framework e linee guida che all'esecuzione operativa di test.
+
+### 10. [EXEEC](https://exeec.com/): VAPT-as-a-service per MSSP e integratori
+
+EXEEC offre test white-label per operatori MSSP, compliance e ISO readiness.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Approccio tecnico**          | Manuale, black/gray/white box, exploit-based                                |
+| **Asset testabili**            | IT, cloud, OT, IoT, web, mobile, API, SaaS                                  |
+| **Output**                     | Report tecnico + executive, evidenze, rating CVSS, roadmap remediation      |
+| **Compliance**                 | NIS2, DORA, ISO 27001, ACN, PCI DSS, GDPR, PSD2                             |
+| **Remediation**                | Supporto a fix, test post-patch, validazione tecnica                        |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un Penetration Test?
+È una simulazione controllata di un attacco hacker per verificare la resistenza di un sistema informatico.
+
+### ISGroup esegue test reali o automatizzati?
+Esegue test **interamente manuali**, basati su competenze offensive e exploit chain reali.
+
+### Il report è valido per audit ISO o ACN?
+Sì. Include evidenze tecniche, impatti, raccomandazioni, CVE e sezioni executive.
+
+### Quanto costa un VAPT?
+Da ~5.000€ a oltre 25.000€, in base a scope, asset, tipo di test e compliance richiesta.
+
+### Quanto dura un test?
+Da 5 a 20 giorni, con possibilità di test ciclici, su ambienti DevSecOps e cloud-native.
+
+### ISGroup è accreditata?
+Sì. Certificata ISO 9001, ISO/IEC 27001. Esegue test conformi OWASP, PTES, NIST, ACN.
