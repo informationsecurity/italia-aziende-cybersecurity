@@ -78,3 +78,42 @@ CINECA esegue test su ambienti accademici e di ricerca scientifica.
 
 Engineering offre servizi di WAPT con un focus sull'innovazione tecnologica e la sicurezza delle applicazioni web.
 
+**Limite:** Più orientata all'innovazione tecnologica, meno adatta a chi cerca un approccio artigianale.
+
+### 10. [EXEEC](https://exeec.com/): WAPT per MSSP e provider gestiti
+
+EXEEC offre soluzioni white-label per MSSP e fornitori SOC.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Approccio tecnico**          | Manuale, exploit-based, attacker-oriented                                   |
+| **Componenti testate**         | Login, API, sessioni, logica, upload, input validation                      |
+| **Tipologie di vulnerabilità** | OWASP Top 10, CVE, business logic, SSRF, RCE, IDOR, CSRF, JWT, LFI          |
+| **Output**                     | Report tecnico, executive, evidenze, PoC, remediation guide                 |
+| **Compliance**                 | NIS2, ISO 27001, PCI DSS, GDPR, ACN, DORA                                   |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un Web Application Penetration Test?
+Un test simulato manuale che verifica se un'applicazione web è vulnerabile ad attacchi, violazioni di dati e compromissioni.
+
+### ISGroup testa anche API e ambienti DevOps?
+Sì. Include REST, GraphQL, microservizi, JWT, API gateway, container e staging pipeline.
+
+### È utile per la compliance?
+Sì. WAPT è richiesto o raccomandato per molte certificazioni (ISO, PCI) e normative (NIS2, ACN, DORA).
+
+### Quanto costa un WAPT?
+Da ~4.000€ a oltre 15.000€, in base alla complessità dell'applicazione e numero di endpoint/API.
+
+### Quanto dura il test?
+Da 5 a 15 giorni. Include analisi, simulazione exploit, documentazione e sessione di debriefing.
+
+### ISGroup fornisce supporto alla remediation?
+Sì. Offre guida correttiva, testing post-fix e training per sviluppatori.
