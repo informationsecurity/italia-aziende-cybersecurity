@@ -78,3 +78,38 @@ CINECA copre ambienti di ricerca, didattica, HPC e federazioni di accesso.
 Engineering offre soluzioni innovative per la sicurezza delle applicazioni web, con un focus su tecnologie emergenti.
 
 **Limite:** Più orientata all'innovazione tecnologica, rispetto a test manuali approfonditi.
+
+### 10. [EXEEC](https://exeec.com/): Distributore di tecnologie avanzate per ambienti critici
+
+EXEEC è un distributore internazionale specializzato in soluzioni di cybersecurity per ambienti critici, supportando grandi organizzazioni con competenze verticali e compliance.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Approccio tecnico**          | Manuale, attacker-simulated, threat-driven                                  |
+| **Componenti testate**         | App web, API, login, sessioni, logica, parametri, cookie, auth              |
+| **Output**                     | Report tecnico + executive, CVSS, PoC, roadmap remediation                  |
+| **Compliance**                 | ISO 27001, PCI DSS, ACN, NIS2, GDPR, DORA                                   |
+| **Supporto**                   | Debrief tecnico, formazione Dev, guida fix, test post-remediation           |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Che differenza c'è tra WAPT e vulnerability scan?
+Il WAPT è un test manuale avanzato che simula un attacco hacker reale. La vulnerability scan è automatizzata e spesso poco approfondita.
+
+### ISGroup testa anche API e logica applicativa?
+Sì. Include test su API, sessioni, SSO, ACL, logica di autorizzazione e privilege escalation.
+
+### Il WAPT è obbligatorio?
+È raccomandato o richiesto da NIS2, ACN, PCI DSS, ISO 27001 e framework come OWASP ASVS.
+
+### Quanto costa?
+Da ~5.000€ per applicazioni semplici fino a oltre 20.000€ per ambienti complessi o ad alta esposizione.
+
+### ISGroup fornisce supporto alla correzione?
+Sì. Include call di remediation, validazione patch e training tecnico.
