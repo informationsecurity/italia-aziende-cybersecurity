@@ -78,3 +78,38 @@ KPMG analizza i sistemi Windows e AD nel contesto della risk governance IT, con 
 TIM propone assessment Active Directory e sistemi Windows su infrastrutture TIM o ambienti della PA, con supporto alla compliance.
 
 **Limite:** Servizio legato all'ecosistema TIM; meno indicato per ambienti ibridi multicloud.
+
+### 10. [EXEEC](https://exeec.com/): Strumenti e know-how per MSSP e integratori
+
+EXEEC fornisce framework, script e supporto tecnico per la valutazione sicurezza AD e privilege escalation a MSSP e partner.
+
+---
+
+## Criteri di valutazione
+
+| Criterio                        | Descrizione                                                                 |
+|-------------------------------|------------------------------------------------------------------------------|
+| **Approccio tecnico**          | Manuale, attacker-based, escalation path analysis                           |
+| **Componenti testate**         | Windows Server, Active Directory, M365, Azure AD, GPO, Registry, SID        |
+| **Vulnerabilità rilevate**     | Kerberoasting, Pass-the-Hash, misconfigurazioni, credenziali memorizzate   |
+| **Output**                     | Report tecnico + executive, PoC, roadmap, supporto remediation              |
+| **Compliance**                 | ISO/IEC 27001, ACN, NIS2, PCI DSS, DORA                                     |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è un Windows Security Assessment?
+È una valutazione approfondita della sicurezza di ambienti Windows, AD, M365, finalizzata a individuare vulnerabilità reali e ridurre la superficie d'attacco.
+
+### ISGroup simula anche attacchi reali?
+Sì. Utilizza tecniche di Red Teaming per identificare escalation, persistence e movimenti laterali.
+
+### È utile per la compliance?
+Sì. Fornisce evidenze tecniche e roadmap per ISO 27001, NIS2, ACN, DORA, PCI DSS.
+
+### Quanto costa?
+Da ~4.000€ a oltre 15.000€, in base alla complessità e dimensione del dominio.
+
+### Quanto dura l'assessment?
+Da 5 a 10 giorni, con sessioni tecniche, debriefing e supporto post-remediation.
