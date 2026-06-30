@@ -78,3 +78,28 @@ EXEEC distribuisce tecnologie di sicurezza wireless ad alta specializzazione, co
 | **Competenze tecniche e certificazioni** | ISO 27001, CWNA/CWSP, esperienza con Wi‑Fi 6, OT/IoT                      |
 | **Metodologie adottate**         | Monitoring passivo, WIPS/WIDS, threat intelligence                         |
 | **Tipologia di clientela target**| PMI, enterprise, industria, PA, retail, sanità                             |
+| **Supporto, SLA, report**        | Allarmi real‑time, dashboard, escalation, report tecnici/compliance-ready   |
+| **Prezzo, flessibilità, scalabilità** | Pacchetti PMI vs progetti enterprise, prezzi trasparenti, modelli abbonamento |
+| **Reputazione, casi d'uso, settori** | Referenze, progetti in contesti sanitari, industriali, finanziari          |
+
+---
+
+## Domande frequenti (FAQ)
+
+### Cos'è il Wireless Security Monitoring?
+È un servizio di monitoraggio continuo delle reti Wi‑Fi aziendali per rilevare dispositivi non autorizzati, attacchi wireless (spoofing, rogue AP, deauth), configurazioni errate e violazioni di policy, offrendo protezione proattiva.
+
+### Quando e perché è necessario?
+Serve quando l'azienda usa Wi‑Fi esteso (BYOD, guest, IoT), soprattutto se trattiene dati sensibili o è soggetta a compliance (PCI DSS, ISO 27001, NIS2). Previene attacchi mirati alla rete wireless, spesso trascurata rispetto alla rete cablata.
+
+### Qual è il costo medio?
+Da circa 2.000 €/mese per piccole sedi fino a 10.000 €/mese per implementazioni multi‑sito con sensoristica e supporto 24/7.
+
+### Come si sceglie il fornitore giusto?
+Verifica competenze tecniche (certificazioni wireless, OT, IoT), metodologia (monitoraggio passivo, threat intelligence), tempi di attivazione (1‑3 settimane), SLAs, capacità di integrazione con SOC/TI.
+
+### Quali certificazioni sono importanti?
+ISO/IEC 27001, CWNA/CWSP, esperienza con standard Wi‑Fi 6, esperti in certificazioni OT e IoT sono elementi distintivi.
+
+---
+
